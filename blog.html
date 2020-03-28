@@ -1,0 +1,25 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+tags: blog
+---
+
+<div class="home">
+  <table class="blog">
+    {% for post in site.data.blog %}
+    <tr>
+      <td>
+        <a href="{{ post.link }}"><font color="F05E23"><b>{{ post.title }}</b></font></a><br>
+    	  <font color="696969"><i>{{ post.authors }}</i></font><br>
+        {{ post.note }}
+  	  </td>
+      <td style="vertical-align:middle; width:40%;">
+		    <center><a href="{{ post.link }}">
+          <img src="{{ post.picture }}" style="max-height:250px;" />
+        </a></center>
+  	  </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>

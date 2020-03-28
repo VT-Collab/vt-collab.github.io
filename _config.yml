@@ -1,19 +1,18 @@
 # Site settings
-title: Collab
+title: collab
 email:
-author: Collab
+author: collab
 description: "Lab website in progress"
 baseurl: ""
 url: ""
 date_format: "%b %-d, %Y"
 header_pages:
- - publications.html
+ - talks.html  
+ - blog.html
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate_path: blog/page:num
-paginate: 4
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

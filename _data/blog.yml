@@ -1,0 +1,25 @@
+- title: 'When Humans Aren’t Optimal: Robots that Collaborate with Risk-Aware Humans'
+  authors: Minae and Dylan
+  picture: /images/blog/modeling-risky-humans.gif
+  note: "To create human-like robots, we need to understand how humans behave. We present a modeling approach which enables robots to anticipate that humans can make suboptimal choices when risk and uncertainty are involved."
+  link: 'http://ai.stanford.edu/blog/modeling-risky-humans/'
+
+- title: 'Controlling Assistive Robots with Learned Latent Actions'
+  authors: Dylan
+  picture: /images/blog/assistive-latent-spaces.gif
+  note: "We want to make it easier for humans to teleoperate dexterous robots. We present a learning approach that embeds high-dimensional robot actions into an intuitive, human-controllable, and low-dimensional latent space."
+  link: 'http://ai.stanford.edu/blog/assistive-latent-spaces/'
+
+- title: 'Learning from My Partner’s Actions: Roles in Decentralized Robot Teams'
+  authors: Dylan
+  picture: /images/blog/learning-from-partners.gif
+  note: "When groups robots work together, their actions communicate valuable information. We introduce a collaborative learning and control strategy that enables robots to harness the information contained within their partner's actions."
+  link: 'http://ai.stanford.edu/blog/learning-from-partners/'
+
+- title: 'Learning Robot Objectives from Physical Human Interaction'
+  authors: Andrea
+  picture: /images/blog/learning-from-interaction.gif
+  note: "Physical interactions are often intentional, purposeful corrections. We present an optimal approach for learning from these corrections, so that robots understand what we really want them to do."
+  link: 'https://bair.berkeley.edu/blog/2018/02/06/phri/'
+
+

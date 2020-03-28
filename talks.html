@@ -1,0 +1,25 @@
+---
+layout: page
+title: Talks
+permalink: /talks/
+tags: talks
+---
+
+<div class="home">
+  <table class="talks">
+    {% for talk in site.data.talks %}
+    <tr>
+      <td style="vertical-align:middle; width:60%;">
+		    <center>
+          <iframe src="{{ talk.youtube }}"></iframe>
+        </center>
+  	  </td>
+      <td>
+        <font color="F05E23"><b>{{ talk.title }}</b></font><br>
+    	  <font color="696969"><i>{{ talk.speaker }}</i></font><br>
+        {{ talk.location }}
+  	  </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
