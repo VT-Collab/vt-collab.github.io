@@ -2,3 +2,18 @@
   speaker: Minae
   location: "Robotics: Science and Systems (2020)"
   youtube: 'https://youtu.be/_tlSyFvS1iE'
+
+- title: 'Controlling Assistive Robots with Learned Latent Actions'
+  speaker: Dylan
+  location: "Amazon Research Awards (2019)"
+  youtube: 'https://youtu.be/oSyeHMjB7FY'
+
+- title: 'Learning from My Partner's Actions: Roles in Decentralized Robot Teams'
+  speaker: Dylan
+  location: "Conference on Robot Learning (2019)"
+  youtube: 'https://youtu.be/z2AykAPAY7c'
+
+- title: 'Learning Robot Objectives from Physical Human Interactions'
+  speaker: Dylan and Andrea
+  location: "Conference on Robot Learning (2017)"
+  youtube: 'https://youtu.be/9xGBaM6ZlOE'
