@@ -2,7 +2,7 @@
   authors: Mengxi Li, Dylan P. Losey, Jeannette Bohg, Dorsa Sadigh
   venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year:
-  note: ""
+  note: "in review"
   pdf: ""
   figure: ""
 
@@ -10,7 +10,23 @@
   authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
   venue: "Robotics: Science and Systems (RSS)"
   year:
-  note: ""
+  note: "in review"
+  pdf: ""
+  figure: ""
+
+- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
+  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
+  venue: "The International Journal of Robotics Research"
+  year:
+  note: "in review"
+  pdf: ""
+  figure: ""
+
+- title: "Learning the correct robot trajectory in real-time from physical human interactions"
+  authors: Dylan P. Losey, Marcia K. O'Malley
+  venue: "ACM Transactions on Human-Robot Interaction"
+  year: 2020
+  note: "in press"
   pdf: ""
   figure: ""
 
@@ -20,7 +36,7 @@
   year: 2020
   note: ""
   pdf: ""
-  figure: ""
+  figure: /images/publications/minae_hri2020.png
 
 - title: "Controlling assistive robots with learned latent actions"
   authors: Dylan P. Losey, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Dorsa Sadigh
@@ -28,7 +44,7 @@
   year: 2020
   note: ""
   pdf: ""
-  figure: ""
+  figure: /images/publications/losey_icra2020.png
 
 - title: "Learning from my partner’s actions: Roles in decentralized robot teams"
   authors: Dylan P. Losey*, Mengxi Li*, Jeannette Bohg, Dorsa Sadigh
@@ -36,7 +52,7 @@
   year: 2019
   note: ""
   pdf: ""
-  figure: ""
+  figure: /images/publications/losey_corl2019.png
 
 - title: "Asking easy questions: A user-friendly approach to active reward learning"
   authors: Erdem Biyik, Malayandi Palan, Nicholas C. Landolfi, Dylan P. Losey, Dorsa Sadigh
@@ -44,12 +60,92 @@
   year: 2019
   note: ""
   pdf: ""
-  figure: ""
+  figure: /images/publications/biyik_corl2019.png
 
 - title: "Robots that take advantage of human trust"
   authors: Dylan P. Losey, Dorsa Sadigh
   venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2019
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Improving short-term retention after robotic training by leveraging fixed-gain controllers"
+  authors: Dylan P. Losey, Laura Blumenschein, Janelle Clark, Marcia K. O'Malley
+  venue: "Journal of Rehabilitation and Assistive Technologies Engineering"
+  year: 2019
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Enabling robots to infer how end-users teach and learn through human-robot interaction"
+  authors: Dylan P. Losey, Marcia K. O'Malley
+  venue: "IEEE Robotics and Automation Letters"
+  year: 2019
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Trajectory deformations from physical human-robot interaction"
+  authors: Dylan P. Losey, Marcia K. O'Malley
+  venue: "IEEE Transactions on Robotics"
+  year: 2018
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "A review of intent detection, arbitration, and communication aspects of shared control for physical human-robot interaction"
+  authors: Dylan P. Losey, Craig G. McDonald, Edoardo Battaglia, Marcia K. O’Malley
+  venue: "Applied Mechanics Reviews"
+  year: 2018
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Including uncertainty when learning from human corrections"
+  authors: Dylan P. Losey, Marcia K. O'Malley
+  venue: "Conference on Robot Learning (CoRL)"
+  year: 2018
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Learning from physical human corrections, one feature at a time"
+  authors: Andrea Bajcsy, Dylan P. Losey, Marcia K. O’Malley, Anca D. Dragan
+  venue: "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
+  year: 2018
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Learning robot objectives from physical human interaction"
+  authors: Andrea Bajcsy*, Dylan P. Losey*, Marcia K. O’Malley, Anca D. Dragan
+  venue: "Conference on Robot Learning (CoRL)"
+  year: 2017
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Effects of discretization on the K-width of series elastic actuators"
+  authors: Dylan P. Losey, Marcia K. O'Malley
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2017
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "A time domain approach to control of series elastic actuators: Adaptive torque and passivity-based impedance control"
+  authors: Dylan P. Losey, Andrew Erwin, Craig G. McDonald, Fabrizio Sergi, Marcia K. O’Malley
+  venue: "IEEE/ASME Transactions on Mechatronics"
+  year: 2016
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Minimal assist-as-needed controller for upper limb robotic rehabilitation"
+  authors: Ali Utku Pehlivan, Dylan P. Losey, Marcia K. O'Malley
+  venue: "IEEE Transactions on Robotics"
+  year: 2016
   note: ""
   pdf: ""
   figure: ""
