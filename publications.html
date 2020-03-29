@@ -1,0 +1,31 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+tags: publications
+---
+
+{% for year in site.data.years %}
+<h2>{{ year }}</h2>
+<div>
+  <table>
+    {% for paper in site.data.publications %}
+    {% if paper.year == year %}
+    <tr>
+      <td>
+        <b>{{ paper.title }}</b><br>
+	      {{ paper.authors }}<br>
+        <i>{{ paper.venue }}</i><br>
+        {% if paper.note.size > 0 %}
+    	    {{ paper.note }}
+    	  {% endif %}
+      </td>
+      <td style="vertical-align:middle; width:30%;">
+        <center><img src="{{ paper.picture }}" style="max-height:120px; border-radius:5%;" /></center>
+      </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+  </table>
+</div>
+{% endfor %}

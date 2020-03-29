@@ -5,12 +5,12 @@ permalink: /blog/
 tags: blog
 ---
 
-<div class="home">
-  <table class="blog">
+<div>
+  <table>
     {% for post in site.data.blog %}
     <tr>
       <td>
-        <a href="{{ post.link }}"><font color="F05E23"><b>{{ post.title }}</b></font></a><br>
+        <a href="{{ post.link }}"><font color="90EE90"><b>{{ post.title }}</b></font></a><br>
     	  <font color="696969"><i>{{ post.authors }}</i></font><br>
         {{ post.note }}
   	  </td>

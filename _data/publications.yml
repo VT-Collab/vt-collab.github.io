@@ -1,0 +1,55 @@
+- title: "Learning user-preferred mappings for intuitive robot control"
+  authors: Mengxi Li, Dylan P. Losey, Jeannette Bohg, Dorsa Sadigh
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year:
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Shared autonomy with learned latent actions"
+  authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
+  venue: "Robotics: Science and Systems (RSS)"
+  year:
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
+  authors: Minae Kwon, Erdem Biyik, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
+  venue: "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
+  year: 2020
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Controlling assistive robots with learned latent actions"
+  authors: Dylan P. Losey, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Dorsa Sadigh
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2020
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Learning from my partner’s actions: Roles in decentralized robot teams"
+  authors: Dylan P. Losey*, Mengxi Li*, Jeannette Bohg, Dorsa Sadigh
+  venue: "Conference on Robot Learning (CoRL)"
+  year: 2019
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Asking easy questions: A user-friendly approach to active reward learning"
+  authors: Erdem Biyik, Malayandi Palan, Nicholas C. Landolfi, Dylan P. Losey, Dorsa Sadigh
+  venue: "Conference on Robot Learning (CoRL)"
+  year: 2019
+  note: ""
+  pdf: ""
+  figure: ""
+
+- title: "Robots that take advantage of human trust"
+  authors: Dylan P. Losey, Dorsa Sadigh
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2019
+  note: ""
+  pdf: ""
+  figure: ""
