@@ -5,19 +5,31 @@ permalink: /blog/
 tags: blog
 ---
 
+
+<style>
+  .link {
+  color: black;
+  }
+  .link:hover {
+      color: #888888;
+      text-decoration: none
+  }
+</style>
+
+
 <div>
   <table>
     {% for post in site.data.blog %}
     <tr>
       <td>
-        <a href="{{ post.link }}"><font color="90EE90"><b>{{ post.title }}</b></font></a><br>
-    	  <font color="696969"><i>{{ post.authors }}</i></font><br>
+        <a href="{{ post.link }}" class="link"><h3>{{ post.title }}</h3></a>
+    	  <font color="555555"><i>{{ post.authors }}</i></font><br>
         {{ post.note }}
   	  </td>
       <td style="vertical-align:middle; width:40%;">
-		    <center><a href="{{ post.link }}">
-          <img src="{{ post.picture }}" style="max-height:250px;" />
-        </a></center>
+		    <center><a href="{{ post.link }}" class="link">
+          <img src="{{ post.picture }}" style="max-height:250px;" /></a>
+        </center>
   	  </td>
     </tr>
     {% endfor %}
