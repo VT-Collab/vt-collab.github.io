@@ -5,6 +5,24 @@ permalink: /publications/
 tags: publications
 ---
 
+<style>
+  .button {
+  background-color: #888888;
+  border: none;
+  color: white;
+  padding: 2px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-shadow: none;
+  }
+  .button:hover {
+      background-color: #444444;
+  }
+</style>
+
+
 {% for year in site.data.years %}
 <h2>{{ year }}</h2>
 <div>
@@ -17,11 +35,16 @@ tags: publications
 	      {{ paper.authors }}<br>
         <i>{{ paper.venue }}</i><br>
         {% if paper.note.size > 0 %}
-    	    {{ paper.note }}
+    	    {{ paper.note }}<br>
     	  {% endif %}
+        {% if paper.pdf.size > 0 %}
+        <a href="{{ paper.pdf }}" style="text-decoration:none;" class="button">
+          <img src=/images/icons/paper.png style="max-height:13px;" />
+          Read Paper</a>
+        {% endif %}
       </td>
       <td style="vertical-align:middle; width:30%;">
-        <center><img src="{{ paper.figure }}" style="max-height:120px; border-radius:5%;" /></center>
+        <center><img src="{{ paper.figure }}" style="max-height:200px; border-radius:5%;" /></center>
       </td>
     </tr>
     {% endif %}

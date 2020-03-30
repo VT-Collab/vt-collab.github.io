@@ -28,7 +28,7 @@
   year: 2020
   note: "in press"
   pdf: ""
-  figure: ""
+  figure: /images/publications/losey_thri2020.jpg
 
 - title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
   authors: Minae Kwon, Erdem Biyik, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
@@ -43,7 +43,7 @@
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2020
   note: ""
-  pdf: ""
+  pdf: /pdfs/losey_icra2020.pdf
   figure: /images/publications/losey_icra2020.png
 
 - title: "Learning from my partner’s actions: Roles in decentralized robot teams"
@@ -51,7 +51,7 @@
   venue: "Conference on Robot Learning (CoRL)"
   year: 2019
   note: ""
-  pdf: ""
+  pdf: /pdfs/losey_corl2019.pdf
   figure: /images/publications/losey_corl2019.png
 
 - title: "Asking easy questions: A user-friendly approach to active reward learning"
@@ -59,7 +59,7 @@
   venue: "Conference on Robot Learning (CoRL)"
   year: 2019
   note: ""
-  pdf: ""
+  pdf: /pdfs/biyik_corl2019.pdf
   figure: /images/publications/biyik_corl2019.png
 
 - title: "Robots that take advantage of human trust"
@@ -67,85 +67,85 @@
   venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2019
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_iros2019.pdf
+  figure: /images/publications/losey_iros2019.png
 
 - title: "Improving short-term retention after robotic training by leveraging fixed-gain controllers"
   authors: Dylan P. Losey, Laura Blumenschein, Janelle Clark, Marcia K. O'Malley
   venue: "Journal of Rehabilitation and Assistive Technologies Engineering"
   year: 2019
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_rate2019.pdf
+  figure: /images/publications/losey_rate2019.png
 
 - title: "Enabling robots to infer how end-users teach and learn through human-robot interaction"
   authors: Dylan P. Losey, Marcia K. O'Malley
   venue: "IEEE Robotics and Automation Letters"
   year: 2019
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_ral2019.pdf
+  figure: /images/publications/losey_ral2019.png
 
 - title: "Trajectory deformations from physical human-robot interaction"
   authors: Dylan P. Losey, Marcia K. O'Malley
   venue: "IEEE Transactions on Robotics"
   year: 2018
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_tro2018.pdf
+  figure: /images/publications/losey_tro2018.png
 
 - title: "A review of intent detection, arbitration, and communication aspects of shared control for physical human-robot interaction"
   authors: Dylan P. Losey, Craig G. McDonald, Edoardo Battaglia, Marcia K. O’Malley
   venue: "Applied Mechanics Reviews"
   year: 2018
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_amr2018.pdf
+  figure: /images/publications/losey_amr2018.png
 
 - title: "Including uncertainty when learning from human corrections"
   authors: Dylan P. Losey, Marcia K. O'Malley
   venue: "Conference on Robot Learning (CoRL)"
   year: 2018
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_corl2018.pdf
+  figure: /images/publications/losey_corl2018.jpg
 
 - title: "Learning from physical human corrections, one feature at a time"
   authors: Andrea Bajcsy, Dylan P. Losey, Marcia K. O’Malley, Anca D. Dragan
   venue: "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
   year: 2018
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/bajcsy_hri2018.pdf
+  figure: /images/publications/bajcsy_hri2018.png
 
 - title: "Learning robot objectives from physical human interaction"
   authors: Andrea Bajcsy*, Dylan P. Losey*, Marcia K. O’Malley, Anca D. Dragan
   venue: "Conference on Robot Learning (CoRL)"
   year: 2017
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/bajcsy_corl2017.pdf
+  figure: /images/publications/bajcsy_corl2017.png
 
 - title: "Effects of discretization on the K-width of series elastic actuators"
   authors: Dylan P. Losey, Marcia K. O'Malley
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2017
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_icra2017.pdf
+  figure: /images/publications/losey_icra2017.png
 
 - title: "A time domain approach to control of series elastic actuators: Adaptive torque and passivity-based impedance control"
   authors: Dylan P. Losey, Andrew Erwin, Craig G. McDonald, Fabrizio Sergi, Marcia K. O’Malley
   venue: "IEEE/ASME Transactions on Mechatronics"
   year: 2016
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/losey_tmech2016.pdf
+  figure: /images/publications/losey_tmech2016.png
 
 - title: "Minimal assist-as-needed controller for upper limb robotic rehabilitation"
   authors: Ali Utku Pehlivan, Dylan P. Losey, Marcia K. O'Malley
   venue: "IEEE Transactions on Robotics"
   year: 2016
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/pehlivan_tro2016.pdf
+  figure: /images/publications/pehlivan_tro2016.png
