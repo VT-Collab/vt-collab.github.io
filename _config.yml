@@ -2,7 +2,7 @@
 title: collab
 email:
 author: collab
-description: "Lab website in progress"
+description: "Collaborative Robotics Lab"
 baseurl: ""
 url: "https://vt-collab.github.io/"
 date_format: "%b %-d, %Y"

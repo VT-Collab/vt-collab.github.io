@@ -25,7 +25,7 @@
 - title: "Learning the correct robot trajectory in real-time from physical human interactions"
   authors: Dylan P. Losey, Marcia K. O'Malley
   venue: "ACM Transactions on Human-Robot Interaction"
-  year: 2020
+  year:
   note: "in press"
   pdf: ""
   figure: /images/publications/losey_thri2020.jpg
@@ -35,7 +35,7 @@
   venue: "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
   year: 2020
   note: ""
-  pdf: ""
+  pdf: /pdfs/minae_hri2020.pdf
   figure: /images/publications/minae_hri2020.png
 
 - title: "Controlling assistive robots with learned latent actions"

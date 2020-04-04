@@ -9,7 +9,7 @@ tags: publications
   .button {
   background-color: #A0D4A4;
   color: white;
-  padding: 2px 10px;
+  padding: 1px 8px;
   text-align: center;
   display: inline-block;
   cursor: pointer;
@@ -28,20 +28,20 @@ tags: publications
     {% if paper.year == year %}
     <tr>
       <td>
-        <b>{{ paper.title }}</b><br>
-	      {{ paper.authors }}<br>
+        <h4>{{ paper.title }}</h4>
+	      <small>{{ paper.authors }}<br>
         <i>{{ paper.venue }}</i><br>
         {% if paper.note.size > 0 %}
     	    {{ paper.note }}<br>
     	  {% endif %}
         {% if paper.pdf.size > 0 %}
         <a href="{{ paper.pdf }}" style="text-decoration:none;" class="button">
-          <img src=/images/icons/paper.png style="max-height:13px;" />
+          <img src=/images/icons/paper.png style="max-height:12px;" />
           Read Paper</a>
-        {% endif %}
+        {% endif %}</small>
       </td>
       <td style="vertical-align:middle; width:30%;">
-        <center><img src="{{ paper.figure }}" style="max-height:200px; border-radius:5%;" /></center>
+        <center><img src="{{ paper.figure }}" style="max-height:200px; border-radius:10px;" /></center>
       </td>
     </tr>
     {% endif %}
