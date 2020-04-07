@@ -4,7 +4,7 @@ email:
 author: collab
 description: "Collaborative Robotics Lab"
 baseurl: ""
-url: "https://vt-collab.github.io/"
+url: "http://collab.me.vt.edu/"
 date_format: "%b %-d, %Y"
 header_pages:
  - publications.html
