@@ -1,0 +1,37 @@
+---
+layout: page
+title: People
+show_title: false
+permalink: /people/
+tags: people
+---
+
+
+{% for rank in site.data.ranks %}
+{% assign members = 0 %}
+{% for person in site.data.people %}
+  {% if rank.keyword == person.rank %}
+    {% assign members = 1 %}
+  {% endif %}
+{% endfor %}
+{% if members > 0 %}
+<h2>{{ rank.display }}</h2>
+<div>
+  <table>
+    {% for person in site.data.people %}
+	  {% if person.rank == rank.keyword %}
+    <tr>
+      <td width="155">
+        <img src="{{ person.picture | default: '/images/people/default.png' }}" width="150" style="border-radius:10px;" />
+      </td>
+      <td>
+        <h3>{{ person.name }}</h3>
+        {{ person.description }}
+      </td>
+    </tr>
+	  {% endif %}
+    {% endfor %}
+  </table>
+{% endif %}
+</div>
+{% endfor %}

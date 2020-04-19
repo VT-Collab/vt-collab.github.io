@@ -1,0 +1,8 @@
+- keyword: 'leader'
+  display: 'Group Leader'
+- keyword: 'postdoc'
+  display: 'Postdocs and Visiting Scholars'
+- keyword: 'grad'
+  display: 'Graduate Students'
+- keyword: 'undergrad'
+  display: 'Undergraduate Students'
