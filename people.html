@@ -1,10 +1,29 @@
 ---
 layout: page
 title: People
-show_title: false
+show_title: true
 permalink: /people/
 tags: people
 ---
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<style>
+  .btn {
+  background-color: #A0D4A4;
+  color: white;
+  padding: 0px 4px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 6px
+  }
+  .btn:hover {
+      background-color: #999;
+  }
+</style>
 
 
 {% for rank in site.data.ranks %}
@@ -27,6 +46,10 @@ tags: people
       <td>
         <h3>{{ person.name }}</h3>
         {{ person.description }}
+        {% if person.website.size > 0 %}
+        <br><small><a href="{{ person.website }}" style="text-decoration:none;"><button class="btn">
+          <i class="fa fa-external-link"></i> Personal Website</button></a></small>
+        {% endif %}
       </td>
     </tr>
 	  {% endif %}

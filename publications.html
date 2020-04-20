@@ -6,8 +6,12 @@ permalink: /publications/
 tags: publications
 ---
 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <style>
-  .button {
+  .btn {
   background-color: #A0D4A4;
   color: white;
   padding: 0px 4px;
@@ -16,7 +20,7 @@ tags: publications
   cursor: pointer;
   border-radius: 6px
   }
-  .button:hover {
+  .btn:hover {
       background-color: #999;
   }
 </style>
@@ -37,9 +41,8 @@ tags: publications
     	    {{ paper.note }}<br>
     	  {% endif %}
         {% if paper.pdf.size > 0 %}
-        <a href="{{ paper.pdf }}" style="text-decoration:none;" class="button">
-          <img src=/images/icons/paper.png style="height:8pt;" />
-          Read Paper</a>
+        <a href="{{ paper.pdf }}" style="text-decoration:none;"><button class="btn">
+          <i class="fa fa-puzzle-piece"></i> Read Paper</button></a>
         {% endif %}</small>
       </td>
       <td style="vertical-align:middle; width:30%;">
