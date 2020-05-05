@@ -22,14 +22,6 @@
   pdf: ""
   figure: ""
 
-- title: "Learning the correct robot trajectory in real-time from physical human interactions"
-  authors: Dylan P. Losey, Marcia K. O'Malley
-  venue: "ACM Transactions on Human-Robot Interaction"
-  year: 2020
-  note: ""
-  pdf: /pdfs/losey_thri2020.pdf
-  figure: /images/publications/losey_thri2020.jpg
-
 - title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
   authors: Minae Kwon, Erdem Biyik, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
   venue: "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
@@ -46,6 +38,14 @@
   pdf: /pdfs/losey_icra2020.pdf
   figure: /images/publications/losey_icra2020.png
 
+- title: "Learning the correct robot trajectory in real-time from physical human interactions"
+  authors: Dylan P. Losey, Marcia K. O'Malley
+  venue: "ACM Transactions on Human-Robot Interaction"
+  year: 2019
+  note: ""
+  pdf: /pdfs/losey_thri2020.pdf
+  figure: /images/publications/losey_thri2020.jpg
+  
 - title: "Learning from my partner’s actions: Roles in decentralized robot teams"
   authors: Dylan P. Losey*, Mengxi Li*, Jeannette Bohg, Dorsa Sadigh
   venue: "Conference on Robot Learning (CoRL)"
