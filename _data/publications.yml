@@ -25,9 +25,9 @@
 - title: "Learning the correct robot trajectory in real-time from physical human interactions"
   authors: Dylan P. Losey, Marcia K. O'Malley
   venue: "ACM Transactions on Human-Robot Interaction"
-  year:
-  note: "in press"
-  pdf: ""
+  year: 2020
+  note: ""
+  pdf: /pdfs/losey_thri2020.pdf
   figure: /images/publications/losey_thri2020.jpg
 
 - title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
