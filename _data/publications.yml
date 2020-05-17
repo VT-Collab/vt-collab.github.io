@@ -6,14 +6,6 @@
   pdf: ""
   figure: ""
 
-- title: "Shared autonomy with learned latent actions"
-  authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
-  venue: "Robotics: Science and Systems (RSS)"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
-
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
   authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
   venue: "The International Journal of Robotics Research"
@@ -21,6 +13,14 @@
   note: "in review"
   pdf: ""
   figure: ""
+
+- title: "Shared autonomy with learned latent actions"
+  authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
+  venue: "Robotics: Science and Systems (RSS)"
+  year: 2020
+  note: ""
+  pdf: /pdfs/jeon_rss2020.pdf
+  figure: /images/publications/jong_rss2020.png
 
 - title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
   authors: Minae Kwon, Erdem Biyik, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
@@ -45,7 +45,7 @@
   note: ""
   pdf: /pdfs/losey_thri2020.pdf
   figure: /images/publications/losey_thri2020.jpg
-  
+
 - title: "Learning from my partner’s actions: Roles in decentralized robot teams"
   authors: Dylan P. Losey*, Mengxi Li*, Jeannette Bohg, Dorsa Sadigh
   venue: "Conference on Robot Learning (CoRL)"
