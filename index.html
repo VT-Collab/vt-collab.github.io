@@ -3,9 +3,20 @@ layout: page
 tags: home
 ---
 
-Welcome to the Collaborative Robotics Lab at Virginia Tech!
-Our goal is to create robots that work alongside people to perform everyday tasks.
-We develop learning and control algorithms for human-robot interaction: enabling robots to
-intelligently model and proactively influence their human partners.
-Our research explores the intersection of machine learning, control theory, and cognitive science,
-with applications in personalized and assistive robots.
+
+
+
+<div>
+  <p>Welcome to the Collaborative Robotics Lab at Virginia Tech!
+  Our goal is to create robots that work alongside people to perform everyday tasks.
+  We develop learning and control algorithms for human-robot interaction: enabling robots to
+  intelligently model and proactively influence their human partners.
+  Our research explores the intersection of machine learning, control theory, and cognitive science,
+  with applications in personalized and assistive robots.</p>
+  <h3>News</h3>
+  <ul>
+    {% for item in site.data.news limit:3%}
+      <li>{{ item.text }}</li>
+    {% endfor %}
+  </ul>
+</div>
