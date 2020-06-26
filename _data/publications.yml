@@ -14,6 +14,14 @@
   pdf: ""
   figure: ""
 
+- title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
+  authors: Erdem Biyik, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
+  venue: 
+  year: 2020
+  note: 
+  pdf: /pdfs/biyik_ijrr2020.pdf
+  figure: /images/publications/biyik_ijrr2020.png
+
 - title: "Shared autonomy with learned latent actions"
   authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
   venue: "Robotics: Science and Systems (RSS)"
