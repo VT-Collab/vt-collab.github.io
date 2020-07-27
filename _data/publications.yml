@@ -1,11 +1,3 @@
-- title: "Learning user-preferred mappings for intuitive robot control"
-  authors: Mengxi Li, Dylan P. Losey, Jeannette Bohg, Dorsa Sadigh
-  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
-
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
   authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
   venue: "The International Journal of Robotics Research"
@@ -13,6 +5,14 @@
   note: "in review"
   pdf: ""
   figure: ""
+
+- title: "Learning user-preferred mappings for intuitive robot control"
+  authors: Mengxi Li, Dylan P. Losey, Jeannette Bohg, Dorsa Sadigh
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2020
+  note: ""
+  pdf: /pdfs/li_iros2020.pdf
+  figure: /images/publications/li_iros2020.png
 
 - title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
   authors: Erdem Biyik, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
