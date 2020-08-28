@@ -2,5 +2,10 @@
 - name: Dylan Losey
   picture: /images/people/dylan.png
   website: https://dylanlosey.com/
-  description: Dylan is an Assistant Professor in the Department of Mechanical Engineering at Virginia Tech. He researches learning and control algorithms for personalizing robots that collaborate with people.
+  description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech. He researches learning and control algorithms for personalizing robots that collaborate with people.
   rank: leader
+
+- name: Ananth Jonnavittula
+  picture: /images/people/ananth.png
+  description: Ananth is a PhD student in the Mechanical Engineering Department. He is broadly interested in robot learning and human-robot interaction.
+  rank: grad
