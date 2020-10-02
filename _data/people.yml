@@ -19,3 +19,8 @@
   picture: /images/people/talise.jpg
   description: Talise is an undergraduate student in the Electrical and Computer Engineering Department. She is interested in robotics and machine learning.
   rank: undergrad
+
+- name: Ashley Nguyen
+  picture: /images/people/ashley.jpg
+  description: Ashley is an undergraduate student in the Computer Science Department. She is interested in algorithm design, human-computer interaction, and machine learning.
+  rank: undergrad
