@@ -1,12 +1,21 @@
 ---
 layout: page
 title: Talks
-show_title: true
 permalink: /talks/
 tags: talks
 ---
 
-<div class="home">
+<style>
+  .link {
+  color: #A0D4A4;
+  }
+  .link:hover {
+      color: black;
+  }
+</style>
+
+<h2>Talks</h2>
+<div>
   <table>
     {% for talk in site.data.talks %}
     <tr>
@@ -23,4 +32,14 @@ tags: talks
     </tr>
     {% endfor %}
   </table>
+</div>
+
+<h2>Media Coverage</h2>
+<div>
+  <ul>
+    {% for post in site.data.media %}
+    <li><a href="{{ post.link }}" class="link"><h3>{{ post.source }}</h3></a>
+    {{ post.title }}</li>
+    {% endfor %}
+  </ul>
 </div>
