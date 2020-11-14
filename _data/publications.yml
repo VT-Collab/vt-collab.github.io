@@ -1,11 +1,3 @@
-- title: "Learning latent representations to influence multi-agent interaction"
-  authors: Annie Xie, Dylan P. Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
-  venue: "Conference on Robot Learning (CoRL)"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
-
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
   authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
   venue: "The International Journal of Robotics Research"
@@ -13,6 +5,22 @@
   note: "in review"
   pdf: ""
   figure: ""
+
+- title: "I know what you meant: Learning human objectives by (under)estimating their choice set"
+  authors: Ananth Jonnavittula, Dylan P. Losey
+  venue: ""
+  year: 2020
+  note: ""
+  pdf: /pdfs/ananth_icra2021.pdf
+  figure: /images/publications/ananth_icra2021.png
+
+- title: "Learning latent representations to influence multi-agent interaction"
+  authors: Annie Xie, Dylan P. Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
+  venue: "Conference on Robot Learning (CoRL)"
+  year: 2020
+  note: ""
+  pdf: /pdfs/xie_corl2020.pdf
+  figure: /images/publications/xie_corl2020.jpg
 
 - title: "Learning user-preferred mappings for intuitive robot control"
   authors: Mengxi Li, Dylan P. Losey, Jeannette Bohg, Dorsa Sadigh
