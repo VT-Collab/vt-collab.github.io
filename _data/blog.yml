@@ -1,3 +1,10 @@
+
+- title: 'Learning to Influence Multi-Agent Interaction'
+  authors: Annie
+  picture: /images/blog/latent-strategies.gif
+  note: "It's hard for robots to seamlessly interact when humans change their behavior. We explore how robots can co-adapt alongside other agents by capturing their behavior as a high-level strategy, and then influencing that strategy over repeated interactions."
+  link: 'http://ai.stanford.edu/blog/lili/'
+
 - title: 'When Humans Aren’t Optimal: Robots that Collaborate with Risk-Aware Humans'
   authors: Minae and Dylan
   picture: /images/blog/modeling-risky-humans.gif
