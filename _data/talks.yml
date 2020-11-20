@@ -1,18 +1,13 @@
 
-- title: "Learning User-Preferred Mappings for Intuitive Robot Control"
-  speaker: Mengxi
-  location: "Conference on Intelligent Robots and Systems (2020)"
-  youtube: 'https://www.youtube.com/embed/UDO8a2xgiFs'
+- title: "Learning Latent Representations to Influence Multi-Agent Interaction"
+  speaker: Annie
+  location: "Conference on Robot Learning (2020)"
+  youtube: 'https://www.youtube.com/embed/Nd4QFOXmAaY'
 
 - title: "Shared Autonomy with Learned Latent Actions"
   speaker: Dylan
   location: "Robotics: Science and Systems (2020)"
   youtube: 'https://www.youtube.com/embed/40qLr6llO2c'
-
-- title: "Personalizing Robots through Learned Latent Actions"
-  speaker: Dylan
-  location: "ICRA Workshop on Interactive Robot Learning (2020)"
-  youtube: 'https://www.youtube.com/embed/XQEvjbQ2Fm0'
 
 - title: "When Humans Aren’t Optimal: Robots that Collaborate with Risk-Aware Humans"
   speaker: Minae
