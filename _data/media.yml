@@ -1,6 +1,14 @@
+- source: "Stanford HAI"
+  title: "To cooperate better, robots need to think about hidden agendas"
+  link: 'https://hai.stanford.edu/blog/cooperate-better-robots-need-think-about-hidden-agendas'
+
 - source: "MIT Technology Review"
   title: "The key to smarter robot collaborators may be more simplicity"
   link: 'https://www.technologyreview.com/2020/11/13/1012103/smarter-ai-robot-collaborators-may-be-simpler/'
+
+- source: "Stanford HAI"
+  title: "Assistive feeding: AI improves control of robot arms"
+  link: 'https://hai.stanford.edu/blog/assistive-feeding-ai-improves-control-robot-arms'
 
 - source: "The Batch"
   title: "Robotic control, easy as apple pie"
