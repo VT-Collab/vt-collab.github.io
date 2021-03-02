@@ -1,8 +1,48 @@
+- title: "Learning latent actions to control assistive robots"
+  authors: Dylan P. Losey, Hong Jun Jeon, Mengxi Li, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Jeannette Bohg, Dorsa Sadigh
+  venue: "Autonomous Robots"
+  year:
+  note: "in review"
+  pdf: ""
+  figure: ""
+
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
   authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
   venue: "The International Journal of Robotics Research"
   year:
   note: "in review"
+  pdf: ""
+  figure: ""
+
+- title: "Learning to share autonomy across repeated interaction"
+  authors: Ananth Jonnavittula, Dylan P. Losey
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year:
+  note: "in review"
+  pdf: ""
+  figure: ""
+
+- title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
+  authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
+  venue: "Robotics: Science and Systems (RSS)"
+  year:
+  note: "in review"
+  pdf: ""
+  figure: ""
+
+- title: "Learning visually guided latent actions for assistive teleoperation"
+  authors: Siddharth Karamcheti, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh
+  venue: "Learning for Dynamics & Control (L4DC)"
+  year:
+  note: "in review"
+  pdf: ""
+  figure: ""
+
+- title: "Learning human objectives from sequences of physical corrections"
+  authors: Mengxi Li, Alper Canberk, Dylan P. Losey, Dorsa Sadigh
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year:
+  note: ""
   pdf: ""
   figure: ""
 
