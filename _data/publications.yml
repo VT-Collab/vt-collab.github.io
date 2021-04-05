@@ -41,10 +41,10 @@
 - title: "Learning human objectives from sequences of physical corrections"
   authors: Mengxi Li, Alper Canberk, Dylan P. Losey, Dorsa Sadigh
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
-  year:
+  year: 2021
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/li_icra2021.pdf
+  figure: /images/publications/li_icra2021.png
 
 - title: "I know what you meant: Learning human objectives by (under)estimating their choice set"
   authors: Ananth Jonnavittula, Dylan P. Losey
