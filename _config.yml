@@ -12,12 +12,13 @@ header_pages:
  - talks.html
  - blog.html
 
-show_social_icons: false
+show_social_icons: true
 email:
-github_username: VT-Collab
+github_username:
 twitter_username:
 linkedin_username:
 youtube_id: UCVUHS9JE0tSakziQFkThhVQ
+photos: photos
 
 # Build settings
 markdown: kramdown
@@ -28,4 +29,3 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-
