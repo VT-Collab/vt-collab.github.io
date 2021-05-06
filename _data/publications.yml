@@ -33,10 +33,10 @@
 - title: "Learning visually guided latent actions for assistive teleoperation"
   authors: Siddharth Karamcheti, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh
   venue: "Learning for Dynamics & Control (L4DC)"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
+  year: 2021
+  note: ""
+  pdf: /pdfs/karamcheti_l4dc2021.pdf
+  figure: /images/publications/karamcheti_l4dc2021.png
 
 - title: "Learning human objectives from sequences of physical corrections"
   authors: Mengxi Li, Alper Canberk, Dylan P. Losey, Dorsa Sadigh
