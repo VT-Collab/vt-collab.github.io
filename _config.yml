@@ -8,6 +8,7 @@ url: "https://collab.me.vt.edu/"
 date_format: "%b %-d, %Y"
 header_pages:
  - people.html
+ - research.html
  - publications.html
  - talks.html
  - blog.html
