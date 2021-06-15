@@ -14,6 +14,14 @@
   pdf: ""
   figure: ""
 
+- title: "Communicating robot learning with passive augmented reality and active haptic feedback"
+  authors: James F. Mullen Jr, Josh Mosier, Sounak Chakrabarti, Anqi Chen, Tyler White, Dylan P. Losey
+  venue: "IEEE Robotics and Automation Letters"
+  year:
+  note: "in review"
+  pdf: ""
+  figure: ""
+
 - title: "Learning to share autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Dylan P. Losey
   venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
