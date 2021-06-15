@@ -24,11 +24,11 @@
 
 - title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
   authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
-  venue: "Robotics: Science and Systems (RSS)"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
+  venue: ""
+  year: 2021
+  note: ""
+  pdf: /pdfs/soheil_thri2021.pdf
+  figure: /images/publications/soheil_thri2021.png
 
 - title: "Learning visually guided latent actions for assistive teleoperation"
   authors: Siddharth Karamcheti, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh
