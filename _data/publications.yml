@@ -1,11 +1,3 @@
-- title: "Learning latent actions to control assistive robots"
-  authors: Dylan P. Losey, Hong Jun Jeon, Mengxi Li, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Jeannette Bohg, Dorsa Sadigh
-  venue: "Autonomous Robots"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
-
 - title: "Communicating robot learning with passive augmented reality and active haptic feedback"
   authors: James F. Mullen Jr, Josh Mosier, Sounak Chakrabarti, Anqi Chen, Tyler White, Dylan P. Losey
   venue: "IEEE Robotics and Automation Letters"
@@ -21,6 +13,14 @@
   note: "in review"
   pdf: ""
   figure: ""
+
+- title: "Learning latent actions to control assistive robots"
+  authors: Dylan P. Losey, Hong Jun Jeon, Mengxi Li, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Jeannette Bohg, Dorsa Sadigh
+  venue: "Autonomous Robots"
+  year: 2021
+  note: "(in press)"
+  pdf: /pdfs/losey_auro2021.pdf
+  figure: /images/publications/losey_auro2021.png
 
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
   authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
