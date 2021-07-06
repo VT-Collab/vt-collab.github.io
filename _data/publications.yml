@@ -6,14 +6,6 @@
   pdf: ""
   figure: ""
 
-- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
-  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
-  venue: "The International Journal of Robotics Research"
-  year:
-  note: "in review"
-  pdf: ""
-  figure: ""
-
 - title: "Communicating robot learning with passive augmented reality and active haptic feedback"
   authors: James F. Mullen Jr, Josh Mosier, Sounak Chakrabarti, Anqi Chen, Tyler White, Dylan P. Losey
   venue: "IEEE Robotics and Automation Letters"
@@ -29,6 +21,14 @@
   note: "in review"
   pdf: ""
   figure: ""
+
+- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
+  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
+  venue: ""
+  year: 2021
+  note: ""
+  pdf: /pdfs/losey_ijrr2021.pdf
+  figure: /images/publications/losey_ijrr2021.pdf
 
 - title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
   authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
