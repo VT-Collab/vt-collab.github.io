@@ -1,10 +1,26 @@
-- title: "Communicating robot learning with passive augmented reality and active haptic feedback"
+- title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
+  authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
+  venue: ""
+  year: 2021
+  note: ""
+  pdf: /pdfs/soheil_thri2021.pdf
+  figure: /images/publications/soheil_thri2021.png
+
+- title: "Communicating inferred goals with passive augmented reality and active haptic feedback"
   authors: James F. Mullen Jr, Josh Mosier, Sounak Chakrabarti, Anqi Chen, Tyler White, Dylan P. Losey
   venue: "IEEE Robotics and Automation Letters"
-  year:
-  note: "in review"
+  year: 2021
+  note: "(in press)"
   pdf: ""
-  figure: ""
+  figure: /images/publications/mullen_ral2021.png
+
+- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
+  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
+  venue: "The International Journal of Robotics Research"
+  year: 2021
+  note: "(in press)"
+  pdf: /pdfs/losey_ijrr2021.pdf
+  figure: /images/publications/losey_ijrr2021.png
 
 - title: "Learning to share autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Dylan P. Losey
@@ -14,29 +30,21 @@
   pdf: /pdfs/ananth_iros2021.pdf
   figure: /images/publications/ananth_iros2021.png
 
+- title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
+  authors: Erdem Biyik, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
+  venue: "The International Journal of Robotics Research"
+  year: 2021
+  note: ""
+  pdf: /pdfs/biyik_ijrr2021.pdf
+  figure: /images/publications/biyik_ijrr2021.png
+
 - title: "Learning latent actions to control assistive robots"
   authors: Dylan P. Losey, Hong Jun Jeon, Mengxi Li, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Jeannette Bohg, Dorsa Sadigh
   venue: "Autonomous Robots"
   year: 2021
-  note: "(in press)"
+  note: ""
   pdf: /pdfs/losey_auro2021.pdf
   figure: /images/publications/losey_auro2021.png
-
-- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
-  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
-  venue: ""
-  year: 2021
-  note: ""
-  pdf: /pdfs/losey_ijrr2021.pdf
-  figure: /images/publications/losey_ijrr2021.png
-
-- title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
-  authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
-  venue: ""
-  year: 2021
-  note: ""
-  pdf: /pdfs/soheil_thri2021.pdf
-  figure: /images/publications/soheil_thri2021.png
 
 - title: "Learning visually guided latent actions for assistive teleoperation"
   authors: Siddharth Karamcheti, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh
@@ -46,14 +54,6 @@
   pdf: /pdfs/karamcheti_l4dc2021.pdf
   figure: /images/publications/karamcheti_l4dc2021.png
 
-- title: "Learning human objectives from sequences of physical corrections"
-  authors: Mengxi Li, Alper Canberk, Dylan P. Losey, Dorsa Sadigh
-  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
-  year: 2021
-  note: ""
-  pdf: /pdfs/li_icra2021.pdf
-  figure: /images/publications/li_icra2021.png
-
 - title: "I know what you meant: Learning human objectives by (under)estimating their choice set"
   authors: Ananth Jonnavittula, Dylan P. Losey
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
@@ -61,6 +61,14 @@
   note: ""
   pdf: /pdfs/ananth_icra2021.pdf
   figure: /images/publications/ananth_icra2021.png
+
+- title: "Learning human objectives from sequences of physical corrections"
+  authors: Mengxi Li, Alper Canberk, Dylan P. Losey, Dorsa Sadigh
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2021
+  note: ""
+  pdf: /pdfs/li_icra2021.pdf
+  figure: /images/publications/li_icra2021.png
 
 - title: "Learning latent representations to influence multi-agent interaction"
   authors: Annie Xie, Dylan P. Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
@@ -77,14 +85,6 @@
   note: ""
   pdf: /pdfs/li_iros2020.pdf
   figure: /images/publications/li_iros2020.png
-
-- title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
-  authors: Erdem Biyik, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
-  venue: ""
-  year: 2020
-  note: ""
-  pdf: /pdfs/biyik_ijrr2020.pdf
-  figure: /images/publications/biyik_ijrr2020.png
 
 - title: "Shared autonomy with learned latent actions"
   authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
