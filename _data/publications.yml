@@ -11,7 +11,7 @@
   venue: "IEEE Robotics and Automation Letters"
   year: 2021
   note: "(in press)"
-  pdf: ""
+  pdf: /pdfs/mullen_ral2021.pdf
   figure: /images/publications/mullen_ral2021.png
 
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
