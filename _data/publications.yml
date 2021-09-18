@@ -1,3 +1,11 @@
+- title: "Learning Latent Actions without Human Demonstrations"
+  authors: Shaunak A. Mehta, Sagar Parekh, Dylan P. Losey
+  venue: ""
+  year: 2021
+  note: ""
+  pdf: /pdfs/shaunak_icra2022.pdf
+  figure: /images/publications/shaunak_icra2022.png
+
 - title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
   authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
   venue: ""
