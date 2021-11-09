@@ -1,4 +1,12 @@
-- title: "Learning Latent Actions without Human Demonstrations"
+- title: "Wrapped haptic display for communicating physical robot learning"
+  authors: Antonio Alvarez Valdivia, Ritish Shailly, Naman Seth, Francesco Fuentes$, Dylan P. Losey, Laura H. Blumenschein
+  venue: ""
+  year: 2021
+  note: ""
+  pdf: /pdfs/valdivia_robosoft2022.pdf
+  figure: /images/publications/valdivia_robosoft2022.png
+
+- title: "Learning latent actions without human demonstrations"
   authors: Shaunak A. Mehta, Sagar Parekh, Dylan P. Losey
   venue: ""
   year: 2021
