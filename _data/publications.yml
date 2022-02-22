@@ -1,34 +1,42 @@
 - title: "Wrapped haptic display for communicating physical robot learning"
   authors: Antonio Alvarez Valdivia, Ritish Shailly, Naman Seth, Francesco Fuentes, Dylan P. Losey, Laura H. Blumenschein
-  venue: ""
-  year: 2021
+  venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
+  year: 2022
   note: ""
   pdf: /pdfs/valdivia_robosoft2022.pdf
   figure: /images/publications/valdivia_robosoft2022.png
 
 - title: "Learning latent actions without human demonstrations"
   authors: Shaunak A. Mehta, Sagar Parekh, Dylan P. Losey
-  venue: ""
-  year: 2021
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2022
   note: ""
   pdf: /pdfs/shaunak_icra2022.pdf
   figure: /images/publications/shaunak_icra2022.png
 
+- title: "Communicating robot conventions through shared autonomy"
+  authors: Ananth Jonnavittula, Dylan P. Losey
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2022
+  note: ""
+  pdf: /pdfs/ananth_icra2022.pdf
+  figure: /images/publications/ananth_icra2022.png
+
+- title: "Assisting operators of articulated machinery with optimal planning and goal inference"
+  authors: Ehsan Yousefi, Dylan P. Losey, Inna Sharf
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2022
+  note: ""
+  pdf: /pdfs/ehsan_icra2022.pdf
+  figure: /images/publications/ehsan_icra2022.png
+
 - title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
   authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
-  venue: ""
-  year: 2021
+  venue: "ACM Transactions on Human-Robot Interaction"
+  year: 2022
   note: ""
   pdf: /pdfs/soheil_thri2021.pdf
   figure: /images/publications/soheil_thri2021.png
-
-- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
-  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
-  venue: "The International Journal of Robotics Research"
-  year: 2021
-  note: ""
-  pdf: /pdfs/losey_ijrr2021.pdf
-  figure: /images/publications/losey_ijrr2021.png
 
 - title: "Communicating inferred goals with passive augmented reality and active haptic feedback"
   authors: James F. Mullen Jr, Josh Mosier, Sounak Chakrabarti, Anqi Chen, Tyler White, Dylan P. Losey
@@ -45,6 +53,14 @@
   note: ""
   pdf: /pdfs/ananth_iros2021.pdf
   figure: /images/publications/ananth_iros2021.png
+
+- title: "Physical interaction as communication: Learning robot objectives online from human corrections"
+  authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
+  venue: "The International Journal of Robotics Research"
+  year: 2021
+  note: ""
+  pdf: /pdfs/losey_ijrr2021.pdf
+  figure: /images/publications/losey_ijrr2021.png
 
 - title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
   authors: Erdem Biyik, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
