@@ -7,12 +7,22 @@
 
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
-  description: Ananth is a PhD student in the Mechanical Engineering Department. He is interested in robot learning and human-robot interaction.
+  description: Ananth is a PhD student in the Mechanical Engineering Department. He is interested in shared autonomy.
   rank: grad
 
 - name: Soheil Habibian
   picture: /images/people/soheil.jpg
-  description: Soheil is a PhD student in the Mechanical Engineering Department. He is interested in collaborative robots, machine learning, and control theory.
+  description: Soheil is a PhD student in the Mechanical Engineering Department. He is interested in human-robot teams.
+  rank: grad
+
+- name: Shaunak Mehta
+  picture: /images/people/shaunak.png
+  description: Shaunak is a Masters student in the Mechanical Engineering Department. He is interested in physical human-robot interaction.
+  rank: grad
+
+- name: Sagar Parekh
+  picture: /images/people/sagar.png
+  description: Sagar is a Masters student in the Mechanical Engineering Department. He is interested in robots that influence humans.
   rank: grad
 
 - name: Lauren Chuderewicz
