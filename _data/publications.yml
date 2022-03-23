@@ -1,3 +1,11 @@
+- title: "RILI: Robustly influencing latent intent"
+  authors: Sagar Parekh, Soheil Habibian, Dylan P. Losey
+  venue: ""
+  year: 2022
+  note: ""
+  pdf: /pdfs/sagar_iros2022.pdf
+  figure: /images/publications/sagar_iros2022.png
+
 - title: "Wrapped haptic display for communicating physical robot learning"
   authors: Antonio Alvarez Valdivia, Ritish Shailly, Naman Seth, Francesco Fuentes, Dylan P. Losey, Laura H. Blumenschein
   venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
