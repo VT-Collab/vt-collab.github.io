@@ -11,7 +11,7 @@ header_pages:
  - research.html
  - publications.html
  - talks.html
- - blog.html
+ - wemet.html
 
 show_social_icons: true
 email:
