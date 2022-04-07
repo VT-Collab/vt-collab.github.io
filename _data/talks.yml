@@ -3,6 +3,16 @@
   location: "Department Seminar (2021)"
   youtube: 'https://www.youtube.com/embed/eWK5Or6sjSc'
 
+- title: "Communicating Robot Conventions through Shared Autonomy"
+  speaker: Ananth
+  location: "International Conference on Robotics and Automation (2022)"
+  youtube: 'https://www.youtube.com/embed/AMsp5X_amjE'
+
+- title: "Learning Latent Actions without Human Demonstrations"
+  speaker: Sagar and Shaunak
+  location: "International Conference on Robotics and Automation (2022)"
+  youtube: 'https://www.youtube.com/embed/z8mMi8zqIEg'
+
 - title: "Learning to Share Autonomy across Repeated Interaction"
   speaker: Ananth
   location: "International Conference on Intelligent Robots and Systems (2021)"
@@ -12,33 +22,3 @@
   speaker: Ananth
   location: "International Conference on Robotics and Automation (2021)"
   youtube: 'https://www.youtube.com/embed/5RbEtYAJMEo'
-
-- title: "Learning Latent Representations to Influence Multi-Agent Interaction"
-  speaker: Annie
-  location: "Conference on Robot Learning (2020)"
-  youtube: 'https://www.youtube.com/embed/Nd4QFOXmAaY'
-
-- title: "Shared Autonomy with Learned Latent Actions"
-  speaker: Dylan
-  location: "Robotics: Science and Systems (2020)"
-  youtube: 'https://www.youtube.com/embed/40qLr6llO2c'
-
-- title: "When Humans Aren’t Optimal: Robots that Collaborate with Risk-Aware Humans"
-  speaker: Minae
-  location: "Conference on Human-Robot Interaction (2020)"
-  youtube: 'https://www.youtube.com/embed/_tlSyFvS1iE'
-
-- title: "Controlling Assistive Robots with Learned Latent Actions"
-  speaker: Dylan
-  location: "Amazon Research Awards (2019)"
-  youtube: 'https://www.youtube.com/embed/oSyeHMjB7FY'
-
-- title: "Learning from My Partner's Actions: Roles in Decentralized Robot Teams"
-  speaker: Dylan
-  location: "Conference on Robot Learning (2019)"
-  youtube: 'https://www.youtube.com/embed/z2AykAPAY7c'
-
-- title: "Learning Robot Objectives from Physical Human Interactions"
-  speaker: Dylan and Andrea
-  location: "Conference on Robot Learning (2017)"
-  youtube: 'https://www.youtube.com/embed/9xGBaM6ZlOE'
