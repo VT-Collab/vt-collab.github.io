@@ -12,7 +12,6 @@ header_pages:
  - publications.html
  - talks.html
  - blog.html
- - wemet.html
 
 show_social_icons: true
 email:
@@ -21,6 +20,7 @@ twitter_username:
 linkedin_username:
 youtube_id: UCVUHS9JE0tSakziQFkThhVQ
 photos: photos
+wemet: wemet
 
 # Build settings
 markdown: kramdown
