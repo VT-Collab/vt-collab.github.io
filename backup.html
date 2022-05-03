@@ -154,27 +154,28 @@ layout: null
 <table>
   <tr>
     <th>Buttons</th>
-    <td><button onmousedown="clicked_stop(1);">End</button></td>
+    <td><button onmousedown="clicked_linear(5, 5, 5);">End</button></td>
   </tr>
 </table>
 
 
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-database.js"></script>
 
-<script src="https://www.gstatic.com/firebasejs/9.7.0/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/9.7.0/firebase-analytics.js"></script>
-
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
 
 <script>
   // Your web app's Firebase configuration
-  const firebaseConfig = {
-    apiKey: "AIzaSyCx8_y75jVCij1Cz8d_0H2z_ILRKVCnkYw",
-    authDomain: "remote-panda.firebaseapp.com",
-    databaseURL: "https://remote-panda-default-rtdb.firebaseio.com",
-    projectId: "remote-panda",
-    storageBucket: "remote-panda.appspot.com",
-    messagingSenderId: "565395531250",
-    appId: "1:565395531250:web:350e185a3522684ac1376b",
-    measurementId: "G-R6EYYYTJHJ"
+  var firebaseConfig = {
+    apiKey: "AIzaSyBTwz_D1F39sILHqDu1xP-SGZXu8dsXo-Q",
+    authDomain: "robot-control-ffdb3.firebaseapp.com",
+    databaseURL: "https://robot-control-ffdb3-default-rtdb.firebaseio.com",
+    projectId: "robot-control-ffdb3",
+    storageBucket: "robot-control-ffdb3.appspot.com",
+    messagingSenderId: "966568859587",
+    appId: "1:966568859587:web:c9f28709d86a9ad64acf76"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
@@ -189,7 +190,6 @@ layout: null
         rx: 0,
         ry: 0,
         rz: 0,
-        stop: 0,
     })
   }
 
@@ -202,20 +202,6 @@ layout: null
         rx: rx,
         ry: ry,
         rz: rz,
-        stop: 0,
-    })
-  }
-
-  function clicked_stop(stop) {
-    var db = firebase.database();
-    db.ref("coords/").set({
-        x: 0,
-        y: 0,
-        z: 0,
-        rx: 0,
-        ry: 0,
-        rz: 0,
-        stop: stop,
     })
   }
 
