@@ -25,6 +25,11 @@
   description: Shaunak is a Masters student in the Mechanical Engineering Department. He is interested in physical human-robot interaction.
   rank: grad
 
+- name: Shahabedin (Shahab) Sagheb
+  picture: /images/people/shahab.png
+  description: Shahab is an assistant collegiate professor and a PhD student in the Mechanical Engineering Department. He is interested in how humans and robots learn from each other, collaborate, and compete.
+  rank: grad
+
 - name: Lauren Chuderewicz
   picture: /images/people/lauren.jpg
   description: Lauren is an undergraduate student in the Computer Engineering Department. She is interested in robot learning, robot collaboration, and autonomous technology.
