@@ -1,3 +1,11 @@
+- title: "Learning to share autonomy from repeated human-robot interaction"
+  authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
+  venue: ""
+  year: 2022
+  note: ""
+  pdf: /pdfs/ananth_tro2022.pdf
+  figure: /images/publications/ananth_tro2022.png
+
 - title: "Encouraging human interaction with robot teams: Legible and fair subtask allocations"
   authors: Soheil Habibian, Dylan P. Losey
   venue: "IEEE Robotics and Automation Letters"
