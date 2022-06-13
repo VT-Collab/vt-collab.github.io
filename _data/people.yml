@@ -7,11 +7,13 @@
 
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
+  website: https://ananth.fyi/
   description: Ananth is a PhD student in the Mechanical Engineering Department. He is interested in shared autonomy.
   rank: grad
 
 - name: Soheil Habibian
   picture: /images/people/soheil.jpg
+  website: https://soheilhbn.com/
   description: Soheil is a PhD student in the Mechanical Engineering Department. He is interested in human-robot teams.
   rank: grad
 
@@ -22,11 +24,13 @@
 
 - name: Shaunak Mehta
   picture: /images/people/shaunak.png
+  website: https://mehtashaunak.github.io/
   description: Shaunak is a Masters student in the Mechanical Engineering Department. He is interested in physical human-robot interaction.
   rank: grad
 
 - name: Shahabedin (Shahab) Sagheb
   picture: /images/people/shahab.png
+  website: https://www.sagheb.net/
   description: Shahab is an assistant collegiate professor and a PhD student in the Mechanical Engineering Department. He is interested in humans and robots that learn, collaborate, and compete.
   rank: grad
 
