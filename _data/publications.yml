@@ -6,6 +6,14 @@
   pdf: /pdfs/valdivia_toh2022.pdf
   figure: /images/publications/valdivia_toh2022.png
 
+- title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
+  authors: Shaunak A. Mehta, Dylan P. Losey
+  venue: ""
+  year: 2022
+  note: ""
+  pdf: /pdfs/shaunak_thri2022.pdf
+  figure: /images/publications/shaunak_thri2022.png
+
 - title: "Learning to share autonomy from repeated human-robot interaction"
   authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
   venue: ""
