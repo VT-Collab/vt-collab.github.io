@@ -1,3 +1,11 @@
+- title: "Wrapping haptic displays around robot arms to communicate learning"
+  authors: Antonio Alvarez Valdivia, Soheil Habibian, Carly A. Mendenhall, Francesco Fuentes, Ritish Shailly, Dylan P. Losey, Laura H. Blumenschein
+  venue: ""
+  year: 2022
+  note: ""
+  pdf: /pdfs/valdivia_toh2022.pdf
+  figure: /images/publications/valdivia_toh2022.png
+
 - title: "Learning to share autonomy from repeated human-robot interaction"
   authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
   venue: ""
@@ -16,7 +24,7 @@
 
 - title: "RILI: Robustly influencing latent intent"
   authors: Sagar Parekh, Soheil Habibian, Dylan P. Losey
-  venue: ""
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2022
   note: ""
   pdf: /pdfs/sagar_iros2022.pdf
