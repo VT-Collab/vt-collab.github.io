@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog
+title: Values
 show_title: true
-permalink: /blog/
-tags: blog
+permalink: /values/
+tags: values
 ---
 
 
@@ -20,15 +20,15 @@ tags: blog
 
 <div>
   <table>
-    {% for post in site.data.blog %}
+    {% for value in site.data.values %}
     <tr>
       <td>
-        <a href="{{ post.link }}" class="link"><h3>{{ post.title }}</h3></a>
-        <small>{{ post.note }}</small>
+        <h3>{{ value.title }}</h3>
+        <small>{{ value.note }}</small>
   	  </td>
       <td style="vertical-align:middle; width:40%;">
 		    <center>
-          <img src="{{ post.picture }}" style="max-height:250px; border-radius: 15px" />
+          <img src="{{ value.picture }}" style="max-height:250px; border-radius: 15px" />
         </center>
   	  </td>
     </tr>
