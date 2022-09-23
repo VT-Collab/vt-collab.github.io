@@ -34,22 +34,38 @@
   description: Shahab is an assistant collegiate professor and a PhD student in the Mechanical Engineering Department. He is interested in humans and robots that learn, collaborate, and compete.
   rank: grad
 
-- name: Lauren Chuderewicz
-  picture: /images/people/lauren.jpg
-  description: Lauren is an undergraduate student in the Computer Engineering Department. She is interested in robot learning, robot collaboration, and autonomous technology.
+
+- name: Hashim AbuHassan
+  picture: /images/people/hashim_abuhassan.jpg
+  description: Hashim is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
   rank: undergrad
 
-- name: Talise Lindorf
-  picture: /images/people/talise.jpg
-  description: Talise is an undergraduate student in the Electrical and Computer Engineering Department. She is interested in robotics and machine learning.
+- name: Mikayla Dolo-Pittman
+  picture: /images/people/mikayla_dolo-pittman.jpg
+  description: Mikayla is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
-- name: Noah Meine
-  picture: /images/people/noah.jpg
-  description: Noah is an undergraduate student in the Electrical and Computer Engineering Department. He is interested in software engineering, machine learning, and robotics.
+- name: Claire Dupuy
+  picture: /images/people/claire_dupuy.jpg
+  description: Claire is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
   rank: undergrad
 
-- name: Ashley Nguyen
-  picture: /images/people/ashley.jpg
-  description: Ashley is an undergraduate student in the Computer Science Department. She is interested in algorithm design, human-computer interaction, and machine learning.
+- name: Joshua Reyes Ledoux
+  picture: /images/people/joshua_reyes_ledoux.jpg
+  description: Joshua is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
+  rank: undergrad
+
+- name: Soham Gandhi
+  picture: /images/people/soham_gandhi.jpg
+  description: Soham is an undergraduate student in the Department of Electrical and Computer Engineering.
+  rank: undergrad
+
+- name: Michael Policarpio
+  picture: /images/people/michael_policarpio.jpg
+  description: Michael is an undergraduate student in the Department of Electrical and Computer Engineering.
+  rank: undergrad
+
+- name: Sydney Szabos
+  picture: /images/people/sydney_szabos.jpg
+  description: Sydney is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
