@@ -40,6 +40,11 @@
   description: Hashim is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
   rank: undergrad
 
+- name: Neema Ahmadian
+  picture: /images/people/neema_ahmadian.jpg
+  description: Neema is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
 - name: Mikayla Dolo-Pittman
   picture: /images/people/mikayla_dolo-pittman.jpg
   description: Mikayla is an undergraduate student in the Mechanical Engineering Department.
