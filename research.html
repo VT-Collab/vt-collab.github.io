@@ -31,14 +31,13 @@ tags: research
 
 <p>
 Our group explores the foundations of human-robot interaction.
-There already exist many high-performance robots:
-our goal is to enable these robots to seamlessly and intelligently interact with human partners.
+Our goal is to enable robots to seamlessly and intelligently interact with human partners.
 We seek out problems inspired by the challenges of everyday users &mdash;
 particularly for assistive robot arms and self-driving cars &mdash;
 as well as problems motivated by future applications &mdash; such as personal robots or robots in the home.
 Research projects within Collab typically involve three steps:
 <ol>
-  <li>Formalizing the problem within a larger mathematical context</li>
+  <li>Formalizing the problem within a larger context</li>
   <li>Creating a learning or control based solution</li>
   <li>Testing our approach with real people and robots</li>
 </ol>
@@ -47,12 +46,13 @@ We strive to fundamentally understand how humans and robot should interact,
 while also conducting user studies to determine what people really need.
 </p>
 
-<h2> Current Areas of Interest </h2>
+<h2> Research Directions </h2>
 
-As of Summer 2021, Collab is focused on two broad problems in human-robot interaction:
-<b>inclusivity</b> and <b>explainability</b>.
+Collab is currently focused on two problems:
+(1) how should robots learn from humans and
+(2) how can robots communicate their learning back to human teachers.
 
-<h3> Inclusivity </h3>
+<h3> Learning from Humans </h3>
 
 <img src="{{ site.baseurl }} /images/research/inclusive.gif" style="width:100%; height:100%;" class="center">
 <br>
@@ -60,28 +60,31 @@ As of Summer 2021, Collab is focused on two broad problems in human-robot intera
 <p>
   When people interact with robots, often they want to teach their robot a new skill
   or control their robot to perform a different task.
-  The field of robotics has made significant strides towards both of these goals.
-  However, today's methods require a level of proficiency, dexterity, or expertise that many people lack.
-  For example, in the video above a person with physical disabilities is remotely controlling a robot in our lab:
-  what are some of the challenges he faces as he tries to assemble a dessert?
-  We are excited about creating learning and control strategies that are intentionally and fundamentally inclusive.
-  We envision robots that can quickly learn what their human partner really meant,
-  even if that person's limitations prevent them from showing their desired behavior.
+  For example, in the video above a user is controlling an assistive robot arm.
+  Instead of asking for human guidance at every step of the process,
+  we envision robots that infer what the human wants and autonomously help
+  to complete that task.
+  We are excited about creating interactive learning and control strategies that
+  (a) rapidly adapt to the current user,
+  (b) provide performance and safety guarantees,
+  and (c) work well across different users, tasks, and environments.
 </p>
 
-<h3> Explainability </h3>
+<h3> Communicating with Humans </h3>
 
 <img src="{{ site.baseurl }} /images/research/explainable.gif" style="width:100%; height:100%;" class="center">
 <br>
 
 <p>
-  Learning is a key component of robotics. In order for robots to solve everyday tasks,
-  they must be able to constantly learn from their environment.
-  But this learning is a black box to everyday human users:
-  when a person shows a robot how to make a cup of coffee,
-  how do they know what parts of the task the robot has learned and what it is still confused about?
-  Ensuring that users understand robot learning is necessary to build trust and collaboration.
-  Accordingly, we are working towards explainable robot learners that actively bring nearby users into their learning loop.
-  We envision solutions that bridge both physical and algorithmic intelligence:
-  for instance, in the video above the user is alerted by a haptic wristband that the robot learner needs additional guidance.
+  Learning is a key component of robotics.
+  In order for robots to solve everyday tasks,
+  they must be able to learn from the humans around them.
+  But from the human's perspective this learning is a black box:
+  in the video above, how does the person know whether their robot arm
+  has learned to avoid the green cup?
+  We envision robots that actively and intuitively reveal their learning to human operators.
+  We are excited about solutions that bridge both physical and algorithmic intelligence
+  to seamlessly bring nearby users into the robot's learning loop.
+  This includes a single human working with a single robot,
+  or teams of humans working with multiple robots.
 </p>
