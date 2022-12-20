@@ -33,6 +33,16 @@
   website: https://www.sagheb.net/
   description: Shahab is an assistant collegiate professor and a PhD student in the Mechanical Engineering Department. He is interested in humans and robots that learn, collaborate, and compete.
   rank: grad
+  
+- name: Benjamin Christie
+  picture: /images/people/ben.jpg
+  description: Ben is a master's student in the Mechanical Engineering Department.
+  rank: grad
+
+- name: Joshua Hoegerman
+  picture: /images/people/default.png
+  description: Josh is a master's student in the Mechanical Engineering Department.
+  rank: grad    
 
 
 - name: Hashim AbuHassan
