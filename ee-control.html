@@ -157,6 +157,7 @@ layout: null
     <td><button onmousedown="clicked_stop(1);" onmouseup="clicked_stop(0);">End</button></td>
     <td><button onmousedown="clicked_grip(1);" onmouseup="clicked_grip(0);">Grip</button></td>
     <td><button onmousedown="clicked_slow(1);" onmouseup="clicked_slow(0);">Slow</button></td>
+    <td><button onmousedown="clicked_assist(1);" onmouseup="clicked_assist(0);">Assist</button></td>
   </tr>
 </table>
 
@@ -191,7 +192,8 @@ layout: null
         rz: 0,
         stop: 0,
         grip: 0,
-        slow: 0
+        slow: 0,
+        assist: 0
     })
   }
 
@@ -206,7 +208,8 @@ layout: null
         rz: rz,
         stop: 0,
         grip: 0,
-        slow: 0
+        slow: 0,
+        assist: 0
     })
   }
 
@@ -221,7 +224,8 @@ layout: null
         rz: 0,
         stop: stop,
         grip: 0,
-        slow: 0
+        slow: 0,
+        assist: 0
     })
   }
 
@@ -236,7 +240,8 @@ layout: null
         rz: 0,
         stop: 0,
         grip: grip,
-        slow: 0
+        slow: 0,
+        assist: 0
     })
   }
 
@@ -251,7 +256,24 @@ layout: null
         rz: 0,
         stop: 0,
         grip: 0,
-        slow: slow
+        slow: slow,
+        assist: 0
+    })
+  }
+  
+  function clicked_assist(assist) {
+    var db = firebase.database();
+    db.ref("coords/").set({
+        x: 0,
+        y: 0,
+        z: 0,
+        rx: 0,
+        ry: 0,
+        rz: 0,
+        stop: 0,
+        grip: 0,
+        slow: 0,
+        assist: assist
     })
   }
 </script>
