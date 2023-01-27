@@ -154,8 +154,8 @@ layout: null
 <table>
   <tr>
     <th>Buttons</th>
-    <td><button onmousedown="clicked_stop(1);">End</button></td>
-    <td><button onmousedown="clicked_angular(0, 0, -2);" onmouseup="clicked_angular(0, 0, 0);">Grip</button></td>
+    <td><button onmousedown="clicked_stop(1);" onmouseup="clicked_stop(0);">End</button></td>
+    <td><button onmousedown="clicked_grip(1);" onmouseup="clicked_grip(0);">Grip</button></td>
   </tr>
 </table>
 
@@ -189,6 +189,7 @@ layout: null
         ry: 0,
         rz: 0,
         stop: 0,
+        grip: 0
     })
   }
 
@@ -202,6 +203,7 @@ layout: null
         ry: ry,
         rz: rz,
         stop: 0,
+        grip: 0
     })
   }
 
@@ -215,7 +217,21 @@ layout: null
         ry: 0,
         rz: 0,
         stop: stop,
+        grip: 0
     })
   }
 
+  function clicked_stop(grip) {
+    var db = firebase.database();
+    db.ref("coords/").set({
+        x: 0,
+        y: 0,
+        z: 0,
+        rx: 0,
+        ry: 0,
+        rz: 0,
+        stop: 0,
+        grip: grip
+    })
+  }
 </script>
