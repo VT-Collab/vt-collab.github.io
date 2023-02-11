@@ -36,12 +36,12 @@
   
 - name: Benjamin Christie
   picture: /images/people/ben.jpg
-  description: Ben is a master's student in the Mechanical Engineering Department.
+  description: Ben is a Master's student in the Mechanical Engineering Department.
   rank: grad
 
 - name: Joshua Hoegerman
-  picture: /images/people/default.png
-  description: Josh is a master's student in the Mechanical Engineering Department.
+  picture: /images/people/josh.jpg
+  description: Josh is a Master's student in the Mechanical Engineering Department.
   rank: grad    
 
 

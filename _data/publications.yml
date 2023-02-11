@@ -1,50 +1,50 @@
+- title: "SARI: Shared autonomy across repeated interaction"
+  authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
+  venue: ""
+  year: 2023
+  note: ""
+  pdf: /pdfs/ananth_thri2023.pdf
+  figure: /images/publications/ananth_thri2023.png
+
 - title: "Learning latent representations to co-adapt to humans"
   authors: Sagar Parekh, Dylan P. Losey
   venue: ""
-  year: 2022
+  year: 2023
   note: ""
-  pdf: /pdfs/sagar_auro2022.pdf
-  figure: /images/publications/sagar_auro2022.png
+  pdf: /pdfs/sagar_auro2023.pdf
+  figure: /images/publications/sagar_auro2023.png
 
 - title: "RISO: Combining rigid grippers with soft switchable adhesives"
   authors: Shaunak A. Mehta, Yeunhee Kim, Joshua Hoegerman, Michael D. Bartlett, Dylan P. Losey
   venue: ""
-  year: 2022
+  year: 2023
   note: ""
   pdf: /pdfs/shaunak_robosoft2023.pdf
   figure: /images/publications/shaunak_robosoft2023.png
 
+- title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
+  authors: Shaunak A. Mehta, Dylan P. Losey
+  venue: ""
+  year: 2023
+  note: ""
+  pdf: /pdfs/shaunak_thri2023.pdf
+  figure: /images/publications/shaunak_thri2023.png
+
 - title: "Towards robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Ye-Ji Mun, Neema Ahmadian, Benjamin A. Christie, Andrea Bajcsy, Katherine Driggs-Campbell, Dylan P. Losey
-  venue: ""
-  year: 2022
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2023
   note: ""
   pdf: /pdfs/shahab_icra2023.pdf
   figure: /images/publications/shahab_icra2023.png
 
 - title: "Wrapping haptic displays around robot arms to communicate learning"
   authors: Antonio Alvarez Valdivia, Soheil Habibian, Carly A. Mendenhall, Francesco Fuentes, Ritish Shailly, Dylan P. Losey, Laura H. Blumenschein
-  venue: ""
-  year: 2022
+  venue: "IEEE Transactions on Haptics"
+  year: 2023
   note: ""
   pdf: /pdfs/valdivia_toh2022.pdf
-  figure: /images/publications/valdivia_toh2022.png
-
-- title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
-  authors: Shaunak A. Mehta, Dylan P. Losey
-  venue: ""
-  year: 2022
-  note: ""
-  pdf: /pdfs/shaunak_thri2022.pdf
-  figure: /images/publications/shaunak_thri2022.png
-
-- title: "Learning to share autonomy from repeated human-robot interaction"
-  authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
-  venue: ""
-  year: 2022
-  note: ""
-  pdf: /pdfs/ananth_tro2022.pdf
-  figure: /images/publications/ananth_tro2022.png
+  figure: /images/publications/valdivia_toh2023.png
 
 - title: "Encouraging human interaction with robot teams: Legible and fair subtask allocations"
   authors: Soheil Habibian, Dylan P. Losey
