@@ -14,14 +14,6 @@
   pdf: /pdfs/sagar_auro2023.pdf
   figure: /images/publications/sagar_auro2023.png
 
-- title: "RISO: Combining rigid grippers with soft switchable adhesives"
-  authors: Shaunak A. Mehta, Yeunhee Kim, Joshua Hoegerman, Michael D. Bartlett, Dylan P. Losey
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: /pdfs/shaunak_robosoft2023.pdf
-  figure: /images/publications/shaunak_robosoft2023.png
-
 - title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
   authors: Shaunak A. Mehta, Dylan P. Losey
   venue: ""
@@ -29,6 +21,14 @@
   note: ""
   pdf: /pdfs/shaunak_thri2023.pdf
   figure: /images/publications/shaunak_thri2023.png
+
+- title: "RISO: Combining rigid grippers with soft switchable adhesives"
+  authors: Shaunak A. Mehta, Yeunhee Kim, Joshua Hoegerman, Michael D. Bartlett, Dylan P. Losey
+  venue: "IEEE International Conference on Soft Robotics (RoboSoft)"
+  year: 2023
+  note: ""
+  pdf: /pdfs/shaunak_robosoft2023.pdf
+  figure: /images/publications/shaunak_robosoft2023.png
 
 - title: "Towards robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Ye-Ji Mun, Neema Ahmadian, Benjamin A. Christie, Andrea Bajcsy, Katherine Driggs-Campbell, Dylan P. Losey
