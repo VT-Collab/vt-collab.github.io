@@ -1,3 +1,11 @@
+- title: "Coordinated multi-robot shared autonomy based on scheduling and demonstrations"
+  authors: Michael Hagenow, Emmanuel Senft, Nitzan Orr, Robert Radwin, Michael Gleicher, Bilge Mutlu, Dylan P. Losey, Michael Zinn
+  venue: ""
+  year: 2023
+  note: ""
+  pdf: /pdfs/hagenow_ral2023.pdf
+  figure: /images/publications/hagenow_ral2023.png
+
 - title: "SARI: Shared autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
   venue: ""
