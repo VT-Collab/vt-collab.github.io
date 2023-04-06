@@ -44,6 +44,11 @@
   description: Josh is a Master's student in the Mechanical Engineering Department.
   rank: grad    
 
+- name: Maya Keely
+  picture: /images/people/maya.png
+  description: Maya is a Master's student in the Mechanical Engineering Department.
+  rank: grad
+
 
 - name: Hashim AbuHassan
   picture: /images/people/hashim_abuhassan.jpg
