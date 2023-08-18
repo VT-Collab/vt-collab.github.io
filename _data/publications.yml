@@ -1,3 +1,11 @@
+- title: "StROL: Stabilized and robust online learning from humans"
+  authors: Shaunak A. Mehta, Forrest Meng, Andrea Bajcsy, Dylan P. Losey
+  venue: ""
+  year: 2023
+  note: ""
+  pdf: /pdfs/shaunak_ral23.pdf
+  figure: /images/publications/shaunak_ral23.png
+
 - title: "Reward learning with intractable normalizing functions"
   authors: Joshua Hoegerman, Dylan P. Losey
   venue: ""
@@ -38,14 +46,6 @@
   pdf: /pdfs/ananth_thri2023.pdf
   figure: /images/publications/ananth_thri2023.png
 
-- title: "Learning latent representations to co-adapt to humans"
-  authors: Sagar Parekh, Dylan P. Losey
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: /pdfs/sagar_auro2023.pdf
-  figure: /images/publications/sagar_auro2023.png
-
 - title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
   authors: Shaunak A. Mehta, Dylan P. Losey
   venue: ""
@@ -53,6 +53,14 @@
   note: ""
   pdf: /pdfs/shaunak_thri2023.pdf
   figure: /images/publications/shaunak_thri2023.png
+
+- title: "Learning latent representations to co-adapt to humans"
+  authors: Sagar Parekh, Dylan P. Losey
+  venue: "Autonomous Robots"
+  year: 2023
+  note: ""
+  pdf: /pdfs/sagar_auro2023.pdf
+  figure: /images/publications/sagar_auro2023.png
 
 - title: "RISO: Combining rigid grippers with soft switchable adhesives"
   authors: Shaunak A. Mehta, Yeunhee Kim, Joshua Hoegerman, Michael D. Bartlett, Dylan P. Losey
