@@ -49,43 +49,28 @@
   description: Maya is a Master's student in the Mechanical Engineering Department.
   rank: grad
 
+- name: Balamurugan (Bala) Ramachandran
+  picture: /images/people/bala.jpg
+  description: Bala is a PhD student in the Mechanical Engineering Department. He is interested in how robots can influence humans.
+  rank: grad  
 
-- name: Hashim AbuHassan
-  picture: /images/people/hashim_abuhassan.jpg
-  description: Hashim is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
+
+- name: Robert Ramirez Sanchez
+  picture: /images/people/default.jpg
+  description: Robert is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
-- name: Neema Ahmadian
-  picture: /images/people/neema_ahmadian.jpg
-  description: Neema is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
-- name: Mikayla Dolo-Pittman
-  picture: /images/people/mikayla_dolo-pittman.jpg
-  description: Mikayla is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
-- name: Claire Dupuy
-  picture: /images/people/claire_dupuy.jpg
-  description: Claire is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
-  rank: undergrad
-
-- name: Joshua Reyes Ledoux
-  picture: /images/people/joshua_reyes_ledoux.jpg
-  description: Joshua is an undergraduate student in the Mechanical Engineering Department majoring in Robotics.
+- name: Forrest Meng
+  picture: /images/people/forrest.jpg
+  description: Forrest is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
 - name: Soham Gandhi
-  picture: /images/people/soham_gandhi.jpg
+  picture: /images/people/soham.jpg
   description: Soham is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
-- name: Michael Policarpio
-  picture: /images/people/michael_policarpio.jpg
-  description: Michael is an undergraduate student in the Department of Electrical and Computer Engineering.
-  rank: undergrad
-
-- name: Sydney Szabos
-  picture: /images/people/sydney_szabos.jpg
-  description: Sydney is an undergraduate student in the Department of Electrical and Computer Engineering.
-  rank: undergrad
+- name: Neema Ahmadian
+  picture: /images/people/neema.jpg
+  description: Neema is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad  
