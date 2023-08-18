@@ -3,16 +3,16 @@
   venue: ""
   year: 2023
   note: ""
-  pdf: /pdfs/shaunak_ral23.pdf
-  figure: /images/publications/shaunak_ral23.png
+  pdf: /pdfs/shaunak_ral2023.pdf
+  figure: /images/publications/shaunak_ral2023.png
 
 - title: "Reward learning with intractable normalizing functions"
   authors: Joshua Hoegerman, Dylan P. Losey
   venue: ""
   year: 2023
   note: ""
-  pdf: /pdfs/josh_ral23.pdf
-  figure: /images/publications/josh_ral23.png
+  pdf: /pdfs/josh_ral2023.pdf
+  figure: /images/publications/josh_ral2023.png
 
 - title: "Should collaborative robots be transparent?"
   authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
@@ -27,8 +27,8 @@
   venue: ""
   year: 2023
   note: ""
-  pdf: /pdfs/ben_thri23.pdf
-  figure: /images/publications/ben_thri23.png
+  pdf: /pdfs/ben_thri2023.pdf
+  figure: /images/publications/ben_thri2023.png
 
 - title: "Coordinated multi-robot shared autonomy based on scheduling and demonstrations"
   authors: Michael Hagenow, Emmanuel Senft, Nitzan Orr, Robert Radwin, Michael Gleicher, Bilge Mutlu, Dylan P. Losey, Michael Zinn
