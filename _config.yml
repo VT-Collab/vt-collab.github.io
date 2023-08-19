@@ -10,7 +10,7 @@ header_pages:
  - people.html
  - research.html
  - publications.html
- - talks.html
+ - videos.html
  - values.html
 
 show_social_icons: true
