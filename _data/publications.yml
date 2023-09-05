@@ -6,6 +6,14 @@
   pdf: /pdfs/shaunak_ral2023.pdf
   figure: /images/publications/shaunak_ral2023.png
 
+- title: "Should collaborative robots be transparent?"
+  authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
+  venue: ""
+  year: 2023
+  note: ""
+  pdf: /pdfs/shahab_ijsr2023.pdf
+  figure: /images/publications/shahab_ijsr2023.png
+
 - title: "Reward learning with intractable normalizing functions"
   authors: Joshua Hoegerman, Dylan P. Losey
   venue: ""
@@ -13,14 +21,6 @@
   note: ""
   pdf: /pdfs/josh_ral2023.pdf
   figure: /images/publications/josh_ral2023.png
-
-- title: "Should collaborative robots be transparent?"
-  authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: /pdfs/shahab_ral2023.pdf
-  figure: /images/publications/shahab_ral2023.png
 
 - title: "LIMIT: Learning interfaces to maximize information transfer"
   authors: Benjamin A. Christie, Dylan P. Losey
