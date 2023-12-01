@@ -1,3 +1,11 @@
+- title: "A review of communicating robot learning during human-robot interaction"
+  authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
+  venue: ""
+  year: 2023
+  note: ""
+  pdf: /pdfs/soheil_ijrr2023.pdf
+  figure: /images/publications/soheil_ijrr2023.png
+
 - title: "Safely and autonomously cutting meat with a collaborative robot arm"
   authors: Ryan Wright, Sagar Parekh, Robin White, Dylan P. Losey
   venue: ""
@@ -22,14 +30,6 @@
   pdf: /pdfs/shahab_ijsr2023.pdf
   figure: /images/publications/shahab_ijsr2023.png
 
-- title: "Reward learning with intractable normalizing functions"
-  authors: Joshua Hoegerman, Dylan P. Losey
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: /pdfs/josh_ral2023.pdf
-  figure: /images/publications/josh_ral2023.png
-
 - title: "LIMIT: Learning interfaces to maximize information transfer"
   authors: Benjamin A. Christie, Dylan P. Losey
   venue: ""
@@ -37,14 +37,6 @@
   note: ""
   pdf: /pdfs/ben_thri2023.pdf
   figure: /images/publications/ben_thri2023.png
-
-- title: "Coordinated multi-robot shared autonomy based on scheduling and demonstrations"
-  authors: Michael Hagenow, Emmanuel Senft, Nitzan Orr, Robert Radwin, Michael Gleicher, Bilge Mutlu, Dylan P. Losey, Michael Zinn
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: /pdfs/hagenow_ral2023.pdf
-  figure: /images/publications/hagenow_ral2023.png
 
 - title: "SARI: Shared autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
@@ -54,9 +46,25 @@
   pdf: /pdfs/ananth_thri2023.pdf
   figure: /images/publications/ananth_thri2023.png
 
+- title: "Reward learning with intractable normalizing functions"
+  authors: Joshua Hoegerman, Dylan P. Losey
+  venue: "IEEE Robotics and Automation Letters"
+  year: 2023
+  note: ""
+  pdf: /pdfs/josh_ral2023.pdf
+  figure: /images/publications/josh_ral2023.png
+  
+- title: "Coordinated multi-robot shared autonomy based on scheduling and demonstrations"
+  authors: Michael Hagenow, Emmanuel Senft, Nitzan Orr, Robert Radwin, Michael Gleicher, Bilge Mutlu, Dylan P. Losey, Michael Zinn
+  venue: "IEEE Robotics and Automation Letters"
+  year: 2023
+  note: ""
+  pdf: /pdfs/hagenow_ral2023.pdf
+  figure: /images/publications/hagenow_ral2023.png
+
 - title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
   authors: Shaunak A. Mehta, Dylan P. Losey
-  venue: ""
+  venue: "ACM Transactions on Human-Robot Interaction"
   year: 2023
   note: ""
   pdf: /pdfs/shaunak_thri2023.pdf
