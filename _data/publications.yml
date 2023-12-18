@@ -1,3 +1,11 @@
+- title: "Unifying rigid and soft grippers for object manipulation during human-robot interaction"
+  authors: Maya Keely, Yeunhee Kim, Shaunak A. Mehta, Joshua Hoegerman, Robert Ramirez Sanchez, Emily Paul, Camryn Mills, Dylan P. Losey, Michael D. Bartlett
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: ""
+  figure: ""
+
 - title: "A review of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
   venue: ""
@@ -11,7 +19,7 @@
   venue: ""
   year: 2023
   note: ""
-  pdf: https://youtu.be/q-_jkVrCM00
+  pdf: https://youtu.be/56mdHjjYMVc
   figure: /images/publications/sagar_sr2023.png
 
 - title: "StROL: Stabilized and robust online learning from humans"
