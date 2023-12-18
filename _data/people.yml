@@ -5,6 +5,7 @@
   description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech. He researches learning and control algorithms for personalizing robots that collaborate with people.
   rank: leader
 
+
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
   website: https://ananth.fyi/
@@ -74,3 +75,9 @@
   picture: /images/people/neema.jpg
   description: Neema is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
+
+
+- name: Emily Paul
+  picture: /images/people/default.jpg
+  description: Emily worked on developing rigid and soft robotic grippers (Summer 2023).
+  rank: highschool    

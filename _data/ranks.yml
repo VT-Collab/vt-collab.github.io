@@ -6,3 +6,5 @@
   display: 'Graduate Students'
 - keyword: 'undergrad'
   display: 'Undergraduate Students'
+- keyword: 'highschool'
+  display: 'High School Students'
