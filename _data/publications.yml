@@ -14,22 +14,6 @@
   pdf: /pdfs/soheil_ijrr2023.pdf
   figure: /images/publications/soheil_ijrr2023.png
 
-- title: "Safely and autonomously cutting meat with a collaborative robot arm"
-  authors: Ryan Wright, Sagar Parekh, Robin White, Dylan P. Losey
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: https://youtu.be/56mdHjjYMVc
-  figure: /images/publications/sagar_sr2023.png
-
-- title: "StROL: Stabilized and robust online learning from humans"
-  authors: Shaunak A. Mehta, Forrest Meng, Andrea Bajcsy, Dylan P. Losey
-  venue: ""
-  year: 2023
-  note: ""
-  pdf: /pdfs/shaunak_ral2023.pdf
-  figure: /images/publications/shaunak_ral2023.png
-
 - title: "Should collaborative robots be transparent?"
   authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
   venue: ""
@@ -53,6 +37,22 @@
   note: ""
   pdf: /pdfs/ananth_thri2023.pdf
   figure: /images/publications/ananth_thri2023.png
+
+- title: "Safely and autonomously cutting meat with a collaborative robot arm"
+  authors: Ryan Wright, Sagar Parekh, Robin White, Dylan P. Losey
+  venue: "Scientific Reports"
+  year: 2023
+  note: ""
+  pdf: /pdfs/wright_nature2023.pdf
+  figure: /images/publications/sagar_sr2023.png
+
+- title: "StROL: Stabilized and robust online learning from humans"
+  authors: Shaunak A. Mehta, Forrest Meng, Andrea Bajcsy, Dylan P. Losey
+  venue: "IEEE Robotics and Automation Letters"
+  year: 2023
+  note: ""
+  pdf: /pdfs/shaunak_ral2023.pdf
+  figure: /images/publications/shaunak_ral2023.png
 
 - title: "Reward learning with intractable normalizing functions"
   authors: Joshua Hoegerman, Dylan P. Losey
