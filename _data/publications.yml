@@ -1,7 +1,7 @@
 - title: "Unifying rigid and soft grippers for object manipulation during human-robot interaction"
   authors: Maya Keely, Yeunhee Kim, Shaunak A. Mehta, Joshua Hoegerman, Robert Ramirez Sanchez, Emily Paul, Camryn Mills, Dylan P. Losey, Michael D. Bartlett
   venue: ""
-  year: 2024
+  year: 2025
   note: ""
   pdf: ""
   figure: ""
@@ -9,7 +9,7 @@
 - title: "A review of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
   venue: ""
-  year: 2023
+  year: 2024
   note: ""
   pdf: /pdfs/soheil_ijrr2023.pdf
   figure: /images/publications/soheil_ijrr2023.png
@@ -17,7 +17,7 @@
 - title: "Should collaborative robots be transparent?"
   authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
   venue: ""
-  year: 2023
+  year: 2024
   note: ""
   pdf: /pdfs/shahab_ijsr2023.pdf
   figure: /images/publications/shahab_ijsr2023.png
@@ -25,15 +25,15 @@
 - title: "LIMIT: Learning interfaces to maximize information transfer"
   authors: Benjamin A. Christie, Dylan P. Losey
   venue: ""
-  year: 2023
+  year: 2024
   note: ""
   pdf: /pdfs/ben_thri2023.pdf
   figure: /images/publications/ben_thri2023.png
 
 - title: "SARI: Shared autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
-  venue: ""
-  year: 2023
+  venue: "ACM Transactions on Human-Robot Interaction"
+  year: 2024
   note: ""
   pdf: /pdfs/ananth_thri2023.pdf
   figure: /images/publications/ananth_thri2023.png
