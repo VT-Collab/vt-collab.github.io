@@ -6,6 +6,14 @@
   pdf: ""
   figure: ""
 
+- title: "Kiri-Spoon: A soft shape-changing utensil for robot-assisted feeding"
+  authors: Maya N. Keely, Heramb Nemlekar, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/keely_iros2024.pdf
+  figure: /images/publications/keely_iros2024.png
+
 - title: "A review of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
   venue: ""
