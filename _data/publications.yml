@@ -6,6 +6,14 @@
   pdf: ""
   figure: ""
 
+- title: "Accelerating interface adaptation with user-friendly priors"
+  authors: Benjamin A. Christie, Heramb Nemlekar, and Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/ben_iros2024.pdf
+  figure: /images/publications/ben_iros2024.png
+
 - title: "Kiri-Spoon: A soft shape-changing utensil for robot-assisted feeding"
   authors: Maya N. Keely, Heramb Nemlekar, Dylan P. Losey
   venue: ""
