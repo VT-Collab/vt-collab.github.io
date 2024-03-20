@@ -6,6 +6,22 @@
   pdf: ""
   figure: ""
 
+- title: "Kiri-Spoon: A soft shape-changing utensil for robot-assisted feeding"
+  authors: Maya N. Keely, Heramb Nemlekar, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/keely_iros2024.pdf
+  figure: /images/publications/keely_iros2024.png
+
+- title: "Waypoint-based reinforcement learning for robot manipulation tasks"
+  authors: Shaunak A. Mehta, Soheil Habibian, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/shaunak_iros2024.pdf
+  figure: /images/publications/shaunak_iros2024.png
+
 - title: "Accelerating interface adaptation with user-friendly priors"
   authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
   venue: ""
@@ -14,13 +30,13 @@
   pdf: /pdfs/ben_iros2024.pdf
   figure: /images/publications/ben_iros2024.png
 
-- title: "Kiri-Spoon: A soft shape-changing utensil for robot-assisted feeding"
-  authors: Maya N. Keely, Heramb Nemlekar, Dylan P. Losey
+- title: "Aligning learning with communication in shared autonomy"
+  authors: Joshua Hoegerman, Shahabedin Sagheb, Benjamin A. Christie, Dylan P. Losey
   venue: ""
   year: 2024
   note: ""
-  pdf: /pdfs/keely_iros2024.pdf
-  figure: /images/publications/keely_iros2024.png
+  pdf: /pdfs/josh_iros2024.pdf
+  figure: /images/publications/josh_iros2024.png
 
 - title: "A review of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
