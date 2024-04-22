@@ -1,10 +1,10 @@
-- title: "Unifying rigid and soft grippers for object manipulation during human-robot interaction"
+- title: "Combining and decoupling rigid and soft grippers to enhance robotic manipulation"
   authors: Maya Keely, Yeunhee Kim, Shaunak A. Mehta, Joshua Hoegerman, Robert Ramirez Sanchez, Emily Paul, Camryn Mills, Dylan P. Losey, Michael D. Bartlett
   venue: ""
-  year: 2025
+  year: 2024
   note: ""
-  pdf: ""
-  figure: ""
+  pdf: /pdfs/keely_soft2024.pdf
+  figure: /images/publications/keely_soft2024.png
 
 - title: "Kiri-Spoon: A soft shape-changing utensil for robot-assisted feeding"
   authors: Maya N. Keely, Heramb Nemlekar, Dylan P. Losey
