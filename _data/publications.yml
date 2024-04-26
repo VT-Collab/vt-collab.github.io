@@ -1,3 +1,11 @@
+- title: "VIEW: Visual imitation learning with waypoints"
+  authors: Ananth Jonnavittula, Sagar Parekh, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/ananth_auro2024.pdf
+  figure: /images/publications/ananth_auro2024.png
+
 - title: "Combining and decoupling rigid and soft grippers to enhance robotic manipulation"
   authors: Maya Keely, Yeunhee Kim, Shaunak A. Mehta, Joshua Hoegerman, Robert Ramirez Sanchez, Emily Paul, Camryn Mills, Dylan P. Losey, Michael D. Bartlett
   venue: ""
