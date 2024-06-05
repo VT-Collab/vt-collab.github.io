@@ -8,3 +8,5 @@
   display: 'Undergraduate Students'
 - keyword: 'highschool'
   display: 'High School Students'
+- keyword: 'alumni'
+  display: 'Lab Alumni'
