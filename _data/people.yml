@@ -47,7 +47,7 @@
 - name: Robert Ramirez Sanchez
   picture: /images/people/robert.jpg
   description: Robert is a Master's student in the Mechanical Engineering Department.
-  rank: undergrad
+  rank: grad
 
 
 - name: Brandon Franco
@@ -85,10 +85,10 @@
 
 - name: Benjamin Christie
   picture: /images/people/ben.jpg
-  description: MS student, 2022-2024.
+  description: MS student, 2022-2024. Next - The Boeing Company
   rank: alumni
 
 - name: Joshua Hoegerman
   picture: /images/people/josh.jpg
-  description: MS student, 2022-2024.
+  description: MS student, 2022-2024. Next - The Boeing Company
   rank: alumni  
