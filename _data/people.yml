@@ -11,12 +11,6 @@
   description: Heramb is a Postdoctoral Associate in the Mechanical Engineering Department. He is interested in assistive robots that quickly learn and adapt to human preferences.
   rank: postdoc
 
-- name: Soheil Habibian
-  picture: /images/people/soheil.jpg
-  website: https://soheilhbn.com/
-  description: Soheil is a PhD student in the Mechanical Engineering Department. He is interested in human-robot teams.
-  rank: grad
-
 - name: Sagar Parekh
   picture: /images/people/sagar.png
   description: Sagar is a PhD student in the Mechanical Engineering Department. He is interested in robots that influence humans.
@@ -32,6 +26,11 @@
   picture: /images/people/shahab.png
   website: https://www.sagheb.net/
   description: Shahab is an Assistant Collegiate Professor and a PhD student in the Mechanical Engineering Department. He is interested in humans and robots that learn, collaborate, and compete.
+  rank: grad
+
+- name: Benjamin Christie
+  picture: /images/people/ben.jpg
+  description: Ben is a PhD student in the Mechanical Engineering Department. He is supported in part by the US Army Engineering Research and Development Center.
   rank: grad
 
 - name: Maya Keely
@@ -83,9 +82,10 @@
   description: PhD student, 2020-2024.
   rank: alumni
 
-- name: Benjamin Christie
-  picture: /images/people/ben.jpg
-  description: MS student, 2022-2024. Next - US Army Engineering Research and Development Center
+- name: Soheil Habibian
+  picture: /images/people/soheil.jpg
+  website: https://soheilhbn.com/
+  description: PhD student, 2020-2024.
   rank: alumni
 
 - name: Joshua Hoegerman
