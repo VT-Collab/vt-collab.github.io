@@ -1,3 +1,11 @@
+- title: "Stable-BC: Controlling covariate shift with stable behavior cloning"
+  authors: Shaunak A. Mehta, Yusuf Umut Ciftci, Balamurugan Ramachandran, Somil Bansal, Dylan P. Losey
+  venue:
+  year: 2024
+  note: ""
+  pdf: /pdfs/shaunak_ral2024.pdf
+  figure: /images/publications/shaunak_ral2024.png
+
 - title: "PECAN: Personalizing robot behaviors through a learned canonical space"
   authors: Heramb Nemlekar, Robert Ramirez Sanchez, Dylan P. Losey
   venue: ""
