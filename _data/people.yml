@@ -2,7 +2,7 @@
 - name: Dylan Losey
   picture: /images/people/dylan.png
   website: https://dylanlosey.com/
-  description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech. He researches learning and control algorithms for personalizing robots that collaborate with people.
+  description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech.
   rank: leader
 
 - name: Heramb Nemlekar
@@ -46,6 +46,12 @@
 - name: Robert Ramirez Sanchez
   picture: /images/people/robert.jpg
   description: Robert is a Master's student in the Mechanical Engineering Department.
+  rank: grad
+
+- name: Yinlong Dai
+  picture: /images/people/yinlong.jpg
+  website: https://yinlongdai.github.io/
+  description: Yinlong is a PhD student in the Mechanical Engineering Department. He is interested in the intersection of robotics, vision, and machine learning.
   rank: grad
 
 
