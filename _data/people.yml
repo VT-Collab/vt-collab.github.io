@@ -55,6 +55,11 @@
   rank: grad
 
 
+- name: Casey Grothoff
+  picture: /images/people/casey.png
+  description: Casey is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
 - name: Brandon Franco
   picture: /images/people/default.jpg
   description: Brandon is an undergraduate student in the Mechanical Engineering Department.
