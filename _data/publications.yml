@@ -62,9 +62,9 @@
   pdf: /pdfs/ben_iros2024.pdf
   figure: /images/publications/ben_iros2024.png
 
-- title: "A review of communicating robot learning during human-robot interaction"
+- title: "A survey of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
-  venue: ""
+  venue: "The International Journal of Robotics Research"
   year: 2024
   note: ""
   pdf: /pdfs/soheil_ijrr2023.pdf
