@@ -1,3 +1,28 @@
+  
+- title: "RECON: Reducing causal confusion with human-placed markers"
+  authors: Robert Ramirez Sanchez, Heramb Nemlekar, Shahabedin Sagheb, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/robert_icra2025.pdf
+  figure: /images/publications/robert_icra2025.png
+
+- title: "Using high-level patterns to estimate how humans predict a robot will behave"
+  authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/sagar_icra2025.pdf
+  figure: /images/publications/sagar_icra2025.png
+
+- title: "Personalizing interfaces to humans with user-friendly priors"
+  authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/ben_icra2025.pdf
+  figure: /images/publications/ben_icra2025.png
+
 - title: "Stable-BC: Controlling covariate shift with stable behavior cloning"
   authors: Shaunak A. Mehta, Yusuf Umut Ciftci, Balamurugan Ramachandran, Somil Bansal, Dylan P. Losey
   venue:
@@ -53,14 +78,6 @@
   note: ""
   pdf: /pdfs/josh_iros2024.pdf
   figure: /images/publications/josh_iros2024.png
-
-- title: "Accelerating interface adaptation with user-friendly priors"
-  authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
-  venue: ""
-  year: 2024
-  note: ""
-  pdf: /pdfs/ben_iros2024.pdf
-  figure: /images/publications/ben_iros2024.png
 
 - title: "A survey of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
