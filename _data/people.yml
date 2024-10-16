@@ -55,6 +55,12 @@
   rank: grad
 
 
+
+- name: Ryan Jeronimus
+  picture: /images/people/default.png
+  description: Ryan is an undergraduate student in the Department of Electrical and Computer Engineering.
+  rank: undergrad
+
 - name: Casey Grothoff
   picture: /images/people/casey.png
   description: Casey is an undergraduate student in the Mechanical Engineering Department.
@@ -79,6 +85,7 @@
   picture: /images/people/neema.jpg
   description: Neema is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
+
 
 
 - name: Emily Paul
