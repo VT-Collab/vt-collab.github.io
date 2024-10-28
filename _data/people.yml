@@ -38,11 +38,6 @@
   description: Maya is a Master's student in the Mechanical Engineering Department.
   rank: grad
 
-- name: Balamurugan (Bala) Ramachandran
-  picture: /images/people/bala.jpg
-  description: Bala is a PhD student in the Mechanical Engineering Department. He is interested in how robots can influence humans.
-  rank: grad  
-
 - name: Robert Ramirez Sanchez
   picture: /images/people/robert.jpg
   description: Robert is a Master's student in the Mechanical Engineering Department.
@@ -94,10 +89,11 @@
   rank: highschool    
 
 
+
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
   website: https://ananth.fyi/
-  description: PhD student, 2020-2024.
+  description: PhD student, 2020-2024. Next - Foundation
   rank: alumni
 
 - name: Soheil Habibian
