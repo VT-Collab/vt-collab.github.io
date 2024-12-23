@@ -1,4 +1,12 @@
   
+- title: "Kiri-Spoon: A kirigami utensil for robot-assisted feeding"
+  authors: Maya Keely, Brandon Franco, Casey Grothoff, Rajat Kumar Jenamani, Tapomayukh Bhattacharjee, Dylan P. Losey, Heramb Nemlekar
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/keely_ijrr2024.pdf
+  figure: /images/publications/keely_ijrr2024.png
+  
 - title: "RECON: Reducing causal confusion with human-placed markers"
   authors: Robert Ramirez Sanchez, Heramb Nemlekar, Shahabedin Sagheb, Cara M. Nunez, Dylan P. Losey
   venue: ""
