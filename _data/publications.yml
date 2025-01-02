@@ -2,7 +2,7 @@
 - title: "Kiri-Spoon: A kirigami utensil for robot-assisted feeding"
   authors: Maya Keely, Brandon Franco, Casey Grothoff, Rajat Kumar Jenamani, Tapomayukh Bhattacharjee, Dylan P. Losey, Heramb Nemlekar
   venue: ""
-  year: 2024
+  year: 2025
   note: ""
   pdf: /pdfs/keely_ijrr2024.pdf
   figure: /images/publications/keely_ijrr2024.png
@@ -10,7 +10,7 @@
 - title: "RECON: Reducing causal confusion with human-placed markers"
   authors: Robert Ramirez Sanchez, Heramb Nemlekar, Shahabedin Sagheb, Cara M. Nunez, Dylan P. Losey
   venue: ""
-  year: 2024
+  year: 2025
   note: ""
   pdf: /pdfs/robert_icra2025.pdf
   figure: /images/publications/robert_icra2025.png
@@ -18,7 +18,7 @@
 - title: "Using high-level patterns to estimate how humans predict a robot will behave"
   authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P. Losey
   venue: ""
-  year: 2024
+  year: 2025
   note: ""
   pdf: /pdfs/sagar_icra2025.pdf
   figure: /images/publications/sagar_icra2025.png
@@ -26,18 +26,10 @@
 - title: "Personalizing interfaces to humans with user-friendly priors"
   authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
   venue: ""
-  year: 2024
+  year: 2025
   note: ""
   pdf: /pdfs/ben_icra2025.pdf
   figure: /images/publications/ben_icra2025.png
-
-- title: "Stable-BC: Controlling covariate shift with stable behavior cloning"
-  authors: Shaunak A. Mehta, Yusuf Umut Ciftci, Balamurugan Ramachandran, Somil Bansal, Dylan P. Losey
-  venue:
-  year: 2024
-  note: ""
-  pdf: /pdfs/shaunak_ral2024.pdf
-  figure: /images/publications/shaunak_ral2024.png
 
 - title: "PECAN: Personalizing robot behaviors through a learned canonical space"
   authors: Heramb Nemlekar, Robert Ramirez Sanchez, Dylan P. Losey
@@ -47,9 +39,25 @@
   pdf: /pdfs/nemlekar_thri2024.pdf
   figure: /images/publications/nemlekar_thri2024.png
 
+- title: "Should collaborative robots be transparent?"
+  authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
+  venue: ""
+  year: 2024
+  note: ""
+  pdf: /pdfs/shahab_ijsr2023.pdf
+  figure: /images/publications/shahab_ijsr2023.png
+
+- title: "Stable-BC: Controlling covariate shift with stable behavior cloning"
+  authors: Shaunak A. Mehta, Yusuf Umut Ciftci, Balamurugan Ramachandran, Somil Bansal, Dylan P. Losey
+  venue: "IEEE Robotics and Automation Letters"
+  year: 2024
+  note: ""
+  pdf: /pdfs/shaunak_ral2024.pdf
+  figure: /images/publications/shaunak_ral2024.png
+
 - title: "VIEW: Visual imitation learning with waypoints"
   authors: Ananth Jonnavittula, Sagar Parekh, Dylan P. Losey
-  venue: ""
+  venue: "Autonomous Robots"
   year: 2024
   note: ""
   pdf: /pdfs/ananth_auro2024.pdf
@@ -57,7 +65,7 @@
 
 - title: "Combining and decoupling rigid and soft grippers to enhance robotic manipulation"
   authors: Maya Keely, Yeunhee Kim, Shaunak A. Mehta, Joshua Hoegerman, Robert Ramirez Sanchez, Emily Paul, Camryn Mills, Dylan P. Losey, Michael D. Bartlett
-  venue: ""
+  venue: "Soft Robotics"
   year: 2024
   note: ""
   pdf: /pdfs/keely_soft2024.pdf
@@ -95,13 +103,6 @@
   pdf: /pdfs/soheil_ijrr2023.pdf
   figure: /images/publications/soheil_ijrr2023.png
 
-- title: "Should collaborative robots be transparent?"
-  authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
-  venue: ""
-  year: 2024
-  note: ""
-  pdf: /pdfs/shahab_ijsr2023.pdf
-  figure: /images/publications/shahab_ijsr2023.png
 
 - title: "LIMIT: Learning interfaces to maximize information transfer"
   authors: Benjamin A. Christie, Dylan P. Losey
