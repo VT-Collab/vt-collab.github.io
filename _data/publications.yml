@@ -27,8 +27,8 @@
   venue: ""
   year: 2025
   note: ""
-  pdf: /pdfs/sagar_icra2025.pdf
-  figure: /images/publications/sagar_icra2025.png
+  pdf: /pdfs/sagar_iros2025.pdf
+  figure: /images/publications/sagar_iros2025.png
 
 - title: "Personalizing interfaces to humans with user-friendly priors"
   authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
