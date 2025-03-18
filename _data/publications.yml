@@ -19,8 +19,8 @@
   venue: ""
   year: 2025
   note: ""
-  pdf: /pdfs/robert_icra2025.pdf
-  figure: /images/publications/robert_icra2025.png
+  pdf: /pdfs/robert_iros2025.pdf
+  figure: /images/publications/robert_iros2025.png
 
 - title: "Using high-level patterns to estimate how humans predict a robot will behave"
   authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P. Losey
@@ -32,7 +32,7 @@
 
 - title: "Personalizing interfaces to humans with user-friendly priors"
   authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
-  venue: ""
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2025
   note: ""
   pdf: /pdfs/ben_icra2025.pdf
