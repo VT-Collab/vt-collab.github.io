@@ -64,29 +64,7 @@
 - name: Brandon Franco
   picture: /images/people/default.jpg
   description: Brandon is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
-- name: Forrest Meng
-  picture: /images/people/forrest.jpg
-  description: Forrest is an undergraduate student in the Department of Electrical and Computer Engineering.
-  rank: undergrad
-
-- name: Soham Gandhi
-  picture: /images/people/soham.jpg
-  description: Soham is an undergraduate student in the Department of Electrical and Computer Engineering.
-  rank: undergrad
-
-- name: Neema Ahmadian
-  picture: /images/people/neema.jpg
-  description: Neema is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
-
-
-
-- name: Emily Paul
-  picture: /images/people/default.jpg
-  description: Emily worked on developing rigid and soft robotic grippers (Summer 2023).
-  rank: highschool    
 
 
 
@@ -99,10 +77,51 @@
 - name: Soheil Habibian
   picture: /images/people/soheil.jpg
   website: https://soheilhbn.com/
-  description: PhD student, 2020-2024.
+  description: PhD student, 2020-2024
   rank: phd-alumni
 
 - name: Joshua Hoegerman
   picture:
-  description: MS student, 2022-2024 (Next - The Boeing Company)
-  rank: other-alumni  
+  description: MS Student, 2022-2024 (Next - The Boeing Company)
+  rank: other-alumni
+
+- name: Emily Paul
+  picture:
+  description: High School Student, 2023
+  rank: other-alumni 
+
+- name: Forrest Meng
+  picture:
+  description: Undergraduate researcher, 2023
+  rank: other-alumni
+
+- name: Soham Gandhi
+  picture:
+  description: Undergraduate researcher, 2023
+  rank: other-alumni
+
+- name: Neema Ahmadian
+  picture:
+  description: Undergraduate researcher, 2022 (Next - PhD Student at Virginia Tech)
+  rank: other-alumni
+
+- name: Ritish Shailly
+  picture:
+  description: MS student, 2021 - 2022 (Next - Amazon)
+  rank: other-alumni
+
+- name: Naman Seth
+  picture:
+  description: Undergraduate student, 2021 (Next - Torc Robotics)
+  rank: other-alumni
+
+- name: Sounak Chakrabarti
+  picture:
+  description: Undergraduate student, 2020-2021 (Next - MS Student at Virginia Tech)
+  rank: other-alumni
+
+- name: James Mullen
+  picture:
+  description: Undergraduate student, 2020-2021 (Next - PhD Student at University of Maryland)
+  rank: other-alumni
+  
