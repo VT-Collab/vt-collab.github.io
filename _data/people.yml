@@ -5,11 +5,15 @@
   description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech.
   rank: leader
 
+
+
 - name: Heramb Nemlekar
   picture: /images/people/heramb.jpg
   website: https://herambnemlekar.github.io/
   description: Heramb is a Postdoctoral Associate in the Mechanical Engineering Department. He is interested in assistive robots that quickly learn and adapt to human preferences.
   rank: postdoc
+
+
 
 - name: Sagar Parekh
   picture: /images/people/sagar.png
@@ -120,7 +124,7 @@
   description: Undergraduate Student, 2020-2021 (Next - MS Student at Virginia Tech)
   rank: other-alumni
 
-- name: James Mullen
+- name: James Mullen Jr.
   picture:
   description: Undergraduate Student, 2020-2021 (Next - PhD Student at University of Maryland)
   rank: other-alumni
