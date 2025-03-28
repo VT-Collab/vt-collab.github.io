@@ -40,7 +40,9 @@ tags: people
 	  {% if person.rank == rank.keyword %}
     <tr>
       <td width="155">
+        {% if person.picture.size > 0 %}
         <img src="{{ person.picture | default: '/images/people/default.png' }}" width="150" style="border-radius:10px;" />
+        {% endif %}
       </td>
       <td>
         <h3>{{ person.name }}</h3>

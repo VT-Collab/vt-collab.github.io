@@ -93,16 +93,16 @@
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
   website: https://ananth.fyi/
-  description: PhD student, 2020-2024. Next - Foundation
-  rank: alumni
+  description: PhD student, 2020-2024 (Next - Foundation)
+  rank: phd-alumni
 
 - name: Soheil Habibian
   picture: /images/people/soheil.jpg
   website: https://soheilhbn.com/
   description: PhD student, 2020-2024.
-  rank: alumni
+  rank: phd-alumni
 
 - name: Joshua Hoegerman
-  picture: /images/people/josh.jpg
-  description: MS student, 2022-2024. Next - The Boeing Company
-  rank: alumni  
+  picture:
+  description: MS student, 2022-2024 (Next - The Boeing Company)
+  rank: other-alumni  
