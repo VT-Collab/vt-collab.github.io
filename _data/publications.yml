@@ -1,3 +1,11 @@
+- title: "CIVIL: Causal and intuitive visual imitation learning"
+  authors: Yinlong Dai, Robert Ramirez Sanchez, Ryan Jeronimus, Shahabedin Sagheb, Cara M. Nunez, Heramb Nemlekar, Dylan P. Losey
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/dai_tro2025.pdf
+  figure: /images/publications/dai_tro2025.png
+
 - title: "Safe interaction via Monte Carlo linear-quadratic games"
   authors: Benjamin A. Christie, Dylan P. Losey
   venue: ""
