@@ -67,6 +67,7 @@
 
 - name: Brandon Franco
   picture: /images/people/default.jpg
+  website: bcfranco.vt.domains
   description: Brandon is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
 
@@ -91,7 +92,7 @@
 
 - name: Emily Paul
   picture:
-  description: High School Student, 2023
+  description: High School Student, 2023 (Next - Undergrad at Georgia Tech)
   rank: other-alumni 
 
 - name: Forrest Meng
