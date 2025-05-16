@@ -1,3 +1,12 @@
+
+- title: "Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations"
+  authors: Shahabedin Sagheb and Dylan P. Losey
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/losey_thri2025.pdf
+  figure: /images/publications/losey_thri2025.png
+
 - title: "CIVIL: Causal and intuitive visual imitation learning"
   authors: Yinlong Dai, Robert Ramirez Sanchez, Ryan Jeronimus, Shahabedin Sagheb, Cara M. Nunez, Heramb Nemlekar, Dylan P. Losey
   venue: ""
