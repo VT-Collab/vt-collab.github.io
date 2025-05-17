@@ -1,6 +1,14 @@
 
-- title: "Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations"
-  authors: Shahabedin Sagheb and Dylan P. Losey
+- title: "L2D2: Robot learning from 2D drawings"
+  authors: Shaunak A. Mehta, Heramb Nemlekar, Hari Sumant, Dylan P. Losey
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/shaunak_auro2025.pdf
+  figure: /images/publications/shaunak_auro2025.png
+
+- title: "Counterfactual behavior cloning: Offline imitation learning from imperfect human demonstrations"
+  authors: Shahabedin Sagheb, Dylan P. Losey
   venue: ""
   year: 2025
   note: ""
