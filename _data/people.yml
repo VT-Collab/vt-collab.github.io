@@ -54,15 +54,24 @@
   rank: grad
 
 
+- name: Keone Leao
+  picture: /images/people/keone.png
+  description: Keone is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
 
-- name: Ryan Jeronimus
-  picture: /images/people/ryan.jpg
-  description: Ryan is an undergraduate student in the Department of Electrical and Computer Engineering.
+- name: Andre Keyser
+  picture: /images/people/andre.png
+  description: Andre is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
 - name: Casey Grothoff
   picture: /images/people/casey.png
   description: Casey is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
+- name: Ryan Jeronimus
+  picture: /images/people/ryan.jpg
+  description: Ryan is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
 - name: Brandon Franco
@@ -97,12 +106,12 @@
 
 - name: Forrest Meng
   picture:
-  description: Undergraduate Student, 2023
+  description: Undergraduate Student, 2023 (Next - Grand Charter)
   rank: other-alumni
 
 - name: Soham Gandhi
   picture:
-  description: Undergraduate Student, 2023
+  description: Undergraduate Student, 2023 (Next - Texas Instruments)
   rank: other-alumni
 
 - name: Neema Ahmadian
