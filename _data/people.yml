@@ -7,14 +7,6 @@
 
 
 
-- name: Heramb Nemlekar
-  picture: /images/people/heramb.jpg
-  website: https://herambnemlekar.github.io/
-  description: Heramb is a Postdoctoral Associate in the Mechanical Engineering Department. He is interested in assistive robots that quickly learn and adapt to human preferences.
-  rank: postdoc
-
-
-
 - name: Sagar Parekh
   picture: /images/people/sagar.png
   description: Sagar is a PhD student in the Mechanical Engineering Department. He is interested in robots that influence humans.
@@ -37,14 +29,9 @@
   description: Ben is a PhD student in the Mechanical Engineering Department. He is supported in part by the US Army Engineering Research and Development Center.
   rank: grad
 
-- name: Maya Keely
-  picture: /images/people/maya.png
-  description: Maya is a Master's student in the Mechanical Engineering Department.
-  rank: grad
-
 - name: Robert Ramirez Sanchez
   picture: /images/people/robert.jpg
-  description: Robert is a Master's student in the Mechanical Engineering Department.
+  description: Robert is a PhD student in the Mechanical Engineering Department. He is interested in robots that reason over vision and language.
   rank: grad
 
 - name: Yinlong Dai
@@ -54,6 +41,11 @@
   rank: grad
 
 
+
+- name: Grace Brotherson
+  picture: /images/people/grace.jpg
+  description: Grace is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
 
 - name: Keone Leao
   picture: /images/people/keone.png
@@ -83,6 +75,12 @@
 
 
 
+- name: Heramb Nemlekar
+  picture: /images/people/heramb.jpg
+  website: https://herambnemlekar.github.io/
+  description: Postdoctoral Scholar, 2024-2025 (Next - Assistant Professor at CSUN)
+  rank: phd-alumni
+
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
   website: https://ananth.fyi/
@@ -94,6 +92,11 @@
   website: https://soheilhbn.com/
   description: PhD Student, 2020-2024
   rank: phd-alumni
+
+- name: Maya Keely
+  picture:
+  description: MS Student, 2023-2025
+  rank: other-alumni
 
 - name: Joshua Hoegerman
   picture:
