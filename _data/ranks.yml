@@ -10,5 +10,5 @@
   display: 'High School Students'
 - keyword: 'phd-alumni'
   display: 'Phd & Postdoc Alumni'
-- keyword: 'other-alumni'
+- keyword: 'alumni'
   display: 'Other Alumni'
