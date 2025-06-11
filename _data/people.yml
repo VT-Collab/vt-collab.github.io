@@ -73,11 +73,11 @@
   description: Brandon is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
 
-- name: Heramb Nemlekar
-  picture: /images/people/heramb.jpg
-  website: https://herambnemlekar.github.io/
-  description: Postdoctoral Scholar, 2024-2025 (Next - Assistant Professor at CSUN)
-  rank: phd-alumni
+# - name: Heramb Nemlekar
+#   picture: /images/people/heramb.jpg
+#   website: https://herambnemlekar.github.io/
+#   description: Postdoctoral Scholar, 2024-2025 (Next - Assistant Professor at CSUN)
+#   rank: phd-alumni
 
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
@@ -91,10 +91,10 @@
   description: PhD Student, 2020-2024
   rank: phd-alumni
 
-- name: Maya Keely
-  picture:
-  description: MS Student, 2023-2025
-  rank: other-alumni
+# - name: Maya Keely
+#   picture:
+#   description: MS Student, 2023-2025
+#   rank: other-alumni
 
 - name: Joshua Hoegerman
   picture:
