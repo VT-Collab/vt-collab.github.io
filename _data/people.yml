@@ -1,11 +1,8 @@
-
 - name: Dylan Losey
   picture: /images/people/dylan.png
   website: https://dylanlosey.com/
   description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech.
   rank: leader
-
-
 
 - name: Sagar Parekh
   picture: /images/people/sagar.png
@@ -40,8 +37,6 @@
   description: Yinlong is a PhD student in the Mechanical Engineering Department. He is interested in the intersection of robotics, vision, and machine learning.
   rank: grad
 
-
-
 - name: Grace Brotherson
   picture: /images/people/grace.jpg
   description: Grace is an undergraduate student in the Mechanical Engineering Department.
@@ -73,8 +68,6 @@
   description: Brandon is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
 
-
-
 - name: Heramb Nemlekar
   picture: /images/people/heramb.jpg
   website: https://herambnemlekar.github.io/
@@ -92,8 +85,6 @@
   website: https://soheilhbn.com/
   description: PhD Student, 2020-2024
   rank: other-alumni
-
-
 
 - name: Maya Keely
   picture:
