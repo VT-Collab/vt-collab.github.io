@@ -1,8 +1,11 @@
+
 - name: Dylan Losey
   picture: /images/people/dylan.png
   website: https://dylanlosey.com/
   description: Dylan is an Assistant Professor in the Mechanical Engineering Department at Virginia Tech.
   rank: leader
+
+
 
 - name: Sagar Parekh
   picture: /images/people/sagar.png
@@ -37,6 +40,8 @@
   description: Yinlong is a PhD student in the Mechanical Engineering Department. He is interested in the intersection of robotics, vision, and machine learning.
   rank: grad
 
+
+
 - name: Grace Brotherson
   picture: /images/people/grace.jpg
   description: Grace is an undergraduate student in the Mechanical Engineering Department.
@@ -68,71 +73,75 @@
   description: Brandon is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad  
 
+
+
 - name: Heramb Nemlekar
   picture: /images/people/heramb.jpg
   website: https://herambnemlekar.github.io/
   description: Postdoctoral Scholar, 2024-2025 (Next - Assistant Professor at CSUN)
-  rank: undergrad
+  rank: phd-alumni
 
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
   website: https://ananth.fyi/
   description: PhD Student, 2020-2024 (Next - Foundation)
-  rank: test
+  rank: phd-alumni
 
 - name: Soheil Habibian
   picture: /images/people/soheil.jpg
   website: https://soheilhbn.com/
   description: PhD Student, 2020-2024
-  rank: undergrad
+  rank: phd-alumni
+
+
 
 - name: Maya Keely
   picture:
   description: MS Student, 2023-2025
-  rank: undergrad
+  rank: other-alumni
 
 - name: Joshua Hoegerman
   picture:
   description: MS Student, 2022-2024 (Next - The Boeing Company)
-  rank: undergrad
+  rank: other-alumni
 
 - name: Emily Paul
   picture:
   description: High School Student, 2023 (Next - Undergrad at Georgia Tech)
-  rank: undergrad 
+  rank: other-alumni 
 
 - name: Forrest Meng
   picture:
   description: Undergraduate Student, 2023 (Next - Grand Charter)
-  rank: undergrad
+  rank: other-alumni
 
 - name: Soham Gandhi
   picture:
   description: Undergraduate Student, 2023 (Next - Texas Instruments)
-  rank: undergrad
+  rank: other-alumni
 
 - name: Neema Ahmadian
   picture:
   description: Undergraduate Student, 2022 (Next - PhD Student at Virginia Tech)
-  rank: undergrad
+  rank: other-alumni
 
 - name: Ritish Shailly
   picture:
   description: MS Student, 2021 - 2022 (Next - Amazon)
-  rank: undergrad
+  rank: other-alumni
 
 - name: Naman Seth
   picture:
   description: Undergraduate Student, 2021 (Next - Torc Robotics)
-  rank: undergrad
+  rank: other-alumni
 
 - name: Sounak Chakrabarti
   picture:
   description: Undergraduate Student, 2020-2021 (Next - MS Student at Virginia Tech)
-  rank: undergrad
+  rank: other-alumni
 
 - name: James Mullen Jr.
   picture:
   description: Undergraduate Student, 2020-2021 (Next - PhD Student at University of Maryland)
-  rank: undergrad
+  rank: other-alumni
   
