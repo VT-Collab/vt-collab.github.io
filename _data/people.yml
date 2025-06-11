@@ -79,69 +79,69 @@
   picture: /images/people/heramb.jpg
   website: https://herambnemlekar.github.io/
   description: Postdoctoral Scholar, 2024-2025 (Next - Assistant Professor at CSUN)
-  rank: phd-alumni
+  rank: undergrad
 
 - name: Ananth Jonnavittula
   picture: /images/people/ananth.png
   website: https://ananth.fyi/
   description: PhD Student, 2020-2024 (Next - Foundation)
-  rank: phd-alumni
+  rank: undergrad
 
 - name: Soheil Habibian
   picture: /images/people/soheil.jpg
   website: https://soheilhbn.com/
   description: PhD Student, 2020-2024
-  rank: phd-alumni
+  rank: undergrad
 
 
 
 - name: Maya Keely
   picture:
   description: MS Student, 2023-2025
-  rank: other-alumni
+  rank: undergrad
 
 - name: Joshua Hoegerman
   picture:
   description: MS Student, 2022-2024 (Next - The Boeing Company)
-  rank: other-alumni
+  rank: undergrad
 
 - name: Emily Paul
   picture:
   description: High School Student, 2023 (Next - Undergrad at Georgia Tech)
-  rank: other-alumni 
+  rank: undergrad 
 
 - name: Forrest Meng
   picture:
   description: Undergraduate Student, 2023 (Next - Grand Charter)
-  rank: other-alumni
+  rank: undergrad
 
 - name: Soham Gandhi
   picture:
   description: Undergraduate Student, 2023 (Next - Texas Instruments)
-  rank: other-alumni
+  rank: undergrad
 
 - name: Neema Ahmadian
   picture:
   description: Undergraduate Student, 2022 (Next - PhD Student at Virginia Tech)
-  rank: other-alumni
+  rank: undergrad
 
 - name: Ritish Shailly
   picture:
   description: MS Student, 2021 - 2022 (Next - Amazon)
-  rank: other-alumni
+  rank: undergrad
 
 - name: Naman Seth
   picture:
   description: Undergraduate Student, 2021 (Next - Torc Robotics)
-  rank: other-alumni
+  rank: undergrad
 
 - name: Sounak Chakrabarti
   picture:
   description: Undergraduate Student, 2020-2021 (Next - MS Student at Virginia Tech)
-  rank: other-alumni
+  rank: undergrad
 
 - name: James Mullen Jr.
   picture:
   description: Undergraduate Student, 2020-2021 (Next - PhD Student at University of Maryland)
-  rank: other-alumni
+  rank: undergrad
   
