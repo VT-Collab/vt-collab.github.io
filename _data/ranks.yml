@@ -8,5 +8,5 @@
   display: 'Undergraduate Students'
 - keyword: 'phd-alumni'
   display: 'Phd & Postdoc Alumni'
-- keyword: 'alumni'
+- keyword: 'other-alumni'
   display: 'Other Alumni'
