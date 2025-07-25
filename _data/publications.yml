@@ -7,6 +7,14 @@
   pdf: /pdfs/losey_review2025.pdf
   figure: /images/publications/losey_review2025.png
 
+- title: "Safe and transparent robots for human-in-the-loop meat processing"
+  authors: Sagar Parekh, Casey Grothoff, Ryan Wright, Robin White, Dylan P. Losey
+  venue:
+  year: 2025
+  note: ""
+  pdf: /pdfs/sagar_science2025.pdf
+  figure: /images/publications/sagar_science2025.png
+
 - title: "A modular haptic display with reconfigurable signals for personalized information transfer"
   authors: Antonio Alvarez Valdivia, Benjamin A. Christie, Dylan P. Losey, Laura H. Blumenschein
   venue: ""
