@@ -2,7 +2,7 @@
 title: collab
 email:
 author: collab
-description: "Collaborative Robotics Lab"
+description: "Collaborative Robotics Lab at Virginia Tech. We create learning and control algorithms for robots that collaborate with people."
 baseurl: ""
 url: "https://collab.me.vt.edu/"
 date_format: "%b %-d, %Y"
