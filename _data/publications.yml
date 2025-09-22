@@ -1,4 +1,36 @@
 
+- title: "Prepare before you act: Learning from humans to rearrange initial states"
+  authors: Yinlong Dai, Andre Keyser, Dylan P. Losey
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/dai_icra2026.pdf
+  figure: /images/publications/dai_icra2026.png
+
+- title: "Fine-tuning robot policies while maintaining user privacy"
+  authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/ben_icra2026.pdf
+  figure: /images/publications/ben_icra2026.png
+
+- title: "Combining performance and passivity in linear control of series elastic actuators"
+  authors: Shaunak A. Mehta, Dylan P. Losey
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/shaunak_icra2026.pdf
+  figure: /images/publications/shaunak_icra2026.png
+
+- title: "Teleoperator-aware and safety-critical adaptive nonlinear MPC for shared autonomy in obstacle avoidance of legged robots"
+  authors: Ruturaj Sambhus, Muneeb Ahmad, Basit Muhammad Imran, Sujith Vijayan, Dylan P. Losey, Kaveh Akbari Hamed
+  venue: ""
+  year: 2025
+  note: ""
+  pdf: /pdfs/ruturaj_icra2026.pdf
+  figure: /images/publications/rutraj_icra2026.png      
+
 - title: "Towards robots that learn from humans"
   authors: Dylan P. Losey
   venue: ""
