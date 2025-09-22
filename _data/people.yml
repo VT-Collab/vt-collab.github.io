@@ -13,12 +13,6 @@
   description: Sagar is a PhD student in the Mechanical Engineering Department. He is interested in robots that influence humans.
   rank: grad
 
-- name: Shaunak Mehta
-  picture: /images/people/shaunak.png
-  website: https://mehtashaunak.github.io/
-  description: Shaunak is a PhD student in the Mechanical Engineering Department. He is interested in physical human-robot interaction.
-  rank: grad
-
 - name: Shahabedin (Shahab) Sagheb
   picture: /images/people/shahab.png
   website: https://www.sagheb.net/
@@ -40,6 +34,13 @@
   website: https://yinlongdai.github.io/
   description: Yinlong is a PhD student in the Mechanical Engineering Department. He is interested in the intersection of robotics, vision, and machine learning.
   rank: grad
+
+- name: Iain Mischel
+  picture: /images/people/iain.jpg
+  website: https://yinlongdai.github.io/
+  description: Yinlong is an MS student in the Mechanical Engineering Department. He is interested in assistive technology.
+  rank: grad
+
 
 
 - name: Grace Brotherson
@@ -84,6 +85,12 @@
   rank: undergrad  
 
 
+
+- name: Shaunak Mehta
+  picture: /images/people/shaunak.png
+  website: https://mehtashaunak.github.io/
+  description: PhD and MS Student, 2021-2025 (Next - Fujitsu)
+  rank: phd-alumni
 
 - name: Heramb Nemlekar
   picture: /images/people/heramb.jpg
