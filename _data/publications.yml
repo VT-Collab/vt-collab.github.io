@@ -1,3 +1,10 @@
+- title: "Shared control/autonomy: A historical perspective, current trends, and the role of generative AI"
+  authors: Michael Hagenow, Mario Selvaggio, Xuehui Yu, Yanwei Wang, Yiannis Demiris, Andreea Bobu, Yilun Du, Harold Soh, Dylan P. Losey, Julie Shah
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/hagenow_review2026.pdf
+  figure: /images/publications/hagenow_review2026.png
 
 - title: "Prepare before you act: Learning from humans to rearrange initial states"
   authors: Yinlong Dai, Andre Keyser, Dylan P. Losey
