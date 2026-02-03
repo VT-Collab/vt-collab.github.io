@@ -16,7 +16,7 @@
 
 - title: "Prepare before you act: Learning from humans to rearrange initial states"
   authors: Yinlong Dai, Andre Keyser, Dylan P. Losey
-  venue: ""
+  venue: "IEEE International Conference on Robotics and Automation"
   year: 2025
   note: ""
   pdf: /pdfs/dai_icra2026.pdf
@@ -56,7 +56,7 @@
 
 - title: "Towards balanced behavior cloning from imbalanced datasets"
   authors: Sagar Parekh, Heramb Nemlekar, Dylan P. Losey
-  venue: ""
+  venue: "Autonomous Robots"
   year: 2025
   note: ""
   pdf: /pdfs/sagar_auro2025.pdf
@@ -72,7 +72,7 @@
 
 - title: "A modular haptic display with reconfigurable signals for personalized information transfer"
   authors: Antonio Alvarez Valdivia, Benjamin A. Christie, Dylan P. Losey, Laura H. Blumenschein
-  venue: ""
+  venue: "IEEE Transactions on Haptics"
   year: 2025
   note: ""
   pdf: /pdfs/valdivia_toh2025.pdf
@@ -80,7 +80,7 @@
 
 - title: "L2D2: Robot learning from 2D drawings"
   authors: Shaunak A. Mehta, Heramb Nemlekar, Hari Sumant, Dylan P. Losey
-  venue: ""
+  venue: "Autonomous Robots"
   year: 2025
   note: ""
   pdf: /pdfs/shaunak_auro2025.pdf
@@ -120,7 +120,7 @@
 
 - title: "Kiri-Spoon: A kirigami utensil for robot-assisted feeding"
   authors: Maya Keely, Brandon Franco, Casey Grothoff, Rajat Kumar Jenamani, Tapomayukh Bhattacharjee, Dylan P. Losey, Heramb Nemlekar
-  venue: ""
+  venue: "The International Journal of Robotics Research"
   year: 2025
   note: ""
   pdf: /pdfs/keely_ijrr2024.pdf
@@ -128,7 +128,7 @@
   
 - title: "RECON: Reducing causal confusion with human-placed markers"
   authors: Robert Ramirez Sanchez, Heramb Nemlekar, Shahabedin Sagheb, Cara M. Nunez, Dylan P. Losey
-  venue: ""
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2025
   note: ""
   pdf: /pdfs/robert_iros2025.pdf
@@ -136,7 +136,7 @@
 
 - title: "Using high-level patterns to estimate how humans predict a robot will behave"
   authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P. Losey
-  venue: ""
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2025
   note: ""
   pdf: /pdfs/sagar_iros2025.pdf
