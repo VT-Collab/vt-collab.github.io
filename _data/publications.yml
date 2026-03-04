@@ -1,3 +1,43 @@
+- title: "From local corrections to generalized skills: Improving neuro-symbolic policies with MEMO"
+  authors: Benjamin A. Christie, Yinlong Dai, Mohammad Bararjanianbahnamiri, Simon Stepputtis, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/ben_iros2026-2.pdf
+  figure: /images/publications/ben_iros2026-2.png
+
+- title: "A pivot-based kirigami utensil for hand-held and robot-assisted feeding"
+  authors: Keone Leao, Grace Brotherson, Iain Mischel, Sagar Parekh, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/keone_iros2026.pdf
+  figure: /images/publications/keone_iros2026.png  
+
+- title: "Fine-tuning robot policies while maintaining user privacy"
+  authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/ben_iros2026-1.pdf
+  figure: /images/publications/ben_iros2026-1.png
+
+- title: "Combining performance and passivity in linear control of series elastic actuators"
+  authors: Shaunak A. Mehta, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/shaunak_iros2026.pdf
+  figure: /images/publications/shaunak_iros2026.png
+
+- title: "Teleoperator-aware and safety-critical adaptive nonlinear MPC for shared autonomy in obstacle avoidance of legged robots"
+  authors: Ruturaj Sambhus, Muneeb Ahmad, Basit Muhammad Imran, Sujith Vijayan, Dylan P. Losey, Kaveh Akbari Hamed
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/ruturaj_iros2026.pdf
+  figure: /images/publications/ruturaj_iros2026.png
+
 - title: "Language movement primitives: Grounding language models in robot motion"
   authors: Yinlong Dai, Benjamin A. Christie, Daniel J. Evans, Dylan P. Losey, and Simon Stepputtis
   venue: ""
@@ -20,31 +60,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/dai_icra2026.pdf
-  figure: /images/publications/dai_icra2026.png
-
-- title: "Fine-tuning robot policies while maintaining user privacy"
-  authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
-  venue: ""
-  year: 2025
-  note: ""
-  pdf: /pdfs/ben_icra2026.pdf
-  figure: /images/publications/ben_icra2026.png
-
-- title: "Combining performance and passivity in linear control of series elastic actuators"
-  authors: Shaunak A. Mehta, Dylan P. Losey
-  venue: ""
-  year: 2025
-  note: ""
-  pdf: /pdfs/shaunak_icra2026.pdf
-  figure: /images/publications/shaunak_icra2026.png
-
-- title: "Teleoperator-aware and safety-critical adaptive nonlinear MPC for shared autonomy in obstacle avoidance of legged robots"
-  authors: Ruturaj Sambhus, Muneeb Ahmad, Basit Muhammad Imran, Sujith Vijayan, Dylan P. Losey, Kaveh Akbari Hamed
-  venue: ""
-  year: 2025
-  note: ""
-  pdf: /pdfs/ruturaj_icra2026.pdf
-  figure: /images/publications/ruturaj_icra2026.png      
+  figure: /images/publications/dai_icra2026.png      
 
 - title: "Towards robots that learn from humans"
   authors: Dylan P. Losey
