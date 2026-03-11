@@ -1,3 +1,11 @@
+- title: "TransMASK: Masked state representation through learned transformation"
+  authors: Sagar Parekh, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/sagar_auro2026.pdf
+  figure: /images/publications/sagar_auro2026.png
+
 - title: "From local corrections to generalized skills: Improving neuro-symbolic policies with MEMO"
   authors: Benjamin A. Christie, Yinlong Dai, Mohammad Bararjanianbahnamiri, Simon Stepputtis, Dylan P. Losey
   venue: ""
