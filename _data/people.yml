@@ -42,6 +42,12 @@
   rank: grad
 
 
+- name: Mohammad Bararjanianbahnamiri
+  picture: /images/people/mohammad.jpg
+  website:
+  description: Mohammad is a visiting scholar at Virginia Tech. He is interested in robot control and learning.
+  rank: visiting
+
 
 - name: Grace Brotherson
   picture: /images/people/grace.jpg
