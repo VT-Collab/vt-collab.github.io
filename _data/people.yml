@@ -10,7 +10,7 @@
 - name: Sagar Parekh
   picture: /images/people/sagar.png
   website: https://sagarparekh97.github.io/
-  description: Sagar is a PhD student in the Mechanical Engineering Department. He is interested in robots that influence humans.
+  description: Sagar is a PhD student in the Mechanical Engineering Department. He is interested in imitation learning and co-adaptive robots.
   rank: grad
 
 - name: Shahabedin (Shahab) Sagheb
@@ -38,7 +38,7 @@
 - name: Iain Mischel
   picture: /images/people/iain.jpg
   website:
-  description: Iain is an MS student in the Mechanical Engineering Department. He is interested in assistive technology.
+  description: Iain is an MS student in the Mechanical Engineering Department. He is interested in assistive technology and jellyfish.
   rank: grad
 
 
@@ -59,14 +59,14 @@
   description: Keone is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
-- name: Siddhant Gvalani
-  picture: /images/people/sid.jpg
-  description: Siddhant is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
 - name: Daniel Evans
   picture: /images/people/daniel.jpg
   description: Daniel is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
+- name: Siddhant Gvalani
+  picture: /images/people/sid.jpg
+  description: Siddhant is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
 - name: Andre Keyser
@@ -120,7 +120,7 @@
 
 - name: Maya Keely
   picture:
-  description: MS Student, 2023-2025
+  description: MS Student, 2023-2025 (Next - Eldor Corp.)
   rank: other-alumni
 
 - name: Joshua Hoegerman
