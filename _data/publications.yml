@@ -1,3 +1,12 @@
+
+- title: "Safe interactions via Monte Carlo linear-quadratic games"
+  authors: Benjamin A. Christie, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/ben_thri2026.pdf
+  figure: /images/publications/ben_thri2026.png 
+
 - title: "TransMASK: Masked state representation through learned transformation"
   authors: Sagar Parekh, Preston Culbertson, Dylan P. Losey
   venue: ""
@@ -124,15 +133,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/dai_tro2025.pdf
-  figure: /images/publications/dai_tro2025.png
-
-- title: "Safe interaction via Monte Carlo linear-quadratic games"
-  authors: Benjamin A. Christie, Dylan P. Losey
-  venue: ""
-  year: 2025
-  note: ""
-  pdf: /pdfs/ben_ral2025.pdf
-  figure: /images/publications/ben_ral2025.png  
+  figure: /images/publications/dai_tro2025.png 
 
 - title: "A unified framework for robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Sagar Parekh, Ravi Pandya, Ye-Ji Mun, Katherine Driggs-Campbell, Andrea Bajcsy, Dylan P. Losey
