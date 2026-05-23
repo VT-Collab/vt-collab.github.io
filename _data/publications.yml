@@ -60,8 +60,8 @@
   venue: ""
   year: 2026
   note: ""
-  pdf: /pdfs/dai_rss2026.pdf
-  figure: /images/publications/dai_rss2026.png
+  pdf: /pdfs/dai_2026.pdf
+  figure: /images/publications/dai_2026.png
 
 - title: "Shared control/autonomy: A historical perspective, current trends, and the role of generative AI"
   authors: Michael Hagenow, Mario Selvaggio, Xuehui Yu, Yanwei Wang, Yiannis Demiris, Andreea Bobu, Yilun Du, Harold Soh, Dylan P. Losey, Julie Shah
@@ -132,8 +132,8 @@
   venue: ""
   year: 2025
   note: ""
-  pdf: /pdfs/dai_tro2025.pdf
-  figure: /images/publications/dai_tro2025.png 
+  pdf: /pdfs/dai_2025.pdf
+  figure: /images/publications/dai_2025.png 
 
 - title: "A unified framework for robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Sagar Parekh, Ravi Pandya, Ye-Ji Mun, Katherine Driggs-Campbell, Andrea Bajcsy, Dylan P. Losey
