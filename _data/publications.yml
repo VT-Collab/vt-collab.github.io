@@ -1,4 +1,12 @@
 
+- title: "VOLT: Vision and language trajectory segmentation for faster-than-demonstration policies"
+  authors: Robert Ramirez Sanchez, Daniel J. Evans, Dylan P. Losey, Siddarth Jain
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/robert_2026.pdf
+  figure: /images/publications/robert_2026.png 
+
 - title: "Safe interactions via Monte Carlo linear-quadratic games"
   authors: Benjamin A. Christie, Dylan P. Losey
   venue: ""
