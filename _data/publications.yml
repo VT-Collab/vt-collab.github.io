@@ -12,28 +12,28 @@
   venue: ""
   year: 2026
   note: ""
-  pdf: /pdfs/ben_thri2026.pdf
-  figure: /images/publications/ben_thri2026.png 
+  pdf: /pdfs/ben_2026-1.pdf
+  figure: /images/publications/ben_2026-1.png 
 
 - title: "TransMASK: Masked state representation through learned transformation"
   authors: Sagar Parekh, Preston Culbertson, Dylan P. Losey
   venue: ""
   year: 2026
   note: ""
-  pdf: /pdfs/sagar_auro2026.pdf
-  figure: /images/publications/sagar_auro2026.png
+  pdf: /pdfs/sagar_2026.pdf
+  figure: /images/publications/sagar_2026.png
 
 - title: "From local corrections to generalized skills: Improving neuro-symbolic policies with MEMO"
   authors: Benjamin A. Christie, Yinlong Dai, Mohammad Bararjanianbahnamiri, Simon Stepputtis, Dylan P. Losey
-  venue: ""
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2026
   note: ""
-  pdf: /pdfs/ben_iros2026-2.pdf
-  figure: /images/publications/ben_iros2026-2.png
+  pdf: /pdfs/ben_iros2026.pdf
+  figure: /images/publications/ben_iros2026.png
 
 - title: "A pivot-based kirigami utensil for hand-held and robot-assisted feeding"
   authors: Keone Leao, Grace Brotherson, Iain Mischel, Sagar Parekh, Dylan P. Losey
-  venue: ""
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
   year: 2026
   note: ""
   pdf: /pdfs/keone_iros2026.pdf
@@ -44,24 +44,24 @@
   venue: ""
   year: 2026
   note: ""
-  pdf: /pdfs/ben_iros2026-1.pdf
-  figure: /images/publications/ben_iros2026-1.png
+  pdf: /pdfs/ben_2026-2.pdf
+  figure: /images/publications/ben_2026-2.png
 
 - title: "Combining performance and passivity in linear control of series elastic actuators"
   authors: Shaunak A. Mehta, Dylan P. Losey
   venue: ""
   year: 2026
   note: ""
-  pdf: /pdfs/shaunak_iros2026.pdf
-  figure: /images/publications/shaunak_iros2026.png
+  pdf: /pdfs/shaunak_2026.pdf
+  figure: /images/publications/shaunak_2026.png
 
 - title: "Teleoperator-aware and safety-critical adaptive nonlinear MPC for shared autonomy in obstacle avoidance of legged robots"
   authors: Ruturaj Sambhus, Muneeb Ahmad, Basit Muhammad Imran, Sujith Vijayan, Dylan P. Losey, Kaveh Akbari Hamed
   venue: ""
   year: 2026
   note: ""
-  pdf: /pdfs/ruturaj_iros2026.pdf
-  figure: /images/publications/ruturaj_iros2026.png
+  pdf: /pdfs/ruturaj_2026.pdf
+  figure: /images/publications/ruturaj_2026.png
 
 - title: "Language movement primitives: Grounding language models in robot motion"
   authors: Yinlong Dai, Benjamin A. Christie, Daniel J. Evans, Dylan P. Losey, and Simon Stepputtis
