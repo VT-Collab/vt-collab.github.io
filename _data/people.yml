@@ -42,11 +42,6 @@
   description: Daniel is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
-- name: Misha Fu
-  picture: /images/people/default.jpg
-  description: Misha is a visiting undergraduate student from the University of Southern California.
-  rank: undergrad
-
 - name: Sam Iyer-Singh
   picture: /images/people/sam.jpg
   description: Sam is an undergraduate student in the Mechanical Engineering Department.
@@ -56,6 +51,11 @@
   picture: /images/people/ethan.jpg
   description: Ethan is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
+
+- name: Arhan Sethi 
+  picture: /images/people/arhan.jpg
+  description: Arhan is an undergraduate student in the Computer Science Department.
+  rank: undergrad  
 
 - name: Andre Keyser
   picture: /images/people/andre.png
