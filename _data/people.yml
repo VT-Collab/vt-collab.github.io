@@ -7,18 +7,6 @@
 
 
 
-- name: Sagar Parekh
-  picture: /images/people/sagar.png
-  website: https://sagarparekh97.github.io/
-  description: Sagar is a PhD student in the Mechanical Engineering Department. He is interested in imitation learning and co-adaptive robots.
-  rank: grad
-
-- name: Shahabedin (Shahab) Sagheb
-  picture: /images/people/shahab.png
-  website: https://www.sagheb.net/
-  description: Shahab is an Assistant Collegiate Professor and a PhD student in the Mechanical Engineering Department. He is interested in humans and robots that learn, collaborate, and compete.
-  rank: grad
-
 - name: Benjamin Christie
   picture: /images/people/ben.jpg
   description: Ben is a PhD student in the Mechanical Engineering Department. He is supported in part by the US Army Engineering Research and Development Center.
@@ -41,32 +29,27 @@
   description: Iain is an MS student in the Mechanical Engineering Department. He is interested in assistive technology and jellyfish.
   rank: grad
 
-
 - name: Mohammad Bararjanianbahnamiri
   picture: /images/people/mohammad.jpg
   website:
-  description: Mohammad is a visiting scholar at Virginia Tech. He is interested in robot control and learning.
-  rank: visiting
+  description: Mohammad is a PhD student in the Mechanical Engineering Department. He is interested in robot control and learning.
+  rank: grad
 
 
-- name: Grace Brotherson
-  picture: /images/people/grace.jpg
-  description: Grace is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
-- name: Keone Leao
-  picture: /images/people/keone.png
-  description: Keone is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
 
 - name: Daniel Evans
   picture: /images/people/daniel.jpg
   description: Daniel is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
-- name: Siddhant Gvalani
-  picture: /images/people/sid.jpg
-  description: Siddhant is an undergraduate student in the Mechanical Engineering Department.
+- name: Sam Iyer-Singh
+  picture: /images/people/sam.jpg
+  description: Sam is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
+- name: Ethan Xu
+  picture: /images/people/ethan.jpg
+  description: Ethan is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
 - name: Andre Keyser
@@ -74,23 +57,24 @@
   description: Andre is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
-- name: Casey Grothoff
-  picture: /images/people/casey.png
-  description: Casey is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
 - name: Ryan Jeronimus
   picture: /images/people/ryan.jpg
   description: Ryan is an undergraduate student in the Department of Electrical and Computer Engineering.
-  rank: undergrad
-
-- name: Brandon Franco
-  picture: /images/people/brandon.png
-  website: https://bcfranco.vt.domains/
-  description: Brandon is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad  
+  rank: undergrad 
 
 
+
+- name: Sagar Parekh
+  picture: /images/people/sagar.png
+  website: https://sagarparekh97.github.io/
+  description:
+  rank: phd-alumni
+
+- name: Shahabedin (Shahab) Sagheb
+  picture: /images/people/shahab.png
+  website: https://www.sagheb.net/
+  description: PhD Student, 2022-2026 (Next - The Boeing Company)
+  rank: phd-alumni
 
 - name: Shaunak Mehta
   picture: /images/people/shaunak.png
@@ -117,6 +101,26 @@
   rank: phd-alumni
 
 
+
+- name: Keone Leao
+  picture:
+  description: Undergraduate Student, 2025-2026
+  rank: other-alumni
+
+- name: Grace Brotherson
+  picture:
+  description: Undergraduate Student, 2025-2026 (Next - PhD Student at University of Michigan)
+  rank: other-alumni
+
+- name: Brandon Franco
+  picture:
+  description: Undergraduate Student, 2024-2026
+  rank: undergrad 
+
+- name: Casey Grothoff
+  picture:
+  description: Undergraduate Student, 2025 (Next - Caterpillar)
+  rank: other-alumni
 
 - name: Maya Keely
   picture:
