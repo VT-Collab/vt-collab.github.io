@@ -42,6 +42,11 @@
   description: Daniel is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
+- name: Misha Fu
+  picture: /images/people/default.jpg
+  description: Misha is a visiting undergraduate student from the University of Southern California.
+  rank: undergrad
+
 - name: Sam Iyer-Singh
   picture: /images/people/sam.jpg
   description: Sam is an undergraduate student in the Mechanical Engineering Department.
@@ -67,7 +72,7 @@
 - name: Sagar Parekh
   picture: /images/people/sagar.png
   website: https://sagarparekh97.github.io/
-  description:
+  description: PhD Student, 2021-2026
   rank: phd-alumni
 
 - name: Shahabedin (Shahab) Sagheb
