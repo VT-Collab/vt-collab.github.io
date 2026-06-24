@@ -39,6 +39,14 @@
   pdf: /pdfs/keone_iros2026.pdf
   figure: /images/publications/keone_iros2026.png  
 
+- title: "Curvature-aware calibration of tactile sensors for accurate force estimation on non-planar surfaces"
+  authors: Luoyan Zhong, Heather Jin Hee Kim, Dylan P. Losey, Cara M. Nunez
+  venue: "Haptics Symposium"
+  year: 2026
+  note: ""
+  pdf: /pdfs/zhong_haptics2026.pdf
+  figure: /images/publications/zhong_haptics2026.png
+
 - title: "Fine-tuning robot policies while maintaining user privacy"
   authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
   venue: ""
