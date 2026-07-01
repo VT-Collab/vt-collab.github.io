@@ -29,11 +29,11 @@
   description: Iain is an MS student in the Mechanical Engineering Department. He is interested in assistive technology and jellyfish.
   rank: grad
 
-- name: Mohammad Bararjanianbahnamiri
-  picture: /images/people/mohammad.jpg
-  website:
-  description: Mohammad is a PhD student in the Mechanical Engineering Department. He is interested in robot control and learning.
-  rank: grad
+# - name: Mohammad Bararjanianbahnamiri
+#   picture: /images/people/mohammad.jpg
+#   website:
+#   description: Mohammad is a PhD student in the Mechanical Engineering Department. He is interested in robot control and learning.
+#   rank: grad
 
 
 
