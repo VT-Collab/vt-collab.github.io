@@ -52,6 +52,11 @@
   description: Ethan is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
+- name: Moses Wang
+  picture: /images/people/moses.jpg
+  description: Moses is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
 - name: Arhan Sethi 
   picture: /images/people/arhan.jpg
   description: Arhan is an undergraduate student in the Computer Science Department.
