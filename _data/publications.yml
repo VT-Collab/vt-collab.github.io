@@ -1,4 +1,12 @@
 
+- title: "Belief-aware influence and trust (BAIT): Shaping human belief during repeated human-robot interaction"
+  authors: Ye-Ji Mun, Mahsa Golchoubian, Shahabedin Sagheb, Yan Bai, Tianhao Ji, Andrea Bajcsy, Dylay P. Losey, Katherine Driggs-Campbell
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/yeji_2026.pdf
+  figure: /images/publications/yeji_2026.png 
+
 - title: "VOLT: Vision and language trajectory segmentation for faster-than-demonstration policies"
   authors: Robert Ramirez Sanchez, Daniel J. Evans, Dylan P. Losey, Siddarth Jain
   venue: ""
