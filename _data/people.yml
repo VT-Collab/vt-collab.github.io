@@ -35,6 +35,17 @@
 #   description: Mohammad is a PhD student in the Mechanical Engineering Department. He is interested in robot control and learning.
 #   rank: grad
 
+- name: Sarah Bradshaw
+  picture: /images/people/default.jpg
+  website:
+  description: Sarah is an MS student in the Mechanical Engineering Department. She is interested in mechantronics.
+  rank: grad
+
+- name: Brage Gundersen
+  picture: /images/people/default.jpg
+  website:
+  description: Brage is an MS student in the Mechanical Engineering Department. He is interested in mechatronics.
+  rank: grad
 
 
 - name: Daniel Evans
@@ -114,7 +125,7 @@
 
 - name: Keone Leao
   picture:
-  description: Undergraduate Student, 2025-2026
+  description: Undergraduate Student, 2025-2026 (Next - APCO Technologies)
   rank: other-alumni
 
 - name: Grace Brotherson
@@ -124,7 +135,7 @@
 
 - name: Brandon Franco
   picture:
-  description: Undergraduate Student, 2024-2026
+  description: Undergraduate Student, 2024-2026 (Next - M.C. Dean)
   rank: other-alumni 
 
 - name: Casey Grothoff
