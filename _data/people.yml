@@ -23,17 +23,17 @@
   description: Yinlong is a PhD student in the Mechanical Engineering Department. He is interested in the intersection of robotics, vision, and machine learning.
   rank: grad
 
+- name: Mohammad Bararjanianbahnamiri
+  picture: /images/people/mohammad.jpg
+  website:
+  description: Mohammad is a PhD student in the Mechanical Engineering Department. He is interested in robot control and learning.
+  rank: grad
+
 - name: Iain Mischel
   picture: /images/people/iain.jpg
   website:
   description: Iain is an MS student in the Mechanical Engineering Department. He is interested in assistive technology and jellyfish.
   rank: grad
-
-# - name: Mohammad Bararjanianbahnamiri
-#   picture: /images/people/mohammad.jpg
-#   website:
-#   description: Mohammad is a PhD student in the Mechanical Engineering Department. He is interested in robot control and learning.
-#   rank: grad
 
 - name: Sarah Bradshaw
   picture: /images/people/default.jpg
@@ -48,14 +48,10 @@
   rank: grad
 
 
+
 - name: Daniel Evans
   picture: /images/people/daniel.jpg
   description: Daniel is an undergraduate student in the Mechanical Engineering Department.
-  rank: undergrad
-
-- name: Sam Iyer-Singh
-  picture: /images/people/sam.jpg
-  description: Sam is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
 - name: Ethan Xu
@@ -66,6 +62,11 @@
 - name: Moses Wang
   picture: /images/people/moses.jpg
   description: Moses is an undergraduate student in the Mechanical Engineering Department.
+  rank: undergrad
+
+- name: Sam Iyer-Singh
+  picture: /images/people/sam.jpg
+  description: Sam is an undergraduate student in the Mechanical Engineering Department.
   rank: undergrad
 
 - name: Arhan Sethi 
