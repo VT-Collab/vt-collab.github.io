@@ -36,9 +36,9 @@
   rank: grad
 
 - name: Sarah Bradshaw
-  picture: /images/people/default.jpg
+  picture: /images/people/sarah.png
   website:
-  description: Sarah is an MS student in the Mechanical Engineering Department. She is interested in mechantronics.
+  description: Sarah is an MS student in the Mechanical Engineering Department. She is interested in animatronics and human-robotic interaction.
   rank: grad
 
 - name: Brage Gundersen
