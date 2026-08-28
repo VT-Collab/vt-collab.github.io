@@ -47,6 +47,12 @@
   description: Brage is an MS student in the Mechanical Engineering Department. He is interested in mechatronics.
   rank: grad
 
+- name: Jaewoo Cho
+  picture: /images/people/jaewoo.jpg
+  website:
+  description: Jaewoo is an MS student in the Mechanical Engineering Department. He is interested in multi-agent systems.
+  rank: grad
+
 
 
 - name: Daniel Evans
