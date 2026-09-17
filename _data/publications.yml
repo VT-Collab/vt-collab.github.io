@@ -156,8 +156,8 @@
   venue: ""
   year: 2025
   note: ""
-  pdf: /pdfs/dai_2025.pdf
-  figure: /images/publications/dai_2025.png 
+  pdf: /pdfs/dai_auro2025.pdf
+  figure: /images/publications/dai_auro2025.png 
 
 - title: "A unified framework for robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Sagar Parekh, Ravi Pandya, Ye-Ji Mun, Katherine Driggs-Campbell, Andrea Bajcsy, Dylan P. Losey
