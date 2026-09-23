@@ -145,7 +145,7 @@
 
 - title: "Counterfactual behavior cloning: Offline imitation learning from imperfect human demonstrations"
   authors: Shahabedin Sagheb, Dylan P. Losey
-  venue: ""
+  venue: "ACM Transactions on Human-Robot Interaction"
   year: 2025
   note: ""
   pdf: /pdfs/shahab_thri2025.pdf
@@ -153,7 +153,7 @@
 
 - title: "CIVIL: Causal and intuitive visual imitation learning"
   authors: Yinlong Dai, Robert Ramirez Sanchez, Ryan Jeronimus, Shahabedin Sagheb, Cara M. Nunez, Heramb Nemlekar, Dylan P. Losey
-  venue: ""
+  venue: "Autonomous Robots"
   year: 2025
   note: ""
   pdf: /pdfs/dai_auro2025.pdf
