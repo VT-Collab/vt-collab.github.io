@@ -1,4 +1,52 @@
 
+- title: "CASTER: Formalizing zero-shot manipulation from synthetic videos as constrained optimization"
+  authors: Yinlong Dai, Homanga Bharadhwaj, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/dai_2026a.pdf
+  figure: /images/publications/dai_2026a.png
+
+- title: "Assisting for open-ended tasks: Goal-oriented shared autonomy as a particle filter"
+  authors: Mengxue Fu, Ethan Xu, Sam Iyer-Singh, Yinlong Dai, Michael Hagenow, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/misha_2026a.pdf
+  figure: /images/publications/misha_2026a.png
+
+- title: "GraspTwin: Zero-shot task-oriented grasp optimization via a digital twin"
+  authors: Daniel J. Evans, Yinlong Dai, Simon Stepputtis, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/evans_2026.pdf
+  figure: /images/publications/evans_2026.png
+
+- title: "Show and tell: Unifying physical demonstrations and language corrections for neuro-symbolic robots"
+  authors: Benjamin A. Christie, Siddarth Jain, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/ben_2026a.pdf
+  figure: /images/publications/ben_2026a.png
+
+- title: "PAIR: Proprioception-aligned image-ray representations for viewpoint-robust manipulation"
+  authors: Sung-Wook Lee, Xuhui Kang, Dylan P. Losey, Yen-Ling Kuo
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/sean_2026.pdf
+  figure: /images/publications/sean_2026.png
+
+- title: "In view or out of view? A vision-aware filter that infers and reacts to the human's field of view"
+  authors: Mengxue Fu, Ya-Chuan Hsu, Yinlong Dai, Erdem Bıyık, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/misha_2026b.pdf
+  figure: /images/publications/misha_2026b.png
+
 - title: "Belief-aware influence and trust (BAIT): Shaping human belief during repeated human-robot interaction"
   authors: Ye-Ji Mun, Mahsa Golchoubian, Shahabedin Sagheb, Yan Bai, Tianhao Ji, Andrea Bajcsy, Dylan P. Losey, Katherine Driggs-Campbell
   venue: ""
@@ -441,7 +489,7 @@
   figure: /images/publications/losey_ijrr2021.png
 
 - title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
-  authors: Erdem Biyik, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
+  authors: Erdem Bıyık, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
   venue: "The International Journal of Robotics Research"
   year: 2021
   note: ""
@@ -505,7 +553,7 @@
   figure: /images/publications/jong_rss2020.png
 
 - title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
-  authors: Minae Kwon, Erdem Biyik, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
+  authors: Minae Kwon, Erdem Bıyık, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
   venue: "ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
   year: 2020
   note: ""
@@ -537,7 +585,7 @@
   figure: /images/publications/losey_corl2019.png
 
 - title: "Asking easy questions: A user-friendly approach to active reward learning"
-  authors: Erdem Biyik, Malayandi Palan, Nicholas C. Landolfi, Dylan P. Losey, Dorsa Sadigh
+  authors: Erdem Bıyık, Malayandi Palan, Nicholas C. Landolfi, Dylan P. Losey, Dorsa Sadigh
   venue: "Conference on Robot Learning (CoRL)"
   year: 2019
   note: ""
