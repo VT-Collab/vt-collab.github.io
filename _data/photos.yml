@@ -1,0 +1,236 @@
+# Photo gallery, newest first. Each entry becomes one section on /photos/.
+# Add new photos to images/photos/ (resize to <= 1600 px on the long edge first)
+# and list them here; the optional "alt" overrides the section title as alt text.
+
+- title: "Spring 26: Shahab and Sagar Defend their Ph.D. Dissertations!"
+  images:
+    - src: /images/photos/spring26-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring26-1.jpg
+      width: 1600
+      height: 1200
+
+- title: "Spring 26: Elementary School Visits Collab"
+  images:
+    - src: /images/photos/elementary-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/elementary-1.jpg
+      width: 1600
+      height: 1200
+
+- title: "Winter 25: Collab Helps Host the First Virginia Robotics Symposium"
+  images:
+    - src: /images/photos/vrs1.jpg
+      width: 1440
+      height: 960
+
+- title: "Fall 25: Collab Visits the Virginia School for the Deaf and the Blind"
+  images:
+    - src: /images/photos/fall25.jpg
+      width: 1600
+      height: 1200
+
+- title: "Summer 25: BLAST Visits Collab"
+  images:
+    - src: /images/photos/blast1.jpg
+      width: 1600
+      height: 1086
+    - src: /images/photos/blast2.jpg
+      width: 1600
+      height: 1000
+    - src: /images/photos/blast3.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/blast4.jpg
+      width: 1600
+      height: 1200
+
+- title: 'Summer 25: Heramb "Graduates" to Assistant Professor'
+  images:
+    - src: /images/photos/summer25-4.jpg
+      width: 1600
+      height: 1200
+
+- title: "Summer 25: Collab Goes to ICRA"
+  images:
+    - src: /images/photos/summer25-1.jpg
+      width: 1600
+      height: 1129
+    - src: /images/photos/summer25-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/summer25-3.jpg
+      width: 1200
+      height: 1600
+
+- title: "Spring 25: Hooding Ananth and Soheil, Collab's First PhD Graduates!"
+  images:
+    - src: /images/photos/spring25-1.jpg
+      width: 1200
+      height: 1600
+
+- title: "Spring 25: Celebrating Prof. Heramb as a Lab"
+  images:
+    - src: /images/photos/spring25-2.jpg
+      width: 1600
+      height: 1200
+
+- title: "Fall 24: Local Elementary Schools Come to Collab"
+  images:
+    - src: /images/photos/fall24.jpg
+      width: 640
+      height: 480
+
+- title: "Summer 24: Visiting The Virginia Home"
+  images:
+    - src: /images/photos/summer24.jpg
+      width: 1600
+      height: 1200
+
+- title: "Spring 24: VT Women's Preview Weekend"
+  images:
+    - src: /images/photos/spring24.jpg
+      width: 1600
+      height: 764
+
+- title: "Fall 23: Outreach and Lab Visits"
+  images:
+    - src: /images/photos/fall23-1.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/fall23-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/fall23-3.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/fall23-4.jpg
+      width: 1200
+      height: 1600
+    - src: /images/photos/fall23-5.jpg
+      width: 1600
+      height: 1200
+
+- title: "Summer 23: Hosting a Workshop at ICRA"
+  images:
+    - src: /images/photos/icra-workshop-1.mp4
+    - src: /images/photos/icra-workshop-2.mp4
+
+- title: "Summer 23: Collab Goes to ICRA"
+  images:
+    - src: /images/photos/icra23-1.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/icra23-2.jpg
+      width: 1200
+      height: 1600
+    - src: /images/photos/icra23-3.jpg
+      width: 1600
+      height: 1200
+
+- title: "Spring 23: Outreach and Lab Visits"
+  images:
+    - src: /images/photos/spring23-1.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring23-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring23-3.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring23-4.jpg
+      width: 1600
+      height: 1200
+
+- title: "Winter 22: End-of-Year Party"
+  images:
+    - src: /images/photos/winter22.jpg
+      width: 1600
+      height: 1200
+
+- title: "Summer 22: Outreach and Lab Visits"
+  images:
+    - src: /images/photos/summer22-1.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/summer22-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/summer22-3.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/summer22-4.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/summer22-5.jpg
+      width: 1600
+      height: 1200
+
+- title: "Spring 22: Collab Goes to ICRA"
+  images:
+    - src: /images/photos/spring22-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring22-3.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring22-1.jpg
+      width: 900
+      height: 1600
+    - src: /images/photos/spring22-4.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/spring22-5.jpg
+      width: 1600
+      height: 1200
+
+- title: "Winter 21: End-of-Year Party"
+  images:
+    - src: /images/photos/winter21.jpg
+      width: 1600
+      height: 1200
+
+- title: "Fall 21: VT Open House Demo"
+  images:
+    - src: /images/photos/fall21-1.jpg
+      width: 1200
+      height: 1600
+    - src: /images/photos/fall21-2.jpg
+      width: 1200
+      height: 1600
+
+- title: "Summer 21: Outreach at Local Youth Center"
+  images:
+    - src: /images/photos/summer21-1.jpg
+      width: 600
+      height: 800
+    - src: /images/photos/summer21-2.jpg
+      width: 600
+      height: 800
+    - src: /images/photos/summer21-3.jpg
+      width: 600
+      height: 800
+
+- title: "Spring 21: Senior Design Team"
+  images:
+    - src: /images/photos/spring21-1.jpg
+      width: 1600
+      height: 1067
+    - src: /images/photos/spring21-2.jpg
+      width: 1600
+      height: 1067
+    - src: /images/photos/spring21-3.jpg
+      width: 1600
+      height: 1067
+    - src: /images/photos/spring21-4.jpg
+      width: 1600
+      height: 1067
+
+- title: "Fall 2017: Marcia O'Malley and her PhD student Dylan"
+  images:
+    - src: /images/photos/egg.jpg
+      width: 1440
+      height: 1080

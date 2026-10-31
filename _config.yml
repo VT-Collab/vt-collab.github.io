@@ -1,10 +1,27 @@
 # Site settings
-title: collab
-email:
-author: collab
+title: Collab
+tagline: Collaborative Robotics Lab at Virginia Tech
 description: "Collaborative Robotics Lab at Virginia Tech. We create learning and control algorithms for robots that collaborate with people."
+url: "https://collab.me.vt.edu"
 baseurl: ""
-url: "https://collab.me.vt.edu/"
+lang: en
+locale: en_US
+logo: /images/logos/logo.png
+
+# Used by jekyll-seo-tag for the Organization entry in structured data
+social:
+  name: Collaborative Robotics Lab (Collab), Virginia Tech
+  links:
+    - https://www.youtube.com/@collab-robotics
+    - https://github.com/VT-Collab
+
+# Default social-preview image for every page (1200 x 630)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/front/og-image.jpg
+
 date_format: "%b %-d, %Y"
 header_pages:
  - people.html
@@ -14,10 +31,6 @@ header_pages:
  - values.html
 
 show_social_icons: true
-email:
-github_username:
-twitter_username:
-linkedin_username:
 youtube_id: UCVUHS9JE0tSakziQFkThhVQ
 photos: photos
 wemet: wemet
@@ -26,8 +39,14 @@ wemet: wemet
 markdown: kramdown
 permalink: pretty
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
+sass:
+  style: compressed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+  - node_modules

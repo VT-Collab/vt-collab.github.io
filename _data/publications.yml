@@ -5,7 +5,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/dai_2026a.pdf
-  figure: /images/publications/dai_2026a.png
+  figure: /images/publications/dai_2026a.webp
 
 - title: "Assisting for open-ended tasks: Goal-oriented shared autonomy as a particle filter"
   authors: Mengxue Fu, Ethan Xu, Sam Iyer-Singh, Yinlong Dai, Michael Hagenow, Dylan P. Losey
@@ -13,7 +13,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/misha_2026a.pdf
-  figure: /images/publications/misha_2026a.png
+  figure: /images/publications/misha_2026a.webp
 
 - title: "GraspTwin: Zero-shot task-oriented grasp optimization via a digital twin"
   authors: Daniel J. Evans, Yinlong Dai, Simon Stepputtis, Dylan P. Losey
@@ -21,7 +21,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/evans_2026.pdf
-  figure: /images/publications/evans_2026.png
+  figure: /images/publications/evans_2026.webp
 
 - title: "Show and tell: Unifying physical demonstrations and language corrections for neuro-symbolic robots"
   authors: Benjamin A. Christie, Siddarth Jain, Dylan P. Losey
@@ -29,7 +29,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/ben_2026a.pdf
-  figure: /images/publications/ben_2026a.png
+  figure: /images/publications/ben_2026a.webp
 
 - title: "PAIR: Proprioception-aligned image-ray representations for viewpoint-robust manipulation"
   authors: Sung-Wook Lee, Xuhui Kang, Dylan P. Losey, Yen-Ling Kuo
@@ -37,7 +37,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/sean_2026.pdf
-  figure: /images/publications/sean_2026.png
+  figure: /images/publications/sean_2026.webp
 
 - title: "In view or out of view? A vision-aware filter that infers and reacts to the human's field of view"
   authors: Mengxue Fu, Ya-Chuan Hsu, Yinlong Dai, Erdem Bıyık, Dylan P. Losey
@@ -45,7 +45,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/misha_2026b.pdf
-  figure: /images/publications/misha_2026b.png
+  figure: /images/publications/misha_2026b.webp
 
 - title: "Belief-aware influence and trust (BAIT): Shaping human belief during repeated human-robot interaction"
   authors: Ye-Ji Mun, Mahsa Golchoubian, Shahabedin Sagheb, Yan Bai, Tianhao Ji, Andrea Bajcsy, Dylan P. Losey, Katherine Driggs-Campbell
@@ -53,7 +53,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/yeji_2026.pdf
-  figure: /images/publications/yeji_2026.png 
+  figure: /images/publications/yeji_2026.webp 
 
 - title: "VOLT: Vision and language trajectory segmentation for faster-than-demonstration policies"
   authors: Robert Ramirez Sanchez, Daniel J. Evans, Dylan P. Losey, Siddarth Jain
@@ -61,7 +61,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/robert_2026.pdf
-  figure: /images/publications/robert_2026.png 
+  figure: /images/publications/robert_2026.webp 
 
 - title: "Safe interactions via Monte Carlo linear-quadratic games"
   authors: Benjamin A. Christie, Dylan P. Losey
@@ -69,7 +69,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/ben_2026-1.pdf
-  figure: /images/publications/ben_2026-1.png 
+  figure: /images/publications/ben_2026-1.webp 
 
 - title: "TransMASK: Masked state representation through learned transformation"
   authors: Sagar Parekh, Preston Culbertson, Dylan P. Losey
@@ -77,7 +77,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/sagar_2026.pdf
-  figure: /images/publications/sagar_2026.png
+  figure: /images/publications/sagar_2026.webp
 
 - title: "From local corrections to generalized skills: Improving neuro-symbolic policies with MEMO"
   authors: Benjamin A. Christie, Yinlong Dai, Mohammad Bararjanianbahnamiri, Simon Stepputtis, Dylan P. Losey
@@ -85,7 +85,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/ben_iros2026.pdf
-  figure: /images/publications/ben_iros2026.png
+  figure: /images/publications/ben_iros2026.webp
 
 - title: "A pivot-based kirigami utensil for hand-held and robot-assisted feeding"
   authors: Keone Leao, Grace Brotherson, Iain Mischel, Sagar Parekh, Dylan P. Losey
@@ -93,7 +93,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/keone_iros2026.pdf
-  figure: /images/publications/keone_iros2026.png  
+  figure: /images/publications/keone_iros2026.webp  
 
 - title: "Curvature-aware calibration of tactile sensors for accurate force estimation on non-planar surfaces"
   authors: Luoyan Zhong, Heather Jin Hee Kim, Dylan P. Losey, Cara M. Nunez
@@ -101,7 +101,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/zhong_haptics2026.pdf
-  figure: /images/publications/zhong_haptics2026.png
+  figure: /images/publications/zhong_haptics2026.webp
 
 - title: "Fine-tuning robot policies while maintaining user privacy"
   authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
@@ -109,7 +109,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/ben_2026-2.pdf
-  figure: /images/publications/ben_2026-2.png
+  figure: /images/publications/ben_2026-2.webp
 
 - title: "Combining performance and passivity in linear control of series elastic actuators"
   authors: Shaunak A. Mehta, Dylan P. Losey
@@ -117,7 +117,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/shaunak_2026.pdf
-  figure: /images/publications/shaunak_2026.png
+  figure: /images/publications/shaunak_2026.webp
 
 - title: "Teleoperator-aware and safety-critical adaptive nonlinear MPC for shared autonomy in obstacle avoidance of legged robots"
   authors: Ruturaj Sambhus, Muneeb Ahmad, Basit Muhammad Imran, Sujith Vijayan, Dylan P. Losey, Kaveh Akbari Hamed
@@ -125,7 +125,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/ruturaj_2026.pdf
-  figure: /images/publications/ruturaj_2026.png
+  figure: /images/publications/ruturaj_2026.webp
 
 - title: "Language movement primitives: Grounding language models in robot motion"
   authors: Yinlong Dai, Benjamin A. Christie, Daniel J. Evans, Dylan P. Losey, and Simon Stepputtis
@@ -133,7 +133,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/dai_2026.pdf
-  figure: /images/publications/dai_2026.png
+  figure: /images/publications/dai_2026.webp
 
 - title: "Shared control/autonomy in human-robot interaction: Current trends and the role of generative AI"
   authors: Michael Hagenow, Mario Selvaggio, Xuehui Yu, Yanwei Wang, Yiannis Demiris, Andreea Bobu, Yilun Du, Harold Soh, Dylan P. Losey, Julie Shah
@@ -141,7 +141,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/hagenow_review2026.pdf
-  figure: /images/publications/hagenow_review2026.png
+  figure: /images/publications/hagenow_review2026.webp
 
 - title: "Prepare before you act: Learning from humans to rearrange initial states"
   authors: Yinlong Dai, Andre Keyser, Dylan P. Losey
@@ -149,7 +149,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/dai_icra2026.pdf
-  figure: /images/publications/dai_icra2026.png      
+  figure: /images/publications/dai_icra2026.webp      
 
 - title: "Towards robots that learn from humans"
   authors: Dylan P. Losey
@@ -157,7 +157,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/losey_review2025.pdf
-  figure: /images/publications/losey_review2025.png
+  figure: /images/publications/losey_review2025.webp
 
 - title: "Towards balanced behavior cloning from imbalanced datasets"
   authors: Sagar Parekh, Heramb Nemlekar, Dylan P. Losey
@@ -165,7 +165,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/sagar_auro2025.pdf
-  figure: /images/publications/sagar_auro2025.png
+  figure: /images/publications/sagar_auro2025.webp
 
 - title: "Safe and transparent robots for human-in-the-loop meat processing"
   authors: Sagar Parekh, Casey Grothoff, Ryan Wright, Robin White, Dylan P. Losey
@@ -173,7 +173,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/sagar_science2025.pdf
-  figure: /images/publications/sagar_science2025.png
+  figure: /images/publications/sagar_science2025.webp
 
 - title: "A modular haptic display with reconfigurable signals for personalized information transfer"
   authors: Antonio Alvarez Valdivia, Benjamin A. Christie, Dylan P. Losey, Laura H. Blumenschein
@@ -181,7 +181,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/valdivia_toh2025.pdf
-  figure: /images/publications/valdivia_toh2025.png
+  figure: /images/publications/valdivia_toh2025.webp
 
 - title: "L2D2: Robot learning from 2D drawings"
   authors: Shaunak A. Mehta, Heramb Nemlekar, Hari Sumant, Dylan P. Losey
@@ -189,7 +189,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/shaunak_auro2025.pdf
-  figure: /images/publications/shaunak_auro2025.png
+  figure: /images/publications/shaunak_auro2025.webp
 
 - title: "Counterfactual behavior cloning: Offline imitation learning from imperfect human demonstrations"
   authors: Shahabedin Sagheb, Dylan P. Losey
@@ -197,7 +197,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/shahab_thri2025.pdf
-  figure: /images/publications/shahab_thri2025.png
+  figure: /images/publications/shahab_thri2025.webp
 
 - title: "CIVIL: Causal and intuitive visual imitation learning"
   authors: Yinlong Dai, Robert Ramirez Sanchez, Ryan Jeronimus, Shahabedin Sagheb, Cara M. Nunez, Heramb Nemlekar, Dylan P. Losey
@@ -205,7 +205,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/dai_auro2025.pdf
-  figure: /images/publications/dai_auro2025.png 
+  figure: /images/publications/dai_auro2025.webp 
 
 - title: "A unified framework for robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Sagar Parekh, Ravi Pandya, Ye-Ji Mun, Katherine Driggs-Campbell, Andrea Bajcsy, Dylan P. Losey
@@ -213,7 +213,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/shahab_ijrr2025.pdf
-  figure: /images/publications/shahab_ijrr2025.png  
+  figure: /images/publications/shahab_ijrr2025.webp  
 
 - title: "Kiri-Spoon: A kirigami utensil for robot-assisted feeding"
   authors: Maya Keely, Brandon Franco, Casey Grothoff, Rajat Kumar Jenamani, Tapomayukh Bhattacharjee, Dylan P. Losey, Heramb Nemlekar
@@ -221,7 +221,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/keely_ijrr2024.pdf
-  figure: /images/publications/keely_ijrr2024.png
+  figure: /images/publications/keely_ijrr2024.webp
   
 - title: "RECON: Reducing causal confusion with human-placed markers"
   authors: Robert Ramirez Sanchez, Heramb Nemlekar, Shahabedin Sagheb, Cara M. Nunez, Dylan P. Losey
@@ -229,7 +229,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/robert_iros2025.pdf
-  figure: /images/publications/robert_iros2025.png
+  figure: /images/publications/robert_iros2025.webp
 
 - title: "Using high-level patterns to estimate how humans predict a robot will behave"
   authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P. Losey
@@ -237,7 +237,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/sagar_iros2025.pdf
-  figure: /images/publications/sagar_iros2025.png
+  figure: /images/publications/sagar_iros2025.webp
 
 - title: "Personalizing interfaces to humans with user-friendly priors"
   authors: Benjamin A. Christie, Heramb Nemlekar, Dylan P. Losey
@@ -245,7 +245,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/ben_icra2025.pdf
-  figure: /images/publications/ben_icra2025.png
+  figure: /images/publications/ben_icra2025.webp
 
 - title: "PECAN: Personalizing robot behaviors through a learned canonical space"
   authors: Heramb Nemlekar, Robert Ramirez Sanchez, Dylan P. Losey
@@ -253,7 +253,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/nemlekar_thri2024.pdf
-  figure: /images/publications/nemlekar_thri2024.png
+  figure: /images/publications/nemlekar_thri2024.webp
 
 - title: "Should collaborative robots be transparent?"
   authors: Shahabedin Sagheb, Soham Gandhi, Dylan P. Losey
@@ -261,7 +261,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/shahab_ijsr2023.pdf
-  figure: /images/publications/shahab_ijsr2023.png
+  figure: /images/publications/shahab_ijsr2023.webp
 
 - title: "Stable-BC: Controlling covariate shift with stable behavior cloning"
   authors: Shaunak A. Mehta, Yusuf Umut Ciftci, Balamurugan Ramachandran, Somil Bansal, Dylan P. Losey
@@ -269,7 +269,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/shaunak_ral2024.pdf
-  figure: /images/publications/shaunak_ral2024.png
+  figure: /images/publications/shaunak_ral2024.webp
 
 - title: "VIEW: Visual imitation learning with waypoints"
   authors: Ananth Jonnavittula, Sagar Parekh, Dylan P. Losey
@@ -277,7 +277,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/ananth_auro2024.pdf
-  figure: /images/publications/ananth_auro2024.png
+  figure: /images/publications/ananth_auro2024.webp
 
 - title: "Combining and decoupling rigid and soft grippers to enhance robotic manipulation"
   authors: Maya Keely, Yeunhee Kim, Shaunak A. Mehta, Joshua Hoegerman, Robert Ramirez Sanchez, Emily Paul, Camryn Mills, Dylan P. Losey, Michael D. Bartlett
@@ -285,7 +285,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/keely_soft2024.pdf
-  figure: /images/publications/keely_soft2024.png
+  figure: /images/publications/keely_soft2024.webp
 
 - title: "Kiri-Spoon: A soft shape-changing utensil for robot-assisted feeding"
   authors: Maya N. Keely, Heramb Nemlekar, Dylan P. Losey
@@ -293,7 +293,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/keely_iros2024.pdf
-  figure: /images/publications/keely_iros2024.png
+  figure: /images/publications/keely_iros2024.webp
 
 - title: "Waypoint-based reinforcement learning for robot manipulation tasks"
   authors: Shaunak A. Mehta, Soheil Habibian, Dylan P. Losey
@@ -301,7 +301,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/shaunak_iros2024.pdf
-  figure: /images/publications/shaunak_iros2024.png
+  figure: /images/publications/shaunak_iros2024.webp
 
 - title: "Aligning learning with communication in shared autonomy"
   authors: Joshua Hoegerman, Shahabedin Sagheb, Benjamin A. Christie, Dylan P. Losey
@@ -309,7 +309,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/josh_iros2024.pdf
-  figure: /images/publications/josh_iros2024.png
+  figure: /images/publications/josh_iros2024.webp
 
 - title: "A survey of communicating robot learning during human-robot interaction"
   authors: Soheil Habibian, Antonio Alvarez Valdivia, Laura H. Blumenschein, Dylan P. Losey
@@ -317,7 +317,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/soheil_ijrr2023.pdf
-  figure: /images/publications/soheil_ijrr2023.png
+  figure: /images/publications/soheil_ijrr2023.webp
 
 
 - title: "LIMIT: Learning interfaces to maximize information transfer"
@@ -326,7 +326,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/ben_thri2023.pdf
-  figure: /images/publications/ben_thri2023.png
+  figure: /images/publications/ben_thri2023.webp
 
 - title: "SARI: Shared autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Shaunak A. Mehta, Dylan P. Losey
@@ -334,7 +334,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/ananth_thri2023.pdf
-  figure: /images/publications/ananth_thri2023.png
+  figure: /images/publications/ananth_thri2023.webp
 
 - title: "Safely and autonomously cutting meat with a collaborative robot arm"
   authors: Ryan Wright, Sagar Parekh, Robin White, Dylan P. Losey
@@ -342,7 +342,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/wright_nature2023.pdf
-  figure: /images/publications/sagar_sr2023.png
+  figure: /images/publications/sagar_sr2023.webp
 
 - title: "StROL: Stabilized and robust online learning from humans"
   authors: Shaunak A. Mehta, Forrest Meng, Andrea Bajcsy, Dylan P. Losey
@@ -350,7 +350,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/shaunak_ral2023.pdf
-  figure: /images/publications/shaunak_ral2023.png
+  figure: /images/publications/shaunak_ral2023.webp
 
 - title: "Reward learning with intractable normalizing functions"
   authors: Joshua Hoegerman, Dylan P. Losey
@@ -358,7 +358,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/josh_ral2023.pdf
-  figure: /images/publications/josh_ral2023.png
+  figure: /images/publications/josh_ral2023.webp
   
 - title: "Coordinated multi-robot shared autonomy based on scheduling and demonstrations"
   authors: Michael Hagenow, Emmanuel Senft, Nitzan Orr, Robert Radwin, Michael Gleicher, Bilge Mutlu, Dylan P. Losey, Michael Zinn
@@ -366,7 +366,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/hagenow_ral2023.pdf
-  figure: /images/publications/hagenow_ral2023.png
+  figure: /images/publications/hagenow_ral2023.webp
 
 - title: "Unified learning from demonstrations, corrections, and preferences during physical human-robot interaction"
   authors: Shaunak A. Mehta, Dylan P. Losey
@@ -374,7 +374,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/shaunak_thri2023.pdf
-  figure: /images/publications/shaunak_thri2023.png
+  figure: /images/publications/shaunak_thri2023.webp
 
 - title: "Learning latent representations to co-adapt to humans"
   authors: Sagar Parekh, Dylan P. Losey
@@ -382,7 +382,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/sagar_auro2023.pdf
-  figure: /images/publications/sagar_auro2023.png
+  figure: /images/publications/sagar_auro2023.webp
 
 - title: "RISO: Combining rigid grippers with soft switchable adhesives"
   authors: Shaunak A. Mehta, Yeunhee Kim, Joshua Hoegerman, Michael D. Bartlett, Dylan P. Losey
@@ -390,7 +390,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/shaunak_robosoft2023.pdf
-  figure: /images/publications/shaunak_robosoft2023.png
+  figure: /images/publications/shaunak_robosoft2023.webp
 
 - title: "Towards robots that influence humans over long-term interaction"
   authors: Shahabedin Sagheb, Ye-Ji Mun, Neema Ahmadian, Benjamin A. Christie, Andrea Bajcsy, Katherine Driggs-Campbell, Dylan P. Losey
@@ -398,7 +398,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/shahab_icra2023.pdf
-  figure: /images/publications/shahab_icra2023.png
+  figure: /images/publications/shahab_icra2023.webp
 
 - title: "Wrapping haptic displays around robot arms to communicate learning"
   authors: Antonio Alvarez Valdivia, Soheil Habibian, Carly A. Mendenhall, Francesco Fuentes, Ritish Shailly, Dylan P. Losey, Laura H. Blumenschein
@@ -406,7 +406,7 @@
   year: 2023
   note: ""
   pdf: /pdfs/valdivia_toh2023.pdf
-  figure: /images/publications/valdivia_toh2023.png
+  figure: /images/publications/valdivia_toh2023.webp
 
 - title: "Encouraging human interaction with robot teams: Legible and fair subtask allocations"
   authors: Soheil Habibian, Dylan P. Losey
@@ -414,7 +414,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/soheil_ral2022.pdf
-  figure: /images/publications/soheil_ral2022.png
+  figure: /images/publications/soheil_ral2022.webp
 
 - title: "RILI: Robustly influencing latent intent"
   authors: Sagar Parekh, Soheil Habibian, Dylan P. Losey
@@ -422,7 +422,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/sagar_iros2022.pdf
-  figure: /images/publications/sagar_iros2022.png
+  figure: /images/publications/sagar_iros2022.webp
 
 - title: "Wrapped haptic display for communicating physical robot learning"
   authors: Antonio Alvarez Valdivia, Ritish Shailly, Naman Seth, Francesco Fuentes, Dylan P. Losey, Laura H. Blumenschein
@@ -430,7 +430,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/valdivia_robosoft2022.pdf
-  figure: /images/publications/valdivia_robosoft2022.png
+  figure: /images/publications/valdivia_robosoft2022.webp
 
 - title: "Learning latent actions without human demonstrations"
   authors: Shaunak A. Mehta, Sagar Parekh, Dylan P. Losey
@@ -438,7 +438,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/shaunak_icra2022.pdf
-  figure: /images/publications/shaunak_icra2022.png
+  figure: /images/publications/shaunak_icra2022.webp
 
 - title: "Communicating robot conventions through shared autonomy"
   authors: Ananth Jonnavittula, Dylan P. Losey
@@ -446,7 +446,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/ananth_icra2022.pdf
-  figure: /images/publications/ananth_icra2022.png
+  figure: /images/publications/ananth_icra2022.webp
 
 - title: "Assisting operators of articulated machinery with optimal planning and goal inference"
   authors: Ehsan Yousefi, Dylan P. Losey, Inna Sharf
@@ -454,7 +454,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/ehsan_icra2022.pdf
-  figure: /images/publications/ehsan_icra2022.png
+  figure: /images/publications/ehsan_icra2022.webp
 
 - title: "Here’s what I’ve learned: Asking questions that reveal reward learning"
   authors: Soheil Habibian, Ananth Jonnavittula, Dylan P. Losey
@@ -462,7 +462,7 @@
   year: 2022
   note: ""
   pdf: /pdfs/soheil_thri2021.pdf
-  figure: /images/publications/soheil_thri2021.png
+  figure: /images/publications/soheil_thri2021.webp
 
 - title: "Communicating inferred goals with passive augmented reality and active haptic feedback"
   authors: James F. Mullen Jr, Josh Mosier, Sounak Chakrabarti, Anqi Chen, Tyler White, Dylan P. Losey
@@ -470,7 +470,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/mullen_ral2021.pdf
-  figure: /images/publications/mullen_ral2021.png
+  figure: /images/publications/mullen_ral2021.webp
 
 - title: "Learning to share autonomy across repeated interaction"
   authors: Ananth Jonnavittula, Dylan P. Losey
@@ -478,7 +478,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/ananth_iros2021.pdf
-  figure: /images/publications/ananth_iros2021.png
+  figure: /images/publications/ananth_iros2021.webp
 
 - title: "Physical interaction as communication: Learning robot objectives online from human corrections"
   authors: Dylan P. Losey, Andrea Bajcsy, Marcia K. O'Malley, Anca D. Dragan
@@ -486,7 +486,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/losey_ijrr2021.pdf
-  figure: /images/publications/losey_ijrr2021.png
+  figure: /images/publications/losey_ijrr2021.webp
 
 - title: "Learning reward functions from diverse sources of human feedback: Optimally integrating demonstrations and preferences"
   authors: Erdem Bıyık, Dylan P. Losey, Malayandi Palan, Nicholas C. Landolfi, Gleb Shevchuk, Dorsa Sadigh
@@ -494,7 +494,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/biyik_ijrr2021.pdf
-  figure: /images/publications/biyik_ijrr2021.png
+  figure: /images/publications/biyik_ijrr2021.webp
 
 - title: "Learning latent actions to control assistive robots"
   authors: Dylan P. Losey, Hong Jun Jeon, Mengxi Li, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Jeannette Bohg, Dorsa Sadigh
@@ -502,7 +502,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/losey_auro2021.pdf
-  figure: /images/publications/losey_auro2021.png
+  figure: /images/publications/losey_auro2021.webp
 
 - title: "Learning visually guided latent actions for assistive teleoperation"
   authors: Siddharth Karamcheti, Albert J. Zhai, Dylan P. Losey, Dorsa Sadigh
@@ -510,7 +510,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/karamcheti_l4dc2021.pdf
-  figure: /images/publications/karamcheti_l4dc2021.png
+  figure: /images/publications/karamcheti_l4dc2021.webp
 
 - title: "I know what you meant: Learning human objectives by (under)estimating their choice set"
   authors: Ananth Jonnavittula, Dylan P. Losey
@@ -518,7 +518,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/ananth_icra2021.pdf
-  figure: /images/publications/ananth_icra2021.png
+  figure: /images/publications/ananth_icra2021.webp
 
 - title: "Learning human objectives from sequences of physical corrections"
   authors: Mengxi Li, Alper Canberk, Dylan P. Losey, Dorsa Sadigh
@@ -526,7 +526,7 @@
   year: 2021
   note: ""
   pdf: /pdfs/li_icra2021.pdf
-  figure: /images/publications/li_icra2021.png
+  figure: /images/publications/li_icra2021.webp
 
 - title: "Learning latent representations to influence multi-agent interaction"
   authors: Annie Xie, Dylan P. Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
@@ -534,7 +534,7 @@
   year: 2020
   note: ""
   pdf: /pdfs/xie_corl2020.pdf
-  figure: /images/publications/xie_corl2020.jpg
+  figure: /images/publications/xie_corl2020.webp
 
 - title: "Learning user-preferred mappings for intuitive robot control"
   authors: Mengxi Li, Dylan P. Losey, Jeannette Bohg, Dorsa Sadigh
@@ -542,7 +542,7 @@
   year: 2020
   note: ""
   pdf: /pdfs/li_iros2020.pdf
-  figure: /images/publications/li_iros2020.png
+  figure: /images/publications/li_iros2020.webp
 
 - title: "Shared autonomy with learned latent actions"
   authors: Hong Jun Jeon, Dylan P. Losey, Dorsa Sadigh
@@ -550,7 +550,7 @@
   year: 2020
   note: ""
   pdf: /pdfs/jeon_rss2020.pdf
-  figure: /images/publications/jong_rss2020.png
+  figure: /images/publications/jong_rss2020.webp
 
 - title: "When humans aren’t optimal: Robots that collaborate with risk-aware humans"
   authors: Minae Kwon, Erdem Bıyık, Aditi Talati, Karan Bhasin, Dylan P. Losey, Dorsa Sadigh
@@ -558,7 +558,7 @@
   year: 2020
   note: ""
   pdf: /pdfs/minae_hri2020.pdf
-  figure: /images/publications/minae_hri2020.png
+  figure: /images/publications/minae_hri2020.webp
 
 - title: "Controlling assistive robots with learned latent actions"
   authors: Dylan P. Losey, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Dorsa Sadigh
@@ -566,7 +566,7 @@
   year: 2020
   note: ""
   pdf: /pdfs/losey_icra2020.pdf
-  figure: /images/publications/losey_icra2020.png
+  figure: /images/publications/losey_icra2020.webp
 
 - title: "Learning the correct robot trajectory in real-time from physical human interactions"
   authors: Dylan P. Losey, Marcia K. O'Malley
@@ -574,7 +574,7 @@
   year: 2019
   note: ""
   pdf: /pdfs/losey_thri2020.pdf
-  figure: /images/publications/losey_thri2020.jpg
+  figure: /images/publications/losey_thri2020.webp
 
 - title: "Learning from my partner’s actions: Roles in decentralized robot teams"
   authors: Dylan P. Losey*, Mengxi Li*, Jeannette Bohg, Dorsa Sadigh
@@ -582,7 +582,7 @@
   year: 2019
   note: ""
   pdf: /pdfs/losey_corl2019.pdf
-  figure: /images/publications/losey_corl2019.png
+  figure: /images/publications/losey_corl2019.webp
 
 - title: "Asking easy questions: A user-friendly approach to active reward learning"
   authors: Erdem Bıyık, Malayandi Palan, Nicholas C. Landolfi, Dylan P. Losey, Dorsa Sadigh
@@ -590,7 +590,7 @@
   year: 2019
   note: ""
   pdf: /pdfs/biyik_corl2019.pdf
-  figure: /images/publications/biyik_corl2019.png
+  figure: /images/publications/biyik_corl2019.webp
 
 - title: "Robots that take advantage of human trust"
   authors: Dylan P. Losey, Dorsa Sadigh
@@ -598,7 +598,7 @@
   year: 2019
   note: ""
   pdf: /pdfs/losey_iros2019.pdf
-  figure: /images/publications/losey_iros2019.png
+  figure: /images/publications/losey_iros2019.webp
 
 - title: "Improving short-term retention after robotic training by leveraging fixed-gain controllers"
   authors: Dylan P. Losey, Laura Blumenschein, Janelle Clark, Marcia K. O'Malley
@@ -606,7 +606,7 @@
   year: 2019
   note: ""
   pdf: /pdfs/losey_rate2019.pdf
-  figure: /images/publications/losey_rate2019.png
+  figure: /images/publications/losey_rate2019.webp
 
 - title: "Enabling robots to infer how end-users teach and learn through human-robot interaction"
   authors: Dylan P. Losey, Marcia K. O'Malley
@@ -614,7 +614,7 @@
   year: 2019
   note: ""
   pdf: /pdfs/losey_ral2019.pdf
-  figure: /images/publications/losey_ral2019.png
+  figure: /images/publications/losey_ral2019.webp
 
 - title: "Trajectory deformations from physical human-robot interaction"
   authors: Dylan P. Losey, Marcia K. O'Malley
@@ -622,7 +622,7 @@
   year: 2018
   note: ""
   pdf: /pdfs/losey_tro2018.pdf
-  figure: /images/publications/losey_tro2018.png
+  figure: /images/publications/losey_tro2018.webp
 
 - title: "A review of intent detection, arbitration, and communication aspects of shared control for physical human-robot interaction"
   authors: Dylan P. Losey, Craig G. McDonald, Edoardo Battaglia, Marcia K. O’Malley
@@ -630,7 +630,7 @@
   year: 2018
   note: ""
   pdf: /pdfs/losey_amr2018.pdf
-  figure: /images/publications/losey_amr2018.png
+  figure: /images/publications/losey_amr2018.webp
 
 - title: "Including uncertainty when learning from human corrections"
   authors: Dylan P. Losey, Marcia K. O'Malley
@@ -638,7 +638,7 @@
   year: 2018
   note: ""
   pdf: /pdfs/losey_corl2018.pdf
-  figure: /images/publications/losey_corl2018.jpg
+  figure: /images/publications/losey_corl2018.webp
 
 - title: "Learning from physical human corrections, one feature at a time"
   authors: Andrea Bajcsy, Dylan P. Losey, Marcia K. O’Malley, Anca D. Dragan
@@ -646,7 +646,7 @@
   year: 2018
   note: ""
   pdf: /pdfs/bajcsy_hri2018.pdf
-  figure: /images/publications/bajcsy_hri2018.png
+  figure: /images/publications/bajcsy_hri2018.webp
 
 - title: "Learning robot objectives from physical human interaction"
   authors: Andrea Bajcsy*, Dylan P. Losey*, Marcia K. O’Malley, Anca D. Dragan
@@ -654,7 +654,7 @@
   year: 2017
   note: ""
   pdf: /pdfs/bajcsy_corl2017.pdf
-  figure: /images/publications/bajcsy_corl2017.png
+  figure: /images/publications/bajcsy_corl2017.webp
 
 - title: "Effects of discretization on the K-width of series elastic actuators"
   authors: Dylan P. Losey, Marcia K. O'Malley
@@ -662,7 +662,7 @@
   year: 2017
   note: ""
   pdf: /pdfs/losey_icra2017.pdf
-  figure: /images/publications/losey_icra2017.png
+  figure: /images/publications/losey_icra2017.webp
 
 - title: "A time domain approach to control of series elastic actuators: Adaptive torque and passivity-based impedance control"
   authors: Dylan P. Losey, Andrew Erwin, Craig G. McDonald, Fabrizio Sergi, Marcia K. O’Malley
@@ -670,7 +670,7 @@
   year: 2016
   note: ""
   pdf: /pdfs/losey_tmech2016.pdf
-  figure: /images/publications/losey_tmech2016.png
+  figure: /images/publications/losey_tmech2016.webp
 
 - title: "Minimal assist-as-needed controller for upper limb robotic rehabilitation"
   authors: Ali Utku Pehlivan, Dylan P. Losey, Marcia K. O'Malley
@@ -678,4 +678,4 @@
   year: 2016
   note: ""
   pdf: /pdfs/pehlivan_tro2016.pdf
-  figure: /images/publications/pehlivan_tro2016.png
+  figure: /images/publications/pehlivan_tro2016.webp

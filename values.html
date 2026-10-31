@@ -1,36 +1,30 @@
 ---
 layout: page
 title: Values
+description: "The values of the Collaborative Robotics Lab at Virginia Tech: teamwork, ambition, kindness, respect and fun."
 show_title: true
 permalink: /values/
-tags: values
 ---
-
-
-<style>
-  .link {
-  color: black;
-  }
-  .link:hover {
-      color: #A0D4A4;
-      text-decoration: none;
-  }
-</style>
-
 
 <div>
   <table>
     {% for value in site.data.values %}
     <tr>
       <td>
-        <h3>{{ value.title }}</h3>
+        <h2 class="h3">{{ value.title }}</h2>
         <small>{{ value.note }}</small>
-  	  </td>
+      </td>
       <td style="vertical-align:middle; width:40%;">
-		    <center>
-          <img src="{{ value.picture }}" style="max-height:250px; border-radius: 15px" />
-        </center>
-  	  </td>
+        <div class="text-center">
+          {% if value.picture contains ".mp4" %}
+          <video autoplay loop muted playsinline preload="metadata" aria-label="{{ value.title }}" style="max-height:250px; border-radius: 15px">
+            <source src="{{ value.picture | relative_url }}" type="video/mp4">
+          </video>
+          {% else %}
+          <img src="{{ value.picture | relative_url }}" alt="{{ value.title }}" loading="lazy" decoding="async" style="max-height:250px; border-radius: 15px">
+          {% endif %}
+        </div>
+      </td>
     </tr>
     {% endfor %}
   </table>

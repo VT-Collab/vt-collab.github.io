@@ -1,6 +1,6 @@
 
 - name: Dylan Losey
-  picture: /images/people/dylan.png
+  picture: /images/people/dylan.jpg
   website: https://dylanlosey.com/
   description: Dylan is an Associate Professor in the Mechanical Engineering Department at Virginia Tech.
   rank: leader
@@ -37,7 +37,7 @@
   rank: grad
 
 - name: Sarah Bradshaw
-  picture: /images/people/sarah.png
+  picture: /images/people/sarah.jpg
   website:
   description: Sarah is an MS student in the Mechanical Engineering Department. She is interested in animatronics and human-robotic interaction.
   rank: grad
@@ -82,7 +82,7 @@
   rank: undergrad  
 
 - name: Andre Keyser
-  picture: /images/people/andre.png
+  picture: /images/people/andre.jpg
   description: Andre is an undergraduate student in the Department of Electrical and Computer Engineering.
   rank: undergrad
 
@@ -94,19 +94,19 @@
 
 
 - name: Sagar Parekh
-  picture: /images/people/sagar.png
+  picture: /images/people/sagar.jpg
   website: https://sagarparekh97.github.io/
   description: PhD Student, 2021-2026 (Next - Fujitsu)
   rank: phd-alumni
 
 - name: Shahabedin (Shahab) Sagheb
-  picture: /images/people/shahab.png
+  picture: /images/people/shahab.jpg
   website: https://www.sagheb.net/
   description: PhD Student, 2022-2026 (Next - The Boeing Company)
   rank: phd-alumni
 
 - name: Shaunak Mehta
-  picture: /images/people/shaunak.png
+  picture: /images/people/shaunak.jpg
   website: https://mehtashaunak.github.io/
   description: PhD and MS Student, 2021-2025 (Next - Fujitsu)
   rank: phd-alumni
@@ -118,7 +118,7 @@
   rank: phd-alumni
 
 - name: Ananth Jonnavittula
-  picture: /images/people/ananth.png
+  picture: /images/people/ananth.jpg
   website: https://ananth.fyi/
   description: PhD Student, 2020-2024 (Next - Foundation)
   rank: phd-alumni

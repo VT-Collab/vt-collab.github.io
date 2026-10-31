@@ -1,0 +1,59 @@
+// Collab-specific styles shared by several pages.
+// (Previously duplicated as inline <style> blocks in people, publications and wemet.)
+
+// Small green "Read Paper" / "Personal Website" buttons. These used to be a
+// <button> inside an <a>; the button-specific rules below keep the same look
+// now that the class sits directly on the link.
+.btn {
+  background-color: $dylan-green;
+  color: white;
+  padding: 0 4px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 6px;
+  font-family: $button-font-family;
+  font-weight: $button-font-weight;
+  line-height: $button-line-height;
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active {
+  background-color: #999;
+  color: white;
+  text-decoration: none;
+}
+
+// Replacement for the obsolete <center> element
+.text-center {
+  text-align: center;
+}
+
+// Looping videos that replaced the animated GIFs
+video {
+  max-width: 100%;
+}
+
+// When width/height attributes are given for layout stability, let CSS widths
+// (e.g. width:30% on the logo) scale the height proportionally.
+img[width][height] {
+  height: auto;
+}
+
+// Screen-reader-only text (used for the homepage heading)
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}

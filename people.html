@@ -1,61 +1,35 @@
 ---
 layout: page
 title: People
+description: "Faculty, graduate students, undergraduates and alumni of the Collaborative Robotics Lab (Collab) at Virginia Tech."
 show_title: true
 permalink: /people/
-tags: people
 ---
 
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-
-<style>
-  .btn {
-  background-color: #A0D4A4;
-  color: white;
-  padding: 0px 4px;
-  text-align: center;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 6px
-  }
-  .btn:hover {
-      background-color: #999;
-  }
-</style>
-
 {% for rank in site.data.ranks %}
-{% assign members = 0 %}
-{% for person in site.data.people %}
-  {% if rank.keyword == person.rank %}
-    {% assign members = 1 %}
-  {% endif %}
-{% endfor %}
-{% if members > 0 %}
+{%- assign members = site.data.people | where: "rank", rank.keyword %}
+{%- if members.size > 0 %}
 <h2>{{ rank.display }}</h2>
 <div>
   <table>
-    {% for person in site.data.people %}
-    {% if person.rank == rank.keyword %}
+    {% for person in members %}
     <tr>
-      <td width="155">
+      <td style="width:155px;">
         {% if person.picture.size > 0 %}
-        <img src="{{ person.picture | default: '/images/people/default.jpg' }}" width="150" style="border-radius:10px;" />
+        <img src="{{ person.picture | relative_url }}" alt="Portrait of {{ person.name | strip }}" width="150" loading="lazy" decoding="async" style="border-radius:10px;">
         {% endif %}
       </td>
       <td>
         <h3>{{ person.name }}</h3>
         {{ person.description }}
         {% if person.website.size > 0 %}
-        <br><small><a href="{{ person.website }}" style="text-decoration:none;"><button class="btn">
-          <i class="fa fa-external-link"></i> Personal Website</button></a></small>
+        <br><small><a class="btn" href="{{ person.website }}">
+          <i class="fa fa-external-link" aria-hidden="true"></i> Personal Website</a></small>
         {% endif %}
       </td>
     </tr>
-    {% endif %}
     {% endfor %}
   </table>
-{% endif %}
 </div>
+{%- endif %}
 {% endfor %}
