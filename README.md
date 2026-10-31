@@ -20,7 +20,7 @@ Everything shown on the site comes from the YAML files in `_data/`:
 | --- | --- |
 | `news.yml` | News list on the home page (newest first, top five shown) |
 | `people.yml`, `ranks.yml` | People page (ranks control section order and labels) |
-| `publications.yml` | Publications page, grouped by `year` automatically |
+| `publications.yml` | Publications page, grouped by `year` automatically. Optional `website:` adds a "Project Website" button |
 | `values.yml` | Values page |
 | `photos.yml` | Photos page, newest first |
 

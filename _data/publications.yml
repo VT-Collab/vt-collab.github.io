@@ -5,6 +5,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/dai_2026a.pdf
+  website: https://collab.me.vt.edu/CASTER/
   figure: /images/publications/dai_2026a.webp
 
 - title: "Assisting for open-ended tasks: Goal-oriented shared autonomy as a particle filter"
@@ -77,6 +78,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/sagar_2026.pdf
+  website: https://collab.me.vt.edu/TransMASK/
   figure: /images/publications/sagar_2026.webp
 
 - title: "From local corrections to generalized skills: Improving neuro-symbolic policies with MEMO"
@@ -85,6 +87,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/ben_iros2026.pdf
+  website: https://collab.me.vt.edu/memo/
   figure: /images/publications/ben_iros2026.webp
 
 - title: "A pivot-based kirigami utensil for hand-held and robot-assisted feeding"
@@ -133,6 +136,7 @@
   year: 2026
   note: ""
   pdf: /pdfs/dai_2026.pdf
+  website: https://collab.me.vt.edu/lmp/
   figure: /images/publications/dai_2026.webp
 
 - title: "Shared control/autonomy in human-robot interaction: Current trends and the role of generative AI"
@@ -165,6 +169,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/sagar_auro2025.pdf
+  website: https://collab.me.vt.edu/data_curation/
   figure: /images/publications/sagar_auro2025.webp
 
 - title: "Safe and transparent robots for human-in-the-loop meat processing"
@@ -189,6 +194,7 @@
   year: 2025
   note: ""
   pdf: /pdfs/shaunak_auro2025.pdf
+  website: https://collab.me.vt.edu/L2D2/
   figure: /images/publications/shaunak_auro2025.webp
 
 - title: "Counterfactual behavior cloning: Offline imitation learning from imperfect human demonstrations"
@@ -269,6 +275,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/shaunak_ral2024.pdf
+  website: https://collab.me.vt.edu/Stable-BC/
   figure: /images/publications/shaunak_ral2024.webp
 
 - title: "VIEW: Visual imitation learning with waypoints"
@@ -277,6 +284,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/ananth_auro2024.pdf
+  website: https://collab.me.vt.edu/view/
   figure: /images/publications/ananth_auro2024.webp
 
 - title: "Combining and decoupling rigid and soft grippers to enhance robotic manipulation"
@@ -301,6 +309,7 @@
   year: 2024
   note: ""
   pdf: /pdfs/shaunak_iros2024.pdf
+  website: https://collab.me.vt.edu/rl-waypoints/
   figure: /images/publications/shaunak_iros2024.webp
 
 - title: "Aligning learning with communication in shared autonomy"

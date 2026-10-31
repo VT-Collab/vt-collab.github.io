@@ -1,6 +1,6 @@
 # Site settings
-title: Collab
-tagline: Collaborative Robotics Lab at Virginia Tech
+title: Collab at Virginia Tech
+tagline: Collaborative Robotics Lab
 description: "Collaborative Robotics Lab at Virginia Tech. We create learning and control algorithms for robots that collaborate with people."
 url: "https://collab.me.vt.edu"
 baseurl: ""
@@ -14,6 +14,10 @@ social:
   links:
     - https://www.youtube.com/@collab-robotics
     - https://github.com/VT-Collab
+
+# Search engine ownership verification (rendered as meta tags by jekyll-seo-tag)
+webmaster_verifications:
+  google: HK2-6g44lnsXzzJMQ8js0uyaDG2nlSZBFX5EJV6ScJo
 
 # Default social-preview image for every page (1200 x 630)
 defaults:

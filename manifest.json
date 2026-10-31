@@ -2,8 +2,8 @@
 layout: null
 ---
 {
-  "short_name": "{{ site.title }}",
-  "name": "{{ site.tagline }}",
+  "short_name": "Collab",
+  "name": "{{ site.title }}",
   "description": "{{ site.description | replace: '"', '\"' }}",
   "icons": [
     {

@@ -23,6 +23,10 @@ permalink: /publications/
         {% if paper.pdf.size > 0 %}
         <a class="btn" href="{{ paper.pdf | relative_url }}">
           <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Read Paper</a>
+        {% endif %}
+        {% if paper.website.size > 0 %}
+        <a class="btn" href="{{ paper.website }}">
+          <i class="fa fa-puzzle-piece fa-flip-horizontal" aria-hidden="true"></i> Project Website</a>
         {% endif %}</small>
       </td>
       <td style="vertical-align:middle; width:30%;">
