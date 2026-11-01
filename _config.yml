@@ -14,7 +14,7 @@ social:
   links:
     - https://www.youtube.com/@collab-robotics
     - https://github.com/VT-Collab
-    - https://www.linkedin.com/company/108573806/
+    - https://www.linkedin.com/company/collaborative-robotics-lab-collab/
 
 # Search engine ownership verification (rendered as meta tags by jekyll-seo-tag)
 webmaster_verifications:
@@ -37,7 +37,7 @@ header_pages:
 
 show_social_icons: true
 youtube_id: UCVUHS9JE0tSakziQFkThhVQ
-linkedin: https://www.linkedin.com/company/108573806/
+linkedin: https://www.linkedin.com/company/collaborative-robotics-lab-collab/
 photos: photos
 wemet: wemet
 
