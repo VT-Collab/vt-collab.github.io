@@ -6,6 +6,9 @@
     {%- if site.photos %}
     <a class="fa fa-camera" href="{{ site.photos | prepend: '/' | relative_url }}" aria-label="Lab photos"></a>
     {%- endif %}
+    {%- if site.linkedin %}
+    <a class="fa fa-linkedin" href="{{ site.linkedin }}" aria-label="Collab on LinkedIn"></a>
+    {%- endif %}
     {%- if site.wemet %}
     <a class="fa fa-coffee" href="{{ site.wemet | prepend: '/' | relative_url }}" aria-label="WeMET"></a>
     {%- endif %}
