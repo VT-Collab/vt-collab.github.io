@@ -2,6 +2,36 @@
 # Add new photos to images/photos/ (resize to <= 1600 px on the long edge first)
 # and list them here; the optional "alt" overrides the section title as alt text.
 
+- title: "Fall 26: Collab Hosts the Second Annual Virginia Robotics Symposium!"
+  images:
+    - src: /images/photos/fall26-4.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/fall26-3.jpg
+      width: 1600
+      height: 1200
+
+- title: "Fall 26: Collab + VT Goes to IROS"
+  images:
+    - src: /images/photos/fall26-2.jpg
+      width: 1600
+      height: 1200
+    - src: /images/photos/fall26-1.jpg
+      width: 1600
+      height: 1200
+
+- title: "Summer 26: Hosting a Workshop at ICRA"
+  images:
+    - src: /images/photos/summer26-2.jpg
+      width: 1600
+      height: 1200
+
+- title: "Summer 26: Shaunak Graduates!"
+  images:
+    - src: /images/photos/summer26-1.jpg
+      width: 1600
+      height: 1200
+
 - title: "Spring 26: Shahab and Sagar Defend their Ph.D. Dissertations!"
   images:
     - src: /images/photos/spring26-2.jpg
