@@ -6,7 +6,7 @@
   note: ""
   pdf: /pdfs/ben_2026-3.pdf
   website: https://collab.me.vt.edu/inner/
-  figure: /images/publications/ben_2026-3.png
+  figure: /images/publications/ben_2026-3.webp
 
 - title: "CASTER: Formalizing zero-shot manipulation from synthetic videos as constrained optimization"
   authors: Yinlong Dai, Homanga Bharadhwaj, Dylan P. Losey
