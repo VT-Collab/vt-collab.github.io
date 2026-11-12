@@ -1,4 +1,13 @@
 
+- title: "Inner product regularization for imitation learning"
+  authors: Benjamin A. Christie, Tianyu Qiu, Amy H. Choi, David Fridovich-Keil, Dylan P. Losey
+  venue: ""
+  year: 2026
+  note: ""
+  pdf: /pdfs/ben_2026-3.pdf
+  website: https://collab.me.vt.edu/inner/
+  figure: /images/publications/ben_2026-3.png
+
 - title: "CASTER: Formalizing zero-shot manipulation from synthetic videos as constrained optimization"
   authors: Yinlong Dai, Homanga Bharadhwaj, Dylan P. Losey
   venue: ""
